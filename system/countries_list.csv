@@ -1,0 +1,328 @@
+TAG,地域,JP,capital,LTL,STL,TTL,ATL,NTL,ITL,DID,PID,TL,PS
+ALG,Africa,アルジェリア,459,0,-,-,-,-,-,-,n,-,-
+ANG,Africa,アンゴラ,540,0,m,-,-,-,-,-,n,-,N
+BOT,Africa,ボツワナ,542,0,m,-,-,-,-,-,n,-,N
+BRD,Africa,ブルンジ,769,0,-,-,-,-,-,-,d,-,-
+CHA,Africa,チャド,774,0,-,-,-,-,-,-,n,-,-
+CMR,Africa,カメルーン,773,0,-,-,-,-,-,-,n,-,-
+COG,Africa,コンゴ,295,0,m,-,-,-,-,-,n,-,N
+DAH,Africa,ダホメ,776,0,-,-,-,-,-,-,n,-,-
+DJI,Africa,ジブチ,268,0,-,-,-,-,-,-,n,-,-
+EGY,Africa,ｴｼﾞﾌﾟﾄ,446,0,-,0,-,-,-,-,n,-,-
+EQG,Africa,赤道ギニア,297,0,-,-,-,-,-,-,n,-,-
+ERI,Africa,エリトリア,550,0,-,-,-,-,-,-,d,-,-
+ETH,Africa,エチオピア,271,0,m,-,-,-,-,-,n,-,-
+GAB,Africa,ガボン,539,0,-,-,-,-,-,-,n,-,-
+GAM,Africa,ガンビア,701,0,-,-,-,-,-,-,d,-,-
+GHA,Africa,ガーナ,274,0,-,-,-,-,-,-,n,-,-
+GNA,Africa,ギニア,780,0,-,-,-,-,-,-,n,-,-
+GNB,Africa,ギニアビサウ,296,0,-,-,-,-,-,-,C,-,-
+IVO,Africa,コートジボワール,779,0,-,-,-,-,-,-,n,-,-
+KEN,Africa,ケニア,547,0,m,-,-,-,-,-,N,-,N
+LBA,Africa,リビア,448,-,-,-,-,-,-,-,n,-,-
+LIB,Africa,リベリア,298,0,-,-,-,-,-,-,-,-,-
+MAD,Africa,マダガスカル,543,0,-,-,-,-,-,-,N,-,-
+MAR,Africa,モロッコ,448,0,-,-,-,-,-,-,1,-,-
+MLI,Africa,マリ,556,0,-,-,-,-,-,-,n,-,-
+MLW,Africa,マラウィ,770,0,-,-,-,-,-,-,n,-,-
+MRT,Africa,モーリタニア,557,0,-,-,-,-,-,-,n,-,-
+MZB,Africa,モザンビーク,544,0,m,-,-,-,-,-,n,-,N
+NGA,Africa,ナイジェリア,558,0,-,-,-,-,-,-,n,-,-
+NGR,Africa,ニジェール,781,0,-,-,-,-,-,-,n,-,-
+NMB,Africa,ナミビア,541,0,-,-,-,-,-,-,d,-,-
+RCG,Africa,中部コンゴ,772,0,-,-,-,-,-,-,n,-,-
+RWA,Africa,ルワンダ,768,0,-,-,-,-,-,-,n,-,-
+SEN,Africa,セネガル,272,0,-,-,-,-,-,-,d,-,-
+SIE,Africa,シエラレオネ,700,0,-,-,-,-,-,-,d,-,-
+SOM,Africa,ソマリア,559,0,-,-,-,-,-,-,n,-,-
+SUD,Africa,スーダン,551,0,-,-,-,-,-,-,n,-,-
+TOG,Africa,トーゴ,614,-,-,-,-,-,-,-,s,-,-
+TUN,Africa,チュニジア,458,0,-,-,-,-,-,-,n,-,-
+TZN,Africa,タンザニア,546,0,-,-,-,-,-,-,n,-,-
+UGA,Africa,ウガンダ,548,0,-,-,-,-,-,-,d,-,-
+VOL,Africa,オートボルタ,778,0,-,-,-,-,-,-,n,-,-
+WES,Africa,サハラ砂漠,271,-,-,-,-,-,-,-,n,-,-
+ZAM,Africa,ザンビア,771,0,-,-,-,-,-,-,d,-,-
+ZIM,Africa,ジンバブエ,545,0,m,-,-,-,-,-,N,-,N
+CAR,Africa,中央アフリカ,660,0,-,-,-,-,-,-,n,-,-
+PML,Africa,メリリャ,1098,-,-,-,-,-,-,-,-,-,-
+CEU,Africa,セウタ,1101,-,-,-,-,-,-,-,-,-,-
+AFG,Asia,アフガニスタン,267,0,-,1,-,-,-,-,n,-,-
+ALT,Asia,アルタイ,654,3,2,1,2,3,-,0,d,-,-
+BAN,Asia,バングラデシュ,430,0,-,-,-,-,-,-,d,-,-
+BHU,Asia,ブータン,324,0,m,-,-,-,-,-,n,-,N
+BRM,Asia,ビルマ,288,0,-,-,-,-,-,-,d,-,-
+BUK,Asia,ブハラ,830,3,2,1,2,3,-,0,d,-,-
+BYA,Asia,ブリヤート,564,3,2,1,2,3,-,0,d,-,-
+CHN,Asia,中華,622,2,2,2,-,2,1,0,C,-,-
+CKK,Asia,チュクチ,822,3,2,1,2,3,-,0,d,-,-
+FER,Asia,極東,563,3,2,1,2,3,-,0,d,1,-
+FIJ,Asia,フィジー,636,0,-,-,-,-,-,-,d,-,-
+FSM,Asia,ミクロネシア,684,0,-,-,-,-,-,-,d,-,-
+GMI,Asia,グアム,638,0,-,-,-,-,-,-,d,-,-
+GXC,Asia,広西,594,0,-,-,-,-,-,-,n,-,N
+HAW,Asia,ハワイ,629,1,1,-,1,-,2,0,-,-,-
+IDN,Asia,インドネシア,288,0,-,-,-,-,-,-,N,-,-
+IND,Asia,インド,439,1,0,0,-,0,1,0,-,-,-
+JPN,Asia,日本,902,2,2,3,-,4,2,-,M,2,M
+KAZ,Asia,カザフスタン,586,3,2,1,2,3,-,0,-,1,-
+KHI,Asia,ヒヴァ,831,3,2,1,2,3,-,0,d,-,-
+KHM,Asia,カンボジア,741,1,-,-,-,-,-,-,-,1,-
+KKP,Asia,カラカルパクスタン,823,3,2,1,2,3,-,0,d,-,-
+KOR,Asia,朝鮮,525,0,-,-,-,-,-,-,m,-,-
+KYR,Asia,キルギス,732,0,-,-,-,-,-,-,d,-,-
+LAO,Asia,ラオス,670,1,-,-,-,-,-,-,-,1,-
+MAL,Asia,マレーシア,336,1,0,1,-,-,-,-,-,1,-
+MAN,Asia,満州,328,0,-,-,-,-,-,-,F,-,-
+MDV,Asia,モルディブ,281,0,-,-,-,-,-,-,-,-,-
+MEN,Asia,蒙古,611,0,-,-,-,-,-,-,F,-,-
+MON,Asia,ガンダーラ,330,0,-,-,-,-,-,-,1,-,-
+NEN,Asia,ネネツ,825,3,2,1,2,3,-,0,d,1,-
+NEP,Asia,ネパール,323,0,m,-,-,-,-,-,n,-,N
+PAK,Asia,パキスタン,440,1,0,-,-,-,-,-,-,-,-
+PHI,Asia,フィリピン,327,1,-,-,-,-,-,-,-,-,-
+PNG,Asia,パプアニューギニア,523,0,-,-,-,-,-,-,d,-,-
+SHX,Asia,山西,615,0,-,-,-,-,-,-,n,-,N
+SIA,Asia,シャム,289,0,-,-,0,-,-,-,n,-,-
+SIK,Asia,新彊,617,0,-,-,-,-,-,-,C,-,-
+SMA,Asia,サモア,614,0,0,-,-,-,-,-,s,-,-
+SOL,Asia,ソロモン諸島,634,0,-,-,-,-,-,-,d,-,-
+SRL,Asia,スリランカ,422,0,-,-,-,-,-,-,d,-,-
+TAH,Asia,タヒチ,641,0,-,-,-,-,-,-,n,-,-
+TAJ,Asia,タジキスタン,742,0,-,-,-,-,-,-,d,-,-
+TIB,Asia,チベット,757,0,-,-,-,-,-,-,n,-,N
+TMS,Asia,トルクメニスタン,584,0,-,-,-,-,-,-,d,-,-
+UZB,Asia,ウズベキスタン,405,0,-,-,-,-,-,-,d,-,-
+VLA,Asia,ウラジオストク,408,3,2,1,2,3,-,0,d,1,-
+VNM,Asia,ベトナム,671,0,-,-,-,-,-,-,M,-,-
+XSM,Asia,西北,604,0,-,-,-,-,-,-,n,-,N
+YAK,Asia,サハ,574,3,2,1,2,3,-,0,d,-,-
+YAM,Asia,ヤマリア,579,3,2,1,2,3,-,0,d,-,-
+YUN,Asia,雲南,325,0,-,-,-,-,-,-,n,-,-
+KDB,Asia,コンバウン王国,288,-,-,-,-,-,-,-,-,-,-
+CHK,Asia,中国,613,0,-,0,1,B,-,0,-,-,-
+BKK,Asia,バンコク,289,0,-,-,0,3,-,-,n,-,-
+CCS,Asia,南西諸島,926,1,0,1,-,1,-,-,N,1,-
+CHI,Asia,中華,613,0,-,0,1,B,-,0,d,-,-
+CTO,Asia,威海衛,942,1,0,1,-,2,-,-,m,1,-
+DRS,Asia,シンガポール,839,1,0,1,-,2,-,-,-,1,-
+EAH,Asia,地球,902,1,0,1,-,B,-,-,N,1,-
+EJR,Asia,東方エルサレム,942,1,0,1,-,1,-,-,N,1,-
+JYO,Asia,上,614,-,-,-,-,-,-,-,s,-,-
+ERO,Asia,エロマンガ,284,0,-,-,-,-,-,-,1,-,-
+FRP,Asia,太平洋,632,1,0,1,-,2,-,-,N,1,-
+GEN,Asia,元寇,614,-,-,-,-,-,-,-,s,-,-
+SHI,Asia,志,614,-,-,-,-,-,-,-,s,-,-
+THR,Asia,三,614,-,-,-,-,-,-,-,s,-,-
+KSM,Asia,カシミール,513,0,-,-,-,-,-,-,1,-,-
+MME,Asia,満州＝蒙古,328,-,-,-,-,-,-,-,m,2,-
+MUU,Asia,ムー,887,1,0,1,-,-,-,-,N,1,-
+NSI,Asia,北センチネル島,943,-,-,-,-,1,-,-,0,4,-
+NTS,Asia,ナントカスタン,405,0,-,-,-,-,-,-,d,-,-
+ORI,Asia,沖縄諸島,526,1,0,1,-,-,-,-,N,1,-
+PPP,Asia,プププ・ランド,847,1,0,1,-,-,-,-,0,1,-
+PRC,Asia,漢,622,0,-,-,-,-,-,-,s,-,-
+PRK,Asia,北朝鮮,555,1,0,1,-,-,-,-,-,1,-
+KOK,Asia,國,614,-,-,-,-,-,-,-,s,-,-
+SBR,Asia,シベリア,576,1,0,1,0,-,0,-,-,1,-
+SCC,Asia,上海,945,1,0,1,-,-,-,-,m,1,-
+SJK,Asia,スリジャヤワルダナプラコッテ,713,1,0,1,-,-,-,-,N,1,-
+TBH,Asia,徳川,902,1,0,1,-,-,-,-,0,1,-
+TWN,Asia,台湾（タイ）,543,1,-,-,-,-,-,-,-,2,-
+SWK,Asia,サラワク,333,-,-,-,-,-,-,-,-,-,-
+SUS,Asia,スールー,333,0,-,-,-,-,-,-,n,-,-
+HRH,Asia,ハットリバー,1097,-,-,-,-,-,-,-,-,-,-
+AST,Commonwealth,オーストラリア,518,2,0,0,2,3,0,a,A,-,-
+CAN,Commonwealth,カナダ,471,1,1,-,1,2,-,0,-,1,-
+GBR,Commonwealth,イギリス,126,3,2,1,3,4,2,-,-,2,-
+NZL,Commonwealth,ニュージーランド,284,1,0,0,-,2,-,-,-,-,-
+ZAF,Commonwealth,南アフリカ,275,1,0,0,4,1,0,a,-,-,-
+LOM,Commonwealth,マン島,1090,-,-,-,-,-,-,-,-,-,-
+GGY,Commonwealth,ガーンジー,1099,-,-,-,-,-,-,-,-,-,M
+JEY,Commonwealth,ジャージー,1100,-,-,-,-,-,-,-,-,-,M
+GIB,Commonwealth,ジブラルタル,118,-,-,-,-,-,-,-,-,-,-
+ALB,Eastern Europe,アルバニア,44,0,0,-,-,-,-,-,n,-,N
+BLR,Eastern Europe,ベラルーシ,206,3,2,1,2,3,-,0,-,1,-
+BOS,Eastern Europe,ボスニア,104,1,1,1,0,-,-,-,d,1,-
+BSK,Eastern Europe,バシコルトスタン,651,3,2,1,2,3,-,0,d,1,-
+BUL,Eastern Europe,ブルガリア,48,2,-,-,0,-,0,-,-,-,-
+CHU,Eastern Europe,チュヴァシ,256,3,2,1,2,3,-,0,d,1,-
+CIN,Eastern Europe,北カフカース,821,3,2,1,2,3,-,0,d,1,-
+CRI,Eastern Europe,クリミア,137,3,2,1,1,2,-,0,F,-,-
+CRO,Eastern Europe,クロアチア,109,1,1,-,-,2,-,-,N,-,-
+CYP,Eastern Europe,キプロス,183,0,-,-,-,-,-,-,d,-,-
+DAG,Eastern Europe,ダゲスタン,232,3,2,1,2,3,-,0,d,1,-
+DDR,Eastern Europe,東ドイツ,64,2,1,3,4,4,2,1,c,2,-
+DNZ,Eastern Europe,ダンツィヒ,85,2,2,2,2,2,-,0,-,1,-
+DON,Eastern Europe,ドン,218,1,1,1,0,1,-,-,N,-,-
+EST,Eastern Europe,エストニア,812,1,-,-,0,0,-,-,-,1,-
+FIN,Eastern Europe,フィンランド,111,2,1,-,1,2,-,-,-,1,-
+GRC,Eastern Europe,ギリシャ,47,0,1,-,-,3,1,-,-,1,-
+HRZ,Eastern Europe,ヘルツェゴビナ,804,1,1,1,0,2,-,-,N,1,-
+HUN,Eastern Europe,ハンガリー,43,1,0,0,1,-,0,-,-,1,-
+KAR,Eastern Europe,カレリア,216,3,2,1,2,3,-,0,d,1,-
+KBK,Eastern Europe,カバルダ＝バルカル,827,3,2,1,2,3,-,0,d,1,-
+KOM,Eastern Europe,コミ,397,3,2,1,2,3,-,0,d,1,-
+KSH,Eastern Europe,カシュビア,807,1,0,-,-,-,-,-,d,1,-
+KUB,Eastern Europe,クバン,234,-,1,1,-,-,-,-,N,-,-
+LAT,Eastern Europe,ラトビア,808,1,-,-,-,-,-,-,-,1,-
+LIT,Eastern Europe,リトアニア,11,1,-,-,-,-,-,-,-,1,-
+MEL,Eastern Europe,マリ・エル,833,3,2,1,2,3,-,0,d,1,-
+MNT,Eastern Europe,モンテネグロ,105,1,0,1,-,-,-,-,N,1,-
+NOA,Eastern Europe,北オセチア,828,3,2,1,2,3,-,0,d,1,-
+OVO,Eastern Europe,ユグラ,580,3,2,1,2,3,-,0,d,-,-
+POL,Eastern Europe,パーティション,847,2,0,0,1,-,-,-,-,1,-
+PRE,Eastern Europe,プロイセン,64,2,1,3,4,0,2,1,N,1,-
+RDM,Eastern Europe,モルダヴィア,78,-,0,-,-,-,-,-,-,1,-
+ROM,Eastern Europe,ルーマニア,46,-,0,1,-,-,-,-,-,1,-
+RUS,Eastern Europe,ロシア,219,3,2,1,-,-,-,-,m,1,-
+SAX,Eastern Europe,ザクセン,65,2,1,3,4,0,2,1,N,1,-
+SER,Eastern Europe,セルビア,107,1,0,1,0,-,0,-,N,1,-
+SIL,Eastern Europe,シレジア,66,1,0,-,-,-,-,-,d,1,-
+SLO,Eastern Europe,スロバキア,70,-,-,1,1,-,-,-,-,-,-
+SLV,Eastern Europe,スロベニア,102,-,0,-,-,-,-,-,N,1,-
+SOV,Eastern Europe,ソビエト,408,2,2,1,S,B,2,1,-,1,-
+TAT,Eastern Europe,タタールスタン,249,3,2,1,2,3,-,0,d,1,-
+TAY,Eastern Europe,タイミル,516,3,2,1,2,3,-,0,d,-,-
+TRA,Eastern Europe,トランシルバニア,84,-,1,1,-,-,-,-,d,1,-
+UDM,Eastern Europe,ウドムルト,399,3,2,1,2,3,-,0,d,1,-
+UKR,Eastern Europe,ウクライナ,202,3,2,1,2,3,-,0,-,1,-
+VGE,Eastern Europe,ヴォルガ,829,3,2,1,2,3,-,0,d,1,-
+ROR,Eastern Europe,ラグサ,1088,-,-,-,-,-,-,-,-,-,-
+POC,Eastern Europe,ラグサ,1089,-,-,-,-,-,-,-,-,-,-
+FIS,Eastern Europe,フェロー,337,-,-,-,-,-,-,-,-,-,-
+BTB,Eastern Europe,バトル,204,3,2,1,2,3,-,0,c,1,-
+BTG,Eastern Europe,バトル,204,3,2,1,2,3,-,0,-,1,-
+BTL,Eastern Europe,バトル,202,3,2,1,2,3,-,0,d,1,-
+BTP,Eastern Europe,バトル,96,3,2,1,2,3,-,0,m,1,-
+BTW,Eastern Europe,バトル,202,3,2,1,2,3,-,0,0,1,-
+BTY,Eastern Europe,バトル,204,3,2,1,2,3,-,0,-,1,-
+DPK,Eastern Europe,トランスニストリア,805,2,0,1,-,-,2,0,M,2,M
+MOS,Eastern Europe,モスクワ,408,1,0,1,S,B,0,-,m,2,-
+MYS,Eastern Europe,謎,107,-,0,-,-,-,-,-,-,1,-
+GOC,Eastern Europe,アトス,1102,-,-,-,-,-,-,-,-,-,-
+ABK,Middle East,アブハジア,826,3,2,1,2,4,-,0,d,1,-
+ARM,Middle East,アルメニア,230,3,2,1,2,3,-,0,-,1,-
+AZR,Middle East,アゼルバイジャン,229,3,2,-,2,3,-,0,-,1,-
+GEO,Middle East,グルジア,231,3,2,1,2,3,-,0,-,1,-
+IRN,Middle East,イラン,421,0,-,0,-,-,0,-,d,-,-
+IRQ,Middle East,イラク,291,1,-,-,1,-,-,-,n,-,-
+ISR,Middle East,イスラエル,231,0,-,0,-,-,0,-,N,-,-
+JOR,Middle East,ヨルダン,455,0,-,0,-,-,-,-,n,-,-
+KUR,Middle East,クルディスタン,800,1,-,-,-,-,-,-,-,-,-
+KUW,Middle East,クウェート,656,0,-,-,-,-,-,-,d,-,-
+LEB,Middle East,レバノン,553,-,-,-,-,-,-,-,d,-,-
+OMA,Middle East,オマーン,294,0,-,-,-,-,-,-,n,-,N
+PSE,Middle East,パレスチナ,328,0,-,-,-,-,-,-,F,-,-
+QAT,Middle East,カタール,658,0,-,-,-,-,-,-,d,-,-
+SAU,Middle East,サウジアラビア,292,-,-,-,-,-,-,-,n,-,N
+SYR,Middle East,シリア,554,-,-,-,-,-,-,-,d,-,-
+TUR,Middle East,トルコ,49,1,-,1,1,-,-,-,-,1,-
+UAE,Middle East,トルーシャル・オマーン,690,0,-,-,-,-,-,-,n,-,-
+YEM,Middle East,イエメン,293,0,-,-,-,-,-,-,n,-,N
+ARG,South America,アルゼンチーナ,278,0,-,-,-,-,-,-,S,-,-
+BAH,South America,バハマ,690,0,-,-,-,-,-,-,d,-,-
+BAS,South America,西インド諸島,692,0,-,-,-,-,-,-,d,-,-
+BLZ,South America,ベリーズ,311,0,-,-,-,-,-,-,d,-,-
+BOL,South America,ボリビア,302,0,0,-,0,-,0,-,-,-,N
+BRA,South America,ブラジル,500,2,0,0,0,3,-,-,N,-,N
+CAY,South America,カイエンヌ,310,0,-,-,-,-,-,-,d,-,-
+CHL,South America,チリ,279,0,-,-,1,3,-,-,-,1,-
+COL,South America,コロンビア,306,1,0,-,1,1,-,-,-,-,-
+COS,South America,コスタリカ,316,0,-,-,-,-,-,-,-,-,-
+CRC,South America,キュラソー,695,0,-,-,-,-,-,-,d,-,-
+CUB,South America,キューバ,865,2,1,-,4,-,2,-,-,-,-
+DOM,South America,ドミニカ,319,0,-,-,-,-,-,-,-,-,-
+ECU,South America,エクアドル,649,0,-,-,-,-,-,-,1,-,-
+ELS,South America,エルサルバドル,314,0,-,-,0,-,-,-,-,-,-
+GDR,South America,グアドループ,330,0,-,-,-,-,-,-,C,-,-
+GUA,South America,グアテマラ,313,0,-,-,0,-,-,-,-,-,-
+GYA,South America,ガイアナ,687,0,-,-,-,-,-,-,d,-,-
+HAI,South America,ハイチ,318,0,-,-,-,-,-,-,-,-,-
+HON,South America,ホンジュラス,312,0,-,-,-,-,-,-,-,-,-
+JAM,South America,ジャマイカ,689,0,-,-,-,-,-,-,d,-,-
+MEX,South America,メキシコ,992,0,-,-,-,-,-,-,N,-,-
+NIC,South America,ニカラグア,317,-,-,-,-,-,-,-,-,-,-
+PAN,South America,パナマ,304,0,-,-,-,-,-,-,-,-,-
+PAR,South America,パラグアイ,301,-,-,-,-,-,-,-,c,-,-
+PRU,South America,ペルー,303,0,-,-,-,-,-,-,-,-,-
+PUE,South America,プエルトリコ,686,0,-,-,-,-,-,-,d,-,-
+SUR,South America,スリナム,309,0,-,-,-,-,-,-,d,-,-
+TRI,South America,トリニダード,691,0,-,-,-,-,-,-,d,-,-
+URG,South America,ウルグアイ,300,0,-,-,-,-,-,-,-,-,-
+VEN,South America,ベネズエラ,307,-,-,-,-,-,-,-,F,-,-
+AMA,South America,アマゾン,540,0,-,-,-,-,-,-,1,-,-
+INK,South America,インカ,303,0,-,-,2,2,-,-,-,-,-
+RED,South America,レドンダ,1004,1,0,1,-,-,-,-,M,2,M
+SAM,South America,南アメリカ,304,1,0,1,-,-,-,-,-,1,-
+ADU,Western Europe,アンダルシア,789,1,1,-,1,-,-,-,n,-,-
+AUS,Western Europe,エミュー,521,1,1,-,0,-,-,-,n,1,-
+BAY,Western Europe,バイエルン,52,2,1,3,4,0,2,1,N,1,-
+BEL,Western Europe,ベルギー,6,1,2,-,1,-,1,-,b,1,-
+BRI,Western Europe,ブルターニュ,14,1,1,-,4,-,1,a,N,1,-
+CAT,Western Europe,カタルーニャ,165,1,1,-,1,-,-,-,d,-,-
+COR,Western Europe,コルシカ,1,2,1,2,-,4,1,1,d,1,-
+CSA,Western Europe,ディキシーランド,361,2,1,0,3,2,-,1,-,1,-
+CZE,Western Europe,チェコ,9,1,1,2,1,-,1,0,-,-,-
+DEN,Western Europe,デンマーク,37,1,1,-,1,-,-,-,-,1,-
+DEU,Western Europe,ドイツ,64,2,1,3,4,-,2,-,-,2,-
+ESP,Western Europe,スペイン,307,2,1,-,1,3,-,-,-,1,-
+FRA,Western Europe,フランス,16,1,0,-,-,-,-,-,M,2,-
+GLC,Western Europe,ガリシア,171,1,1,-,1,-,-,-,d,-,-
+HAN,Western Europe,ハノーファー,59,2,1,3,4,0,2,1,N,1,-
+HOL,Western Europe,ホラント,7,-,-,-,-,-,-,-,-,1,-
+IRE,Western Europe,アイルランド,113,1,-,-,-,-,0,-,-,1,-
+ISL,Western Europe,アイスランド,100,1,-,-,-,-,-,-,-,1,-
+ITA,Western Europe,イタリア,2,1,0,1,-,-,-,-,-,2,-
+LUX,Western Europe,ルクセンブルク,8,1,-,-,-,-,-,-,-,-,-
+MEK,Western Europe,メクレンブルク,61,2,1,3,4,0,2,1,N,1,-
+MLT,Western Europe,マルタ,116,0,-,-,-,-,-,-,1,-,-
+NAV,Western Europe,ナバラ,792,1,1,-,1,-,-,-,d,-,-
+NIR,Western Europe,北アイルランド,119,1,-,-,-,-,-,-,-,1,-
+NOR,Western Europe,ノルウェイ,923,1,-,-,-,-,-,-,-,1,-
+OCC,Western Europe,オクシタニア,31,1,0,-,-,-,-,-,d,1,-
+PRT,Western Europe,ポルトガル,321,2,0,-,1,B,-,-,-,1,-
+RSK,Western Europe,両シチリア,117,1,0,1,-,-,-,-,M,2,M
+SCO,Western Europe,スコットランド,121,0,-,-,-,-,-,-,d,-,-
+SHL,Western Europe,シュレースヴィヒ,58,2,1,3,4,0,2,1,N,1,-
+SRV,Western Europe,ヴェネツィア,1004,1,0,1,-,-,-,-,M,2,M
+SWE,Western Europe,スウェーデン,141,1,-,1,-,-,-,-,-,1,-
+SWI,Western Europe,スイス,3,1,1,-,1,-,0,-,-,1,-
+TOS,Western Europe,トスカーナ,162,1,0,1,-,-,-,-,M,2,M
+USA,Western Europe,アメリカ,361,2,0,0,3,-,-,-,-,2,-
+USB,Western Europe,アメリカ,361,2,0,0,3,-,-,-,-,1,-
+WGR,Western Europe,西ドイツ,64,2,1,3,4,-,-,-,d,2,-
+WLS,Western Europe,ウェールズ,122,-,-,-,-,-,-,-,d,-,-
+WUR,Western Europe,ヴュルテンベルク,50,2,1,3,4,0,2,1,N,1,-
+ADR,Western Europe,アンドラ,925,0,-,-,-,-,-,-,1,-,-
+ATL,Western Europe,アトランティス,710,1,0,-,-,1,-,-,0,4,-
+BLX,Western Europe,ベネルクス,7,1,0,-,1,B,1,0,M,1,M
+CLF,Western Europe,カリフォルニア,388,1,0,1,-,1,-,-,N,1,-
+DIS,Western Europe,ディズニーランド,318,0,-,-,-,-,-,-,N,-,-
+EUR,Western Europe,ヨーロッパ,139,2,0,2,3,4,2,0,1,-,-
+GAT,Western Europe,ガトランチス,859,2,1,1,1,1,-,0,-,-,-
+GRL,Western Europe,グリーンランド,101,-,-,-,-,-,-,-,-,-,-
+HLW,Western Europe,ハリウッド,104,1,0,1,-,2,-,-,N,1,-
+KAL,Western Europe,カリオストロ,859,1,0,1,-,-,-,-,N,1,-
+LIH,Western Europe,リヒテンシュタイン,859,0,-,-,-,-,-,-,1,-,-
+LON,Western Europe,ロンドン,113,0,-,-,-,-,-,-,-,-,-
+LVE,Western Europe,ラスベガス,380,1,0,1,-,-,-,-,-,1,-
+MAC,Western Europe,マクドナルド,106,1,0,1,-,-,-,-,N,1,-
+MCO,Western Europe,モナコ,927,1,0,1,-,-,-,-,-,-,-
+NEV,Western Europe,ネバーランド,373,1,0,1,-,-,-,-,N,3,-
+NKA,Western Europe,ノキア,141,1,-,1,-,-,-,-,-,1,-
+NMR,Western Europe,モレネ,1003,-,-,-,-,-,-,-,-,-,-
+NMX,Western Europe,ニューメキシコ,840,1,0,1,-,-,-,-,-,1,-
+NPL,Western Europe,北極大陸,1000,1,0,1,0,-,0,-,N,-,-
+NYY,Western Europe,ニューヨークヤンキース,804,1,0,1,-,-,-,-,N,1,-
+OZY,Western Europe,オージー,4,1,1,-,0,-,-,-,-,1,-
+PAL,Western Europe,パリ,112,2,0,-,1,B,-,-,-,1,-
+PEG,Western Europe,ペンギン,914,1,0,1,-,-,-,-,-,3,-
+POS,Western Europe,シーランド,857,1,0,1,-,-,-,-,-,1,-
+SAN,Western Europe,サンマリノ,858,1,-,-,-,-,-,-,-,2,-
+SPL,Western Europe,南極大陸,919,3,2,1,2,B,-,0,-,3,-
+TEX,Western Europe,テキサス,375,1,0,1,-,-,-,-,N,1,-
+TLM,Western Europe,トルメキア,337,1,0,1,-,-,-,-,N,1,-
+UTP,Western Europe,ユートピア,635,1,0,1,-,-,-,-,N,1,-
+VAT,Western Europe,バチカン,922,1,0,1,-,-,-,-,-,1,-
+RAL,Western Europe,アルザス=ロレーヌ,28,-,-,-,-,-,-,-,-,-,-
