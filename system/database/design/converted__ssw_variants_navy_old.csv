@@ -1,0 +1,3 @@
+Section,name,type,name_group,parent_version,design_team,obsolete,icon,destroyer_engine_upgrade,ship_ASW_upgrade,ship_anti_air_upgrade,ship_reliability_upgrade,ship_torpedo_upgrade,sub_engine_upgrade,sub_stealth_upgrade,sub_torpedo_upgrade
+CHL_navy,Capitán O'Brien Class,submarine_1,,,,,,,,,1,,1,1,1
+CHL_navy,Serrano Class,destroyer_1,,,,,,1,1,1,,1,,,

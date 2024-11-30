@@ -1,0 +1,275 @@
+TAG,地域,JP
+GER,Germany,ドイツ
+ENG,United Kingdom,イギリス
+SOV,Soviet Union,ロシア
+SWE,Sweden,スウェーデン
+FRA,France,フランス
+LUX,Luxemburg,ルクセンブルク
+BEL,Belgium,ベルギー
+HOL,Holland,オランダ
+CZE,Czechoslovakia,チェコスロヴァキア
+POL,Poland,ポーランド
+AUS,Austria,オーストリア
+LIT,Lithuania,リトアニア
+EST,Estonia,エストニア
+LAT,Latvia,ラトビア
+SPR,Spain,スペイン
+ITA,Italy,イタリア
+ROM,Romania,ルーマニア
+YUG,Yugoslavia,ユーゴスラビア
+SER,Serbia,セルビア
+SWI,Switzerland,スイス
+TUR,Turkey,トルコ
+GRE,Greece,ギリシャ
+ALB,Albania,アルバニア
+NOR,Norway,ノルウェー
+DEN,Denmark,デンマーク
+BUL,Bulgaria,ブルガリア
+POR,Portugal,ポルトガル
+FIN,Finland,フィンランド
+IRE,Ireland,アイルランド
+HUN,Hungary,ハンガリー
+AFG,Afghanistan,アフガニスタン
+ARG,Argentina,アルゼンチン
+AST,Australia,オーストラリア
+BHU,Bhutan,ブータン
+BOL,Bolivia,ボリビア
+BRA,Brazil,ブラジル
+CAN,Canada,カナダ
+CHI,China,中国
+CHL,Chile,チリ
+COL,Colombia,コロンビア
+COS,Costa Rica,コスタリカ
+ECU,Ecuador,エクアドル
+ELS,El Salvador,エルサルバドル
+ETH,Ethiopia,エチオピア
+GUA,Guatemla,グアテマラ
+HON,Honduras,ホンジュラス
+IRQ,Iraq,イラク
+JAP,Japan,日本
+KOR,Korea,朝鮮
+LIB,Liberia,リベリア
+MEX,Mexico,メキシコ
+MEN,Mengkukuo,蒙古国
+NEP,Nepal,ネパール
+NIC,Nicaragua,ニカラグア
+NZL,New Zealand,ニュージーランド
+PAN,Panama,パナマ
+PER,Persia,イラン
+PHI,Philippines,フィリピン
+PRU,Peru,ペルー
+SAF,South Africa,南アフリカ
+SAU,Saudi Arabia,中央アラビア
+SIA,Siam,シャム
+SIK,Sinkiang,新疆
+TIB,Tibet,チベット
+URG,Uruguay,ウルグアイ
+VEN,Venezula,ベネズエラ
+YUN,Yunnan,雲南
+USA,USA,アメリカ
+MON,Mongolia,モンゴル
+TAN,Tannu Tuva,タンヌ・トゥヴァ
+PAR,Paraguay,パラグアイ
+CUB,Cuba,キューバ
+DOM,Dominican Republic,ドミニカ共和国
+HAI,Haiti,ハイチ
+YEM,Yeman,イエメン
+OMA,Oman,オマーン
+SLO,Slovakia,スロヴァキア
+RAJ,British Raj,インド
+CRO,Croatia,クロアチア
+GXC,Guangxi,広西
+PRC,ComChina,中国
+SHX,Shanxi,山西
+XSM,Xibei San Ma,西北三馬
+ICE,Iceland,アイスランド
+LEB,Lebanon,レバノン
+JOR,Jordan,ヨルダン
+SYR,Syria,シリア
+EGY,Egypt,エジプト
+LBA,Libya,リビア
+WGR,West Germany,ドイツ
+DDR,East Germany,ドイツ
+PAL,Palestine,パレスチナ
+ISR,Israel,イスラエル
+VIN,Vietnam,ベトナム
+CAM,Cambodia,カンボジア
+MAL,Malaysia,マレーシア
+INS,Indonesia,インドネシア
+LAO,Laos,ラオス
+MNT,Montenegro,モンテネグロ
+UKR,Ukraine,ウクライナ
+GEO,Georgia,グルジア
+KAZ,Kazakhstan,カザフスタン
+AZR,Azerbaijan,アゼルバイジャン
+ARM,Armenia,アルメニア
+BLR,Belarus,ベラルーシ
+ANG,Angola,アンゴラ
+MZB,Mozambique,モザンビーク
+ZIM,Zimbabwe,ジンバブエ
+COG,Congo,コンゴ
+KEN,Kenya,ケニア
+PAK,Pakistan,パキスタン
+BOT,Botswana,ボツワナ
+MAN,Manchukou,中国
+BAH,Bahamas,バハマ
+BAN,Bangladesh,バングラデシュ
+BLZ,Belize,ベリーズ
+BRM,Burma,ビルマ
+CRC,Curacao,アンティル
+GDL,Guadeloupe,グアドループ
+GYA,Guyana,ガイアナ
+JAM,Jamaica,ジャマイカ
+JAN,Jan Mayen,ヤンマイエン
+KYR,Kyrgyzstan,キルギスタン
+MAD,Madagascar,マダガスカル
+MOL,Moldova,モルドヴァ
+PNG,Papua New Guinea,パプア
+PUE,Puerto Rico,プエルトリコ
+QAT,Qatar,カタール
+SCO,Scotland,スコットランド
+SRL,Sri Lanka,スリランカ
+SUR,Suriname,スリナム
+TAJ,Tajikistan,タジキスタン
+TRI,Trinidad and Tobago,トリニダード・トバゴ
+TMS,Turkmenistan,トルクメニスタン
+UAE,United Arab Emirates,アラブ首長国
+UZB,Uzbekistan,ウズベキスタン
+KUW,Kuwait,クウェート
+CYP,Cyprus,キプロス
+MLT,Malta,マルタ
+ALG,Algeria,アルジェリア
+MOR,Morocco,モロッコ
+TUN,Tunisia,チュニジア
+SUD,Sudan,スーダン
+ERI,Eritrea,エリトリア
+DJI,Djibouti,ジブチ
+SOM,Somalia,ソマリア
+UGA,Uganda,ウガンダ
+RWA,Rwanda,ルワンダ
+BRD,Burundi,ブルンジ
+TZN,Tanzania,タンザニア
+ZAM,Zambia,ザンビア
+MLW,Malawi,マラウイ
+GAB,Gabon,ガボン
+RCG,Republic of Congo,コンゴ
+EQG,Equatorial Guinea,赤道ギニア
+CMR,Cameroon,カメルーン
+CAR,Central African Republic,中央アフリカ共和国
+CHA,Chad,チャド
+NGA,Nigeria,ナイジェリア
+DAH,Dahomey,ベナン
+TOG,Togo,トーゴ
+GHA,Ghana,ガーナ
+IVO,Ivory Coast,コートジボワール
+VOL,Upper Volta,オートボルタ
+MLI,Mali,マリ
+SIE,Sierra Leone,シエラレオネ
+GNA,Guinea,ギニア
+GNB,,ギニア＝ビサウ
+SEN,Senegal,セネガル
+GAM,Gambia,ガンビア
+WLS,Wales,ウェールズ
+NGR,Niger,ニジェール
+CSA,CSA,アメリカ連合
+USB,USB,アメリカ非協力諸州
+MRT,Mauritania,モーリタニア
+NMB,Namibia,ナミビア
+WES,Western Sahara,西サハラ
+BAS,British Antilles,アンティル
+CAY,Cayenne,ギアナ
+MLD,Maldives,モルディブ
+FIJ,Fiji,フィジー
+FSM,Micronesia,ミクロネシア
+TAH,Tahiti,タヒチ
+GUM,Guam,マリアナ諸島
+SOL,Solomon,ソロモン諸島
+SAM,Samoa,サモア
+HAW,Hawaii,ハワイ
+SLV,Slovenia,スロベニア
+BOS,Bosnia,ボスニア
+HRZ,Herzegovina,ヘルツェゴビナ
+MAC,Macedonia,マケドニア
+NIR,Northern Ireland,北アイルランド
+BAY,Bavaria,バイエルン
+MEK,Mecklenburg,メクレンブルク
+PRE,Prussia,プロイセン
+SAX,Saxony,ザクセン
+HAN,Hanover,ハノーファー
+WUR,Wurtemberg,バーデン＝ヴュルテンベルク
+SHL,,シュレースヴィヒ
+CAT,Catalonia,カタルーニャ
+NAV,Navarra,バスク国
+GLC,Galicia,ガリシア
+ADU,Andalusia,アンダルシア
+BRI,Brittany,ブルターニュ
+OCC,Occitania,オクシタニア
+COR,Corsica,コルシカ
+KUR,Kurdistan,クルディスタン
+TRA,Transylvania,トランシルヴァニア
+DNZ,Danzig,ダンツィヒ
+SIL,Silesia,シレジア
+KSH,Kashubia,カシューブ
+DON,Don Republic,ドン共和国
+KUB,Kuban Republic,クバーニ人民共和国
+BUK,Bukharan Republic,
+ALT,Altay,アルタイ
+KAL,Kalmykia,
+KAR,Karelia,
+CRI,Crimea,
+TAT,Tatarstan,
+CIN,Chechnya Ingushetia,
+DAG,Dagestan,
+BYA,Buryatia,
+CKK,Chukotka,
+FER,Fareastern Republic,
+YAK,Yakutia,
+VLA,Vladivostok,
+KKP,Karakalpakstan,
+YAM,Yamalia,
+TAY,Taymyria,
+OVO,Ostyak Vogulia,
+NEN,Nenetsia,
+KOM,Komi,
+ABK,Abkhazia,
+KBK,Kabardino Balkaria,
+NOA,North Ossetia,
+VGE,Volga Germany,
+BSK,Bashkortostan,
+KHI,Khiva,
+UDM,Udmurtia,
+CHU,Chuvashia,
+MEL,Mariel,
+RIF,Rif,
+HAR,Harar,
+TIG,Tigray,
+AFA,Afar,
+BEG,,
+GBA,Gambela,
+SID,Sidamo,
+ORO,Oromo,
+QEM,Qemant,
+KHA,Khakassia,
+AOI,Italian East Africa,イタリア領東アフリカ
+LBV,Lombardy Venetia,ロンバルディア・ヴェネツィア王国
+PAP,Papal States,教皇領
+TOS,Tuscany,トスカーナ大公国
+SPM,Sardinia Piedmont,サルデーニャ・ピエモンテ
+TTS,The Two Sicilies,両シチリア王国
+SMI,Sami,サップミ
+GRN,Greenland,グリーンランド
+RAP,Rapa Nui,ラパ・ヌイ
+YUC,Yucatan,ユカタン
+RIG,Rio Grande,リオ・グランデ共和国
+QUE,Quebec,ケベック
+KAT,Katanga,カタンガ
+BIA,Biafra,ビアフラ
+WLA,Welsh Argentina,イ・ウラドファ
+CBV,Cabo Verde,カーボベルデ
+BAR,Barotseland,バロツェランド
+EVE,Evenkia,エベンキア
+SOK,Sokoto,ソコト
+THU,Thuringia,テューリンゲン
+HES,Hesse,ヘッセン
+RHI,Rhineland,ラインラント
+UBD,United Baltic Duchy,バルト連合公国

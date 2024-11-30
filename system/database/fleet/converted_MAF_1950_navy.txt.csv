@@ -1,0 +1,39 @@
+TAG,shipname,definition,hull,version_name,pride_of_the_fleet,location,task_force_name,naval_base,fleet_name
+BUL,BMC Sofia,light_cruiser,ship_hull_cruiser_4,Sofia Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Burgas,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Plovdiv,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Dobrich,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+EAF,RI Giovanni delle Bande Nere,light_cruiser,ship_hull_cruiser_1,Alberto di Giussano Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RCT Nazaro Sauro,destroyer,ship_hull_light_0,Nazario Sauro Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RCT Cesare Battisti,destroyer,ship_hull_light_0,Nazario Sauro Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Galileo Ferraris,submarine,ship_hull_submarine_1,Archimede Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Galileo Galilei,submarine,ship_hull_submarine_1,Archimede Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Archimede,submarine,ship_hull_submarine_1,Brin Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Perla,submarine,ship_hull_submarine_1,Perla Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RSmg Macallé,submarine,ship_hull_submarine_1,Adua Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RSmg Guglielmotti,submarine,ship_hull_submarine_1,Brin Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RI Luigi Cadorna,light_cruiser,ship_hull_cruiser_1,Luigi Cadorna Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+EAF,RCT Fuciliere,destroyer,ship_hull_light_1,Soldati Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+EAF,RCT Carabiniere,destroyer,ship_hull_light_1,Soldati Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+MAF,Braunschweig,heavy_cruiser,ship_hull_cruiser_1,Braunschweig Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Answald,light_cruiser,ship_hull_cruiser_2,De Grasse Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z17,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z18,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z19,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z21,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z16,destroyer,ship_hull_light_1,Z5 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,T107,destroyer,ship_hull_large_frigate,G7 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,T108,destroyer,ship_hull_large_frigate,G7 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,Nymphe,light_cruiser,ship_hull_cruiser_defenced_cruiser,Gazelle Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Z1,destroyer,ship_hull_light_0,Z1 Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Z2,destroyer,ship_hull_light_0,Z1 Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Elsass,heavy_cruiser,ship_hull_cruiser_1,Braunschweig Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Afrika,light_cruiser,ship_hull_cruiser_1,Afrika Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z7,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z8,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z9,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z14,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Emden,light_cruiser,ship_hull_cruiser_defenced_cruiser,Dresden Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Greif,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Falke,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Jaguar,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte

@@ -1,0 +1,4 @@
+creator,type,version_name,requested_factories,progress,industrial_manufacturer
+ALF,ship_hull_super_heavy_1,Colorado Class,3,0.7,mio:ALF_San_Diego_naval_Shipyard
+ALF,ship_hull_CB,Charleston Harbor Class,2,0.5,mio:ALF_San_Diego_naval_Shipyard
+ALF,convoy_1,Tench Class,1,0,mio:ALF_Kaiser_Shipyard

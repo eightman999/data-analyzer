@@ -1,0 +1,133 @@
+TAG,shipname,definition,hull,version_name,pride_of_the_fleet,location,task_force_name,naval_base,fleet_name
+BUL,BMC Sofia,light_cruiser,ship_hull_cruiser_4,Sofia Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Burgas,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Plovdiv,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Dobrich,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+EAF,RI Giovanni delle Bande Nere,light_cruiser,ship_hull_cruiser_1,Alberto di Giussano Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RCT Nazaro Sauro,destroyer,ship_hull_light_0,Nazario Sauro Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RCT Cesare Battisti,destroyer,ship_hull_light_0,Nazario Sauro Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Galileo Ferraris,submarine,ship_hull_submarine_1,Archimede Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Galileo Galilei,submarine,ship_hull_submarine_1,Archimede Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Archimede,submarine,ship_hull_submarine_1,Brin Class,,12766,Flottiglia del Mar Rosso,12766,Flottiglia del Mar Rosso
+EAF,RSmg Perla,submarine,ship_hull_submarine_1,Perla Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RSmg Macallé,submarine,ship_hull_submarine_1,Adua Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RSmg Guglielmotti,submarine,ship_hull_submarine_1,Brin Class,,12941,Flottiglia del Somalia,12941,Flottiglia del'Oceano Indiano
+EAF,RI Luigi Cadorna,light_cruiser,ship_hull_cruiser_1,Luigi Cadorna Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+EAF,RCT Fuciliere,destroyer,ship_hull_light_1,Soldati Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+EAF,RCT Carabiniere,destroyer,ship_hull_light_1,Soldati Class,,5210,Prima Flotta di Riserva dell'Africa Orientale,12941,Flottiglia del'Oceano Indiano
+MAF,Braunschweig,heavy_cruiser,ship_hull_cruiser_1,Braunschweig Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Answald,light_cruiser,ship_hull_cruiser_2,De Grasse Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z17,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z18,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z19,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z21,destroyer,ship_hull_light_2,Z17 Class,,5222,I. Gardeflotte,5222,Hochseeflotte
+MAF,Z16,destroyer,ship_hull_light_1,Z5 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,T107,destroyer,ship_hull_large_frigate,G7 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,T108,destroyer,ship_hull_large_frigate,G7 Class,,1951,II. Gardeflotte,5222,Hochseeflotte
+MAF,Nymphe,light_cruiser,ship_hull_cruiser_defenced_cruiser,Gazelle Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Z1,destroyer,ship_hull_light_0,Z1 Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Z2,destroyer,ship_hull_light_0,Z1 Class,,6039,III. Gardeflotte,5222,Hochseeflotte
+MAF,Elsass,heavy_cruiser,ship_hull_cruiser_1,Braunschweig Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Afrika,light_cruiser,ship_hull_cruiser_1,Afrika Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z7,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z8,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z9,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Z14,destroyer,ship_hull_light_1,Z5 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Emden,light_cruiser,ship_hull_cruiser_defenced_cruiser,Dresden Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Greif,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Falke,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+MAF,Jaguar,destroyer,ship_hull_light_1,1923 Class,,10968,IV. Gardeflotte,5222,Hochseeflotte
+CHL,BACH Almirante Latorre,battleship,ship_hull_heavy_0,Almirante Latorre Class,yes,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Esmeralda,battleship,ship_hull_heavy_0,Esmeralda Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Constitución,carrier,ship_hull_carrier_conversion_ca_2,Constitución Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Almirante Cochrane,heavy_cruiser,ship_hull_cruiser_1,Almirante Cochrane Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Ministro Zenteno,light_cruiser,ship_hull_cruiser_2,Ministro Zenteno Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Valparaíso,light_cruiser,ship_hull_cruiser_2,Ministro Zenteno Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Almirante Williams,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Almirante Uribe,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Al Rebolledo,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Capitán Thompson,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Capitán Merino Jarpa,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Blanco Encalada,destroyer,ship_hull_light_3,Almirante Williams Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH General Baquedano,destroyer,ship_hull_light_3,General Baquedano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Capitán Prat,destroyer,ship_hull_light_3,General Baquedano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Virgilio Uribe,destroyer,ship_hull_light_3,General Baquedano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Riquelme,destroyer,ship_hull_light_3,General Baquedano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Aldea,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Hyatt,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Orella,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Requelme,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Serrano,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Videla,destroyer,ship_hull_light_1,Serrano Class,,8222,Armada de Chile,8222,Armada de Chile
+CHL,BACH Gualcolda,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Tegualda,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Rucumilla,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Quidora,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Fresia,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Guale,submarine,ship_hull_submarine_1,H1 Class,,8222,Flotilla de Submarinos nro. 1,8222,Armada de Chile
+CHL,BACH Capitán O`Brien,submarine,ship_hull_submarine_1,Capitán O'Brien Class,,12994,Flotilla de Submarinos nro. 2,8222,Armada de Chile
+CHL,BACH Almirante Simpson,submarine,ship_hull_submarine_1,Capitán O'Brien Class,,12994,Flotilla de Submarinos nro. 2,8222,Armada de Chile
+CHL,BACH Capitán Thomson,submarine,ship_hull_submarine_1,Capitán O'Brien Class,,12994,Flotilla de Submarinos nro. 2,8222,Armada de Chile
+CHL,BACH O'Higgins,heavy_cruiser,ship_hull_cruiser_armored_cruiser,O'Higgins Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
+CHL,BACH Chacabuco,light_cruiser,ship_hull_cruiser_defenced_cruiser,Chacabuco Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
+CHL,BACH Almirante Lynch,destroyer,ship_hull_light_1,Almirante Lynch Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
+CHL,BACH Almirante Condell,destroyer,ship_hull_light_1,Almirante Lynch Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
+KAM,Huso,battle_carrier,ship_hull_battle_carrier_1,Huso Class,yes,13545,Dai 1 Sentai,13545,Jyoubi Kantai
+KAM,Yamashiro,battle_carrier,ship_hull_battle_carrier_1,Huso Class,,13545,Dai 1 Sentai,13545,Jyoubi Kantai
+KAM,Ise,battle_carrier,ship_hull_battle_carrier_1,Ise Class,,13545,Dai 1 Sentai,13545,Jyoubi Kantai
+KAM,Hyuga,battle_carrier,ship_hull_battle_carrier_1,Ise Class,,13545,Dai 1 Sentai,13545,Jyoubi Kantai
+KAM,Huji,battleship,ship_hull_pre_dreadnought_0,Huji Class,,13545,Dai 2 Sentai,13545,Jyoubi Kantai
+KAM,Shikishima,battle_carrier,ship_hull_pd_battle_carrier,Shikishima Class,,13545,Dai 2 Sentai,13545,Jyoubi Kantai
+KAM,Asahi,battle_carrier,ship_hull_pd_battle_carrier,Shikishima Class,,13545,Dai 2 Sentai,13545,Jyoubi Kantai
+KAM,Yakumo,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Izumo,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Iwate,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Kasuga,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Asama,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Tokiwa,cruiser_carrier,ship_hull_cruiser_armored_cruiser_carrier,Kasuga Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Oodomari,light_cruiser,ship_hull_cruiser_0_transport_remodeling,Oodomari Class,,4728,Dai 3 Sentai,13545,Jyoubi Kantai
+KAM,Jyunyo,light_carrier,ship_hull_carrier_conversion_mc,Jyunyo Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Hiyo,light_carrier,ship_hull_carrier_conversion_mc,Jyunyo Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Housyo,carrier,ship_hull_carrier_0,Housyo Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Ryuho,light_carrier,ship_hull_carrier_conversion_tp,Ryuuhou Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Chitose,light_cruiser,ship_hull_cruiser_3,Chiyoda Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Michishio,destroyer,ship_hull_light_2,Asashio Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Asagumo,destroyer,ship_hull_light_2,Asashio Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Yamagumo,destroyer,ship_hull_light_2,Asashio Class,,13067,Dai 4 Sentai,13545,Jyoubi Kantai
+KAM,Yamashiomaru,light_carrier,ship_hull_carrier_conversion_mc,Yamashiomaru Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Umishiomaru,light_carrier,ship_hull_carrier_conversion_mc,Yamashiomaru Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Chiyoda,light_cruiser,ship_hull_cruiser_3,Chiyoda Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Akatsuki,destroyer,ship_hull_light_2,Hubuki Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Hibiki,destroyer,ship_hull_light_2,Hubuki Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Ikaduti,destroyer,ship_hull_light_2,Hubuki Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Inaduma,destroyer,ship_hull_light_2,Hubuki Class,,12207,Dai 5 Sentai,13545,Jyoubi Kantai
+KAM,Kashihara,light_cruiser,ship_hull_cruiser_3,Kashihara Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Shiranui,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Yukikaze,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Amatsukaze,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Urakaze,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Isokaze,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Hamakaze,destroyer,ship_hull_light_3,Kagerou Class,,13553,Dai 6 Sentai,13545,Jyoubi Kantai
+KAM,Hinomae,light_cruiser,ship_hull_cruiser_4,Atsuta Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Tanikaze,destroyer,ship_hull_light_3,Kagerou Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Nowaki,destroyer,ship_hull_light_3,Kagerou Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Akigumo,destroyer,ship_hull_light_3,Kagerou Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Ukuru,frigate,ship_hull_frigate_2,Ukuru Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Okinawa,frigate,ship_hull_frigate_2,Ukuru Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Amami,frigate,ship_hull_frigate_2,Ukuru Class,,13545,Dai 7 Sentai,13545,Jyoubi Kantai
+KAM,Kunashiri,light_cruiser,ship_hull_cruiser_4,Kasado Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Jingei,light_cruiser,ship_hull_cruiser_1,Jingei Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Tyougei,light_cruiser,ship_hull_cruiser_1,Jingei Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Hakugei,light_cruiser,ship_hull_cruiser_2,Hakugei Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Kokugei,light_cruiser,ship_hull_cruiser_2,Hakugei Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Soya,cruiser_carrier,ship_hull_cruiser_carrier_0,Souya Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Suzunami,destroyer,ship_hull_light_2,Suzunami Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Sazanami,destroyer,ship_hull_light_2,Suzunami Class,,4728,Dai 8 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 35 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,4728,Dai 9 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 36 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,4728,Dai 9 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 37 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,4728,Dai 9 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 38 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,4728,Dai 9 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 39 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 40 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 41 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
+KAM,Ro go Dai 42 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai

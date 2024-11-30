@@ -1,0 +1,5 @@
+TAG,shipname,definition,hull,version_name,pride_of_the_fleet,location,task_force_name,naval_base,fleet_name
+BUL,BMC Sofia,light_cruiser,ship_hull_cruiser_4,Sofia Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Burgas,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Plovdiv,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
+BUL,BMC Dobrich,light_cruiser,ship_hull_cruiser_4,Burgas Class,,9783,Black Sea Fleet,9783,Bulgarian Black Sea Fleet
