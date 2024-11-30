@@ -72,6 +72,259 @@ CHL,BACH O'Higgins,heavy_cruiser,ship_hull_cruiser_armored_cruiser,O'Higgins Cla
 CHL,BACH Chacabuco,light_cruiser,ship_hull_cruiser_defenced_cruiser,Chacabuco Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
 CHL,BACH Almirante Lynch,destroyer,ship_hull_light_1,Almirante Lynch Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
 CHL,BACH Almirante Condell,destroyer,ship_hull_light_1,Almirante Lynch Class,,12994,Flota de Entrenamiento,8222,Armada de Chile
+NZL,HMNZS Erebus,heavy_cruiser,ship_hull_monitor_2,Erebus Class,,2197,Task Force 1,2197,Main fleet
+NZL,HMNZS Terror,heavy_cruiser,ship_hull_monitor_2,Erebus Class,,2197,Task Force 1,2197,Main fleet
+NZL,HMNZS Gambia,light_cruiser,ship_hull_cruiser_2,Fiji Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Bellona,light_cruiser,ship_hull_cruiser_2,Bellona Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Royalist,light_cruiser,ship_hull_cruiser_2,Bellona Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Leander,light_cruiser,ship_hull_cruiser_1,Leander Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Achilles,light_cruiser,ship_hull_cruiser_1,Leander Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Dunedin,light_cruiser,ship_hull_cruiser_1,Danae Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Diomede,light_cruiser,ship_hull_cruiser_1,Danae Class,,2197,Task Force 2,2197,Main fleet
+NZL,HMNZS Endeavour,light_cruiser,ship_hull_cruiser_0_transport_remodeling,Maidstone Class,,2197,Task Force 3,2197,Main fleet
+NZL,HMNZS Hut,destroyer,ship_hull_light_1,Hunt I Class,,2197,Task Force 3,2197,Main fleet
+NZL,HMNZS Pukaki,frigate,ship_hull_frigate_1,Loch Class,,2197,Task Force 3,2197,Main fleet
+NZL,HMNZS Rotoiti,frigate,ship_hull_frigate_1,Loch Class,,2197,Task Force 3,2197,Main fleet
+NZL,HMNZS Taupo,frigate,ship_hull_frigate_1,Loch Class,,2197,Task Force 3,2197,Main fleet
+NZL,HMNZS Hawea,frigate,ship_hull_frigate_1,Loch Class,,2197,Task Force 3,2197,Main fleet
+ENG,HMS Incomparable,battleship,ship_hull_super_heavy_1,Incomparable Class,yes,9458,Task Force1,9458,The Home Fleet
+ENG,HMS Lion,battleship,ship_hull_heavy_2,Lion Class,,9458,Task Force1,9458,The Home Fleet
+ENG,HMS Temeraire,battleship,ship_hull_heavy_2,Lion Class,,9458,Task Force1,9458,The Home Fleet
+ENG,HMS Revenge,battleship,ship_hull_heavy_0,Revenge Class,,9458,Task Force2,9458,The Home Fleet
+ENG,HMS Resolution,battleship,ship_hull_heavy_0,Revenge Class,,9458,Task Force2,9458,The Home Fleet
+ENG,HMS Ramillies,battleship,ship_hull_heavy_0,Revenge Class,,9458,Task Force2,9458,The Home Fleet
+ENG,HMS Royal Sovereign,battleship,ship_hull_heavy_0,Revenge Class,,9458,Task Force2,9458,The Home Fleet
+ENG,HMS London,heavy_cruiser,ship_hull_cruiser_1,London Class,,9458,Task Force3,9458,The Home Fleet
+ENG,HMS Devonshire,heavy_cruiser,ship_hull_cruiser_1,London Class,,9458,Task Force3,9458,The Home Fleet
+ENG,HMS Shropshire,heavy_cruiser,ship_hull_cruiser_1,London Class,,9458,Task Force3,9458,The Home Fleet
+ENG,HMS Audacious,carrier,ship_hull_carrier_2,Audacious Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Ark Royal,carrier,ship_hull_carrier_2,Audacious Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Swiftsure,light_cruiser,ship_hull_cruiser_3,Swiftsure Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Comus,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Concord,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Contest,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Consort,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force4,9458,The Home Fleet
+ENG,HMS Ceylon,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force5,9458,The Home Fleet
+ENG,HMS Crispin,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force5,9458,The Home Fleet
+ENG,HMS Creole,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force5,9458,The Home Fleet
+ENG,HMS Cheviot,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force5,9458,The Home Fleet
+ENG,HMS Childers,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force5,9458,The Home Fleet
+ENG,HMS Affray,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Andrew,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Aurochs,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Aeneas,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Alaric,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Astute,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Artemis,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Artful,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Anchorite,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Amphion,submarine,ship_hull_submarine_2,A Class,,9458,Task Force6,9458,The Home Fleet
+ENG,HMS Centaur,light_carrier,ship_hull_light_carrier_2,Centaur Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Superb,light_cruiser,ship_hull_cruiser_4,Tiger Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Chaplet,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Chequers,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Chieftain,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Chevron,destroyer,ship_hull_light_2,Third C Class,,9458,Task Force7,9458,The Home Fleet
+ENG,HMS Latona,light_cruiser,ship_hull_cruiser_1,Abdiel Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Manxman,light_cruiser,ship_hull_cruiser_1,Abdiel Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Myngs,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zephyr,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zambesi,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zealous,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zebra,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zenith,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zest,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Zodiac,destroyer,ship_hull_light_2,Z Class,,9458,Task Force8,9458,The Home Fleet
+ENG,HMS Renown,battle_cruiser,ship_hull_heavy_0,Revenge Class,,7361,Task Force9,7361,North America Station
+ENG,HMS York,heavy_cruiser,ship_hull_cruiser_1,York Class,,7361,Task Force9,7361,North America Station
+ENG,HMS Exeter,heavy_cruiser,ship_hull_cruiser_1,York Class,,7361,Task Force9,7361,North America Station
+ENG,HMS Iron Duke,carrier,ship_hull_carrier_conversion_bb,Iron Duke Class,,7361,Task Force10,7361,North America Station
+ENG,HMS Tiger,light_cruiser,ship_hull_cruiser_4,Tiger Class,,7361,Task Force10,7361,North America Station
+ENG,HMS Cockade,destroyer,ship_hull_light_2,Third C Class,,7361,Task Force10,7361,North America Station
+ENG,HMS Comet,destroyer,ship_hull_light_2,Third C Class,,7361,Task Force10,7361,North America Station
+ENG,HMS  Constance,destroyer,ship_hull_light_2,Third C Class,,7361,Task Force10,7361,North America Station
+ENG,HMS Cossack,destroyer,ship_hull_light_2,Third C Class,,7361,Task Force10,7361,North America Station
+ENG,HMS Hercules,light_carrier,ship_hull_light_carrier_1,Majestic Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Leviathan,light_carrier,ship_hull_light_carrier_1,Majestic Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Dido,light_cruiser,ship_hull_cruiser_2,Dido Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Phoebe,light_cruiser,ship_hull_cruiser_2,Dido Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Teazer,destroyer,ship_hull_light_2,T Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Tenacious,destroyer,ship_hull_light_2,T Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Termagant,destroyer,ship_hull_light_2,T Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Terpsichore,destroyer,ship_hull_light_2,T Class,,7361,Task Force11,7361,North America Station
+ENG,HMS Acheron,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Ace,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Alcide,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Alderney,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Alliance,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Ambush,submarine,ship_hull_submarine_2,A Class,,7361,Task Force12,7361,North America Station
+ENG,HMS Welshman,light_cruiser,ship_hull_cruiser_1,Abdiel Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Racehorse,destroyer,ship_hull_light_2,Second R Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Rapid,destroyer,ship_hull_light_2,Second R Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Relentless,destroyer,ship_hull_light_2,Second R Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Rocket,destroyer,ship_hull_light_2,Second R Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Roebuck,destroyer,ship_hull_light_2,Second R Class,,7361,Task Force13,7361,North America Station
+ENG,HMS Colossus,light_carrier,ship_hull_light_carrier_0,Colossus Class,,10062,Task Force14,10062,China Squadron
+ENG,HMS Glory,light_carrier,ship_hull_light_carrier_0,Colossus Class,,10062,Task Force14,10062,China Squadron
+ENG,HMS Defencce,light_cruiser,ship_hull_cruiser_4,Tiger Class,,10062,Task Force14,10062,China Squadron
+ENG,HMS Agincourt,destroyer,ship_hull_light_2,Late Battle Class,,10062,Task Force14,10062,China Squadron
+ENG,HMS Alamein,destroyer,ship_hull_light_2,Late Battle Class,,10062,Task Force14,10062,China Squadron
+ENG,HMS Maidstone,light_cruiser,ship_hull_cruiser_0_transport_remodeling,Maidstone Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Minotaur,light_cruiser,ship_hull_cruiser_3,Swiftsure Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Milne,destroyer,ship_hull_light_2,Second M Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Mahratta,destroyer,ship_hull_light_2,Second M Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Martin,destroyer,ship_hull_light_2,Second M Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Auriga,submarine,ship_hull_submarine_2,A Class,,10062,Task Force15,10062,China Squadron
+ENG,HMS Duke of York,battleship,ship_hull_heavy_1,King George V Class,,10201,Task Force16,10201,Far East Fleet
+ENG,HMS Anson,battleship,ship_hull_heavy_1,King George V Class,,10201,Task Force16,10201,Far East Fleet
+ENG,HMS Centurion,carrier,ship_hull_carrier_conversion_bb,Centurion Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Newfoundland,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Caprice,destroyer,ship_hull_light_2,Third C Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Cassandra,destroyer,ship_hull_light_2,Third C Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Caesar,destroyer,ship_hull_light_2,Third C Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Cavendish,destroyer,ship_hull_light_2,Third C Class,,10201,Task Force17,10201,Far East Fleet
+ENG,HMS Abdiel,light_cruiser,ship_hull_cruiser_1,Abdiel Class,,10201,Task Force18,10201,Far East Fleet
+ENG,HMS Sayurala,destroyer,ship_hull_light_1,Hunt III Class,,10201,Task Force18,10201,Far East Fleet
+ENG,HMS Sindurala,destroyer,ship_hull_light_1,Hunt III Class,,10201,Task Force18,10201,Far East Fleet
+ENG,HMS Sumedha,destroyer,ship_hull_light_1,Hunt III Class,,10201,Task Force18,10201,Far East Fleet
+ENG,HMS Sumitra,destroyer,ship_hull_light_1,Hunt III Class,,10201,Task Force18,10201,Far East Fleet
+ENG,HMS Warspite,battleship,ship_hull_heavy_0,Queen Elizabeth Class,,540,Task Force19,540,Atlantic Squadron
+ENG,HMS Valiant,battleship,ship_hull_heavy_0,Queen Elizabeth Class,,540,Task Force19,540,Atlantic Squadron
+ENG,HMS Norfolk,heavy_cruiser,ship_hull_cruiser_1,Norfolk Class,,540,Task Force20,540,Atlantic Squadron
+ENG,HMS Dorsetshire,heavy_cruiser,ship_hull_cruiser_1,Norfolk Class,,540,Task Force20,540,Atlantic Squadron
+ENG,HMS Brocklesby,destroyer,ship_hull_light_1,Hunt II Class,,540,Task Force20,540,Atlantic Squadron
+ENG,HMS Magnificent,light_carrier,ship_hull_light_carrier_1,Majestic Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Majestic,light_carrier,ship_hull_light_carrier_1,Majestic Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Bonaventure,light_cruiser,ship_hull_cruiser_2,Dido Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Naiad,light_cruiser,ship_hull_cruiser_2,Dido Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Undine,destroyer,ship_hull_light_2,U Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Ursa,destroyer,ship_hull_light_2,U Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Urchin,destroyer,ship_hull_light_2,U Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Urania,destroyer,ship_hull_light_2,U Class,,540,Task Force21,540,Atlantic Squadron
+ENG,HMS Implacable,carrier,ship_hull_carrier_1,Implacable Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Indefatigable,carrier,ship_hull_carrier_1,Implacable Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Cambrian,destroyer,ship_hull_light_2,Third C Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Carron,destroyer,ship_hull_light_2,Third C Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Carysfort,destroyer,ship_hull_light_2,Third C Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Cavalier,destroyer,ship_hull_light_2,Third C Class,,540,Task Force22,540,Atlantic Squadron
+ENG,HMS Uganda,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,540,Task Force23,540,Atlantic Squadron
+ENG,HMS Battleaxe,destroyer,ship_hull_light_2,Weapon Class,,540,Task Force23,540,Atlantic Squadron
+ENG,HMS Broadsword,destroyer,ship_hull_light_2,Weapon Class,,540,Task Force23,540,Atlantic Squadron
+ENG,HMS Aisne,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force23,540,Atlantic Squadron
+ENG,HMS Barrosa,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force23,540,Atlantic Squadron
+ENG,HMS Matapan,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force24,540,Atlantic Squadron
+ENG,HMS Corunna,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force24,540,Atlantic Squadron
+ENG,HMS Dunkirk,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force24,540,Atlantic Squadron
+ENG,HMS Jutland,destroyer,ship_hull_light_2,Late Battle Class,,540,Task Force24,540,Atlantic Squadron
+ENG,HMS Venturer,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Viking,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Veldt,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Vampire,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Vox,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Vigorous,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Virtue,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Visigoth,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Vivid,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Voracious,submarine,ship_hull_submarine_1,V Class,,540,Task Force25,540,Atlantic Squadron
+ENG,HMS Howe,battleship,ship_hull_heavy_1,King George V Class,,351,Task Force26,351,America and West Indies Station
+ENG,HMS Gravelines,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force26,351,America and West Indies Station
+ENG,HMS St. James,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force26,351,America and West Indies Station
+ENG,HMS Vigo,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force26,351,America and West Indies Station
+ENG,HMS Solebay,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Saintes,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Camperdown,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Finisterre,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Hogue,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Lagos,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force27,351,America and West Indies Station
+ENG,HMS Bulwark,light_carrier,ship_hull_light_carrier_2,Centaur Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Albion,light_carrier,ship_hull_light_carrier_2,Centaur Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Bellerophon,light_cruiser,ship_hull_cruiser_4,Tiger Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Barfleur,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Trafalgar,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS St. Kitts,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Armada,destroyer,ship_hull_light_2,Prophase Battle Class,,351,Task Force28,351,America and West Indies Station
+ENG,HMS Spartan,light_cruiser,ship_hull_cruiser_2,Bellona Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Obdurate,destroyer,ship_hull_light_1,O Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Obedient,destroyer,ship_hull_light_1,O Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Opportune,destroyer,ship_hull_light_1,O Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Orwell,destroyer,ship_hull_light_1,O Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Pathfinder,destroyer,ship_hull_light_2,P Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Penn,destroyer,ship_hull_light_2,P Class,,4989,Task Force29,351,America and West Indies Station
+ENG,HMS Diadem,light_cruiser,ship_hull_cruiser_2,Bellona Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Pakenham,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Paladin,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Panther,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Partridge,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Petard,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Porcupine,destroyer,ship_hull_light_2,P Class,,4989,Task Force30,351,America and West Indies Station
+ENG,HMS Nelson,battleship,ship_hull_heavy_1,Nelson Class,,12406,Task Force31,12406,Pacific Squadron
+ENG,HMS Rodney,battleship,ship_hull_heavy_1,Nelson Class,,12406,Task Force31,12406,Pacific Squadron
+ENG,HMS Terrible,light_carrier,ship_hull_light_carrier_1,Majestic Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Venerable,light_carrier,ship_hull_light_carrier_0,Colossus Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Hermione,light_cruiser,ship_hull_cruiser_2,Dido Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Euryalus,light_cruiser,ship_hull_cruiser_2,Dido Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Troubridge,destroyer,ship_hull_light_2,T Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Tumult,destroyer,ship_hull_light_2,T Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Tuscan,destroyer,ship_hull_light_2,T Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Tyrian,destroyer,ship_hull_light_2,T Class,,12406,Task Force32,12406,Pacific Squadron
+ENG,HMS Victorious,carrier,ship_hull_carrier_3,Illustrious Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Illustrious,carrier,ship_hull_carrier_3,Illustrious Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Bermuda,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Fiji,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Wakeful,destroyer,ship_hull_light_2,W Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Whirlwind,destroyer,ship_hull_light_2,W Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Wizard,destroyer,ship_hull_light_2,W Class,,12406,Task Force33,12406,Pacific Squadron
+ENG,HMS Birmingham,light_cruiser,ship_hull_cruiser_2,Southampton Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Glasgow,light_cruiser,ship_hull_cruiser_2,Southampton Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Newcastle,light_cruiser,ship_hull_cruiser_2,Southampton Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Sheffield,light_cruiser,ship_hull_cruiser_2,Southampton Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Saumarez,destroyer,ship_hull_light_2,Second S Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Savage,destroyer,ship_hull_light_2,Second S Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Scorpion,destroyer,ship_hull_light_2,Second S Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Scourge,destroyer,ship_hull_light_2,Second S Class,,12406,Task Force34,12406,Pacific Squadron
+ENG,HMS Malaya,battleship,ship_hull_heavy_0,Queen Elizabeth Class,,12589,Task Force 41,12589,East Indies Station
+ENG,HMS Barham,battleship,ship_hull_heavy_0,Queen Elizabeth Class,,12589,Task Force 41,12589,East Indies Station
+ENG,HMS Ocean,light_carrier,ship_hull_light_carrier_0,Colossus Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Perseus,light_carrier,ship_hull_light_carrier_0,Colossus Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Mauritius,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Jamaica,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Kenya,light_cruiser,ship_hull_cruiser_2,Crown Colony Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Serapis,destroyer,ship_hull_light_2,Second S Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Shark,destroyer,ship_hull_light_2,Second S Class,,12589,Task Force35,12589,East Indies Station
+ENG,HMS Cleopatra,light_cruiser,ship_hull_cruiser_2,Dido Class,,4696,Task Force36,12589,East Indies Station
+ENG,HMS Argonaut,light_cruiser,ship_hull_cruiser_2,Dido Class,,4696,Task Force36,12589,East Indies Station
+ENG,HMS Charybdis,light_cruiser,ship_hull_cruiser_2,Dido Class,,4696,Task Force36,12589,East Indies Station
+ENG,HMS Scylla,light_cruiser,ship_hull_cruiser_2,Dido Class,,4696,Task Force36,12589,East Indies Station
+ENG,HMS Formidable,carrier,ship_hull_carrier_3,Illustrious Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS indomitable,carrier,ship_hull_carrier_3,Illustrious Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Liverpool,light_cruiser,ship_hull_cruiser_2,Gloucester Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Manchester,light_cruiser,ship_hull_cruiser_2,Gloucester Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Verulam,destroyer,ship_hull_light_2,V Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Virago,destroyer,ship_hull_light_2,V Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Vigilant,destroyer,ship_hull_light_2,V Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Venus,destroyer,ship_hull_light_2,V Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Success,destroyer,ship_hull_light_2,Second S Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Swift,destroyer,ship_hull_light_2,Second S Class,,12589,Task Force37,12589,East Indies Station
+ENG,HMS Theseus,light_carrier,ship_hull_light_carrier_0,Colossus Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Triumph,light_carrier,ship_hull_light_carrier_0,Colossus Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Edinburgh,light_cruiser,ship_hull_cruiser_2,Edinburgh Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Belfast,light_cruiser,ship_hull_cruiser_2,Edinburgh Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Grenville,destroyer,ship_hull_light_2,U Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Ulster,destroyer,ship_hull_light_2,U Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Ulysses,destroyer,ship_hull_light_2,U Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Undaunted,destroyer,ship_hull_light_2,U Class,,1468,Task Force38,12589,East Indies Station
+ENG,HMS Vulpine,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Varne,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Upshot,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Urtica,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Vineyard,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Variance,submarine,ship_hull_submarine_1,V Class,,3501,Task Force39,3501,Channel Fleet
+ENG,HMS Vengeful,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
+ENG,HMS Vortex,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
+ENG,HMS Virulent,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
+ENG,HMS Volatile,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
+ENG,HMS Vagabond,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
+ENG,HMS Votary,submarine,ship_hull_submarine_1,V Class,,3501,Task Force40,3501,Channel Fleet
 KAM,Huso,battle_carrier,ship_hull_battle_carrier_1,Huso Class,yes,13545,Dai 1 Sentai,13545,Jyoubi Kantai
 KAM,Yamashiro,battle_carrier,ship_hull_battle_carrier_1,Huso Class,,13545,Dai 1 Sentai,13545,Jyoubi Kantai
 KAM,Ise,battle_carrier,ship_hull_battle_carrier_1,Ise Class,,13545,Dai 1 Sentai,13545,Jyoubi Kantai
@@ -131,6 +384,45 @@ KAM,Ro go Dai 39 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13
 KAM,Ro go Dai 40 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
 KAM,Ro go Dai 41 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
 KAM,Ro go Dai 42 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VII Class,,13545,Dai 10 Sentai,13545,Jyoubi Kantai
+AST,HMAS Cumberland,heavy_cruiser,ship_hull_cruiser_1,Kent Class,,12406,Task Force 1,12406,Main fleet
+AST,HMAS Australia,heavy_cruiser,ship_hull_cruiser_1,Kent Class,,12406,Task Force 1,12406,Main fleet
+AST,HMAS Canberra,heavy_cruiser,ship_hull_cruiser_1,Kent Class,,12406,Task Force 1,12406,Main fleet
+AST,HMAS Ajax,light_cruiser,ship_hull_cruiser_1,Leander Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Queenborough,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quadrant,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quail,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quality,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quentin,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quiberon,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Quickmatch,destroyer,ship_hull_light_2,Q Class,,12406,Task Force 2,12406,Main fleet
+AST,HMAS Vengeance,carrier,ship_hull_light_carrier_0,Colossus Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Leopard,destroyer,ship_hull_light_2,Chacal Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Napier,destroyer,ship_hull_light_2,N Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Nestor,destroyer,ship_hull_light_2,N Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Nizam,destroyer,ship_hull_light_2,N Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Norman,destroyer,ship_hull_light_2,N Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Nepal,destroyer,ship_hull_light_2,N Class,,7798,Task Force 3,7798,Main Air Fleet
+AST,HMAS Warrior,carrier,ship_hull_light_carrier_0,Colossus Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Sydney,light_cruiser,ship_hull_cruiser_1,Perth Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Lincoln,destroyer,ship_hull_light_0,Wickes Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Habit,destroyer,ship_hull_light_1,Hunt I Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Hard,destroyer,ship_hull_light_1,Hunt I Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Wade,destroyer,ship_hull_light_2,W Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Wager,destroyer,ship_hull_light_2,W Class,,7798,Task Force 4,7798,Main Air Fleet
+AST,HMAS Anzac,destroyer,ship_hull_light_2,Battle Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Tobruk,destroyer,ship_hull_light_2,Battle Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Parramatta,frigate,ship_hull_frigate_1,Grimsby Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Swan,frigate,ship_hull_frigate_1,Grimsby Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Warrego,frigate,ship_hull_frigate_1,Grimsby Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Yarra,frigate,ship_hull_frigate_1,Grimsby Class,,7798,Task Force 5,7798,Main Air Fleet
+AST,HMAS Amphion,light_cruiser,ship_hull_cruiser_1,Leander Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Quilliam,destroyer,ship_hull_light_2,Q Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Rotherham,destroyer,ship_hull_light_2,R Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Raider,destroyer,ship_hull_light_2,R Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Redoubt,destroyer,ship_hull_light_2,R Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Arunta,destroyer,ship_hull_light_1,Tribal II Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Warramunga,destroyer,ship_hull_light_1,Tribal II Class,,7798,Task Force 6,7798,Main Air Fleet
+AST,HMAS Bataan,destroyer,ship_hull_light_1,Tribal II Class,,7798,Task Force 6,7798,Main Air Fleet
 NGU,Kumotori,battleship,ship_hull_heavy_2,Kumotori Class,yes,12237,Dai 101 Sentai,12237,Tokubetsu Nanken Kantai
 NGU,Suisyou,battleship,ship_hull_heavy_2,Kumotori Class,yes,12237,Dai 101 Sentai,12237,Tokubetsu Nanken Kantai
 NGU,Inaba,heavy_cruiser,ship_hull_cruiser_coastal_defense_ship_2,Inaba Class,yes,12237,Dai 101 Sentai,12237,Tokubetsu Nanken Kantai
@@ -1452,6 +1744,46 @@ MEX,ARM Gutérrez Zamora,frigate,ship_hull_micro_4,Auk Class,,4908,Escuadra de P
 MEX,ARM Mariano Matamoros,frigate,ship_hull_micro_4,Auk Class,,4908,Escuadra de Pacífico patrulla,4908,Flota del Pacífico
 MEX,ARM Juan Aldama,frigate,ship_hull_micro_4,Auk Class,,4908,Escuadra de Pacífico patrulla,4908,Flota del Pacífico
 MEX,ARM Hermenegildo Galeana,frigate,ship_hull_micro_4,Auk Class,,4908,Escuadra de Pacífico patrulla,4908,Flota del Pacífico
+MAN,IMNS Dingyan,battleship,ship_hull_super_heavy_1,Dingyan Class,yes,11764,Zhuyi zhan dui,11764,Zhuli zhan dui
+MAN,IMNS Zhenyuan,battleship,ship_hull_super_heavy_1,Dingyan Class,,11764,Zhuyi zhan dui,11764,Zhuli zhan dui
+MAN,IMNS Hailon,carrier,ship_hull_carrier_1,Hailon Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Haifeng,carrier,ship_hull_carrier_1,Hailon Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Hairong,light_cruiser,ship_hull_torpedo_cruiser_1,Hairong Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Haiwang,destroyer,ship_hull_light_1,Haiwang Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Jinghai,destroyer,ship_hull_light_1,Jinghai Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS kuaima,destroyer,ship_hull_light_1,Jinghai Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Kuaihai,destroyer,ship_hull_light_1,Jinghai Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS Haima,destroyer,ship_hull_light_1,Jinghai Class,,11764,Kongjūn zhongdui,11764,Zhuli zhan dui
+MAN,IMNS RonAn,destroyer,ship_hull_light_1,Rong An Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Baihu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Huang,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Heihu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Qinghu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Luhu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Touhu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Honghu,destroyer,ship_hull_light_0,Baihu Class,,11764,Di yi xunluo dui,11764,Zhuli zhan dui
+MAN,IMNS Aiguo wan,light_cruiser,ship_hull_cruiser_0_remodeling,Aiguo Wan Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Beiguo wan,light_cruiser,ship_hull_cruiser_0_remodeling,Aiguo Wan Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Qifeng,destroyer,ship_hull_light_1,Shenfeng Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Qianti,destroyer,ship_hull_light_1,Shenfeng Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Tangmu,destroyer,ship_hull_light_1,Shenfeng Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Eunmin,frigate,ship_hull_frigate_2,Eun Min Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Huimin,frigate,ship_hull_frigate_2,Eun Min Class,,1150,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Huguo wan,light_cruiser,ship_hull_cruiser_0_remodeling,Aiguo Wan Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Guorong wan,light_cruiser,ship_hull_cruiser_0_remodeling,Aiguo Wan Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Xiaoyue,destroyer,ship_hull_light_1,Muyue Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Shuiyue,destroyer,ship_hull_light_1,Muyue Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Youyue,destroyer,ship_hull_light_1,Muyue Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Pumin,frigate,ship_hull_frigate_2,Eun Min Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS Jimin,frigate,ship_hull_frigate_2,Eun Min Class,,3900,Di er xunluo jiandui,11764,Zhuli zhan dui
+MAN,IMNS I-12,submarine,ship_hull_cruiser_submarine,I IX Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-165,submarine,ship_hull_submarine_3,Haida V Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-166,submarine,ship_hull_submarine_3,Haida V Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-167,submarine,ship_hull_submarine_3,Haida V Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-181,submarine,ship_hull_submarine_3,Xin Haida Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-182,submarine,ship_hull_submarine_3,Xin Haida Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-183,submarine,ship_hull_submarine_3,Xin Haida Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
+MAN,IMNS I-184,submarine,ship_hull_submarine_3,Xin Haida Class,,964,Qiántǐng jiànduì,11764,Zhuli zhan dui
 PNG,HMAPS Sussex,heavy_cruiser,ship_hull_cruiser_1,London Class,,4329,Task Force 1,4329,Main Fleet
 PNG,Hr. Ms. Sumatra,light_cruiser,ship_hull_cruiser_1,Java Class,,4329,Task Force 1,4329,Main Fleet
 PNG,Hr. Ms. Java,light_cruiser,ship_hull_cruiser_1,Java Class,,4329,Task Force 1,4329,Main Fleet
@@ -1621,3 +1953,414 @@ SCZ,MRSz Rigel,destroyer,ship_hull_large_frigate,Ariete Class,,4073,Terzo squadr
 SCZ,MRSz Spada,destroyer,ship_hull_large_frigate,Ariete Class,,4073,Terzo squadrone di torpediniere veloci,4073,Flotta di segnalazione del Canale di Suez
 SCZ,MRSz Spica,destroyer,ship_hull_large_frigate,Ariete Class,,4073,Terzo squadrone di torpediniere veloci,4073,Flotta di segnalazione del Canale di Suez
 SCZ,MRSz Stella Polare,destroyer,ship_hull_large_frigate,Ariete Class,,4073,Terzo squadrone di torpediniere veloci,4073,Flotta di segnalazione del Canale di Suez
+CAN,HMCS Unicorn,carrier,ship_hull_light_carrier_1,Unicorn Class,,1408,Task Force 1,1408,Pacific Navy
+CAN,HMCS Neptune,light_cruiser,ship_hull_cruiser_1,Leander Class,,1408,Task Force 1,1408,Pacific Navy
+CAN,HMCS Iroquois,destroyer,ship_hull_light_1,Tribal II Class,,1408,Task Force 1,1408,Pacific Navy
+CAN,HMCS Huron,destroyer,ship_hull_light_1,Tribal II Class,,1408,Task Force 1,1408,Pacific Navy
+CAN,HMCS Haida,destroyer,ship_hull_light_1,Tribal II Class,,1408,Task Force 1,1408,Pacific Navy
+CAN,HMCS Ariadne,light_cruiser,ship_hull_cruiser_1,Abdiel Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Crescent,destroyer,ship_hull_light_2,Cr A Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Crusader,destroyer,ship_hull_light_2,Cr A Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Objectives,destroyer,ship_hull_light_1,O Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Object,destroyer,ship_hull_light_1,O Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Occupancy,destroyer,ship_hull_light_1,O Class,,1408,Task Force 2,1408,Pacific Navy
+CAN,HMCS Leviathan,carrier,ship_hull_light_carrier_1,Majestic Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Royal Oak,battleship,ship_hull_heavy_0,Revenge Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Micmac,destroyer,ship_hull_light_1,Tribal II Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Nootka,destroyer,ship_hull_light_1,Tribal II Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Cayuga,destroyer,ship_hull_light_1,Tribal II Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Athabaskan,destroyer,ship_hull_light_1,Tribal II Class,,12149,Task Force 3,12149,Atlantic Navy
+CAN,HMCS Queen Elizabeth,battleship,ship_hull_heavy_0,Queen Elizabeth Class,,12149,Task Force 4,12149,Atlantic Navy
+CAN,HMCS Hardy,destroyer,ship_hull_light_2,V Class,,12149,Task Force 4,12149,Atlantic Navy
+CAN,HMCS Algonquin,destroyer,ship_hull_light_2,V Class,,12149,Task Force 4,12149,Atlantic Navy
+CAN,HMCS Sioux,destroyer,ship_hull_light_2,V Class,,12149,Task Force 4,12149,Atlantic Navy
+CAN,HMCS Howl,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Huddle,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Hug,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Huge,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Hunch,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Hurl,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Hunk,destroyer,ship_hull_light_1,Hunt II Class,,7361,Task Force 5,12149,Atlantic Navy
+CAN,HMCS Aurora,light_cruiser,ship_hull_cruiser_1,Arethusa Class,,7361,Task Force 6,7361,Auxiliary fleet
+CAN,HMCS Mistral,destroyer,ship_hull_light_1,Bourrasque Class,,7361,Task Force 6,7361,Auxiliary fleet
+CAN,HMCS Ouragan,destroyer,ship_hull_light_1,Bourrasque Class,,7361,Task Force 6,7361,Auxiliary fleet
+CAN,HMCS Hare,destroyer,ship_hull_light_2,Prophase Battle Class,,7361,Task Force 6,7361,Auxiliary fleet
+CAN,HMCS Hatch,destroyer,ship_hull_light_2,Prophase Battle Class,,7361,Task Force 6,7361,Auxiliary fleet
+CAN,HMCS Brandelbras,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS Borclier,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS La Cordeliere,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS La Flore,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS L Incomprise,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS La Melpomonen,destroyer,ship_hull_large_frigate,La Melpomene Class,,7361,Task Force 7,7361,Auxiliary fleet
+CAN,HMCS Roberts,heavy_cruiser,ship_hull_monitor_2,Roberts Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Abercrombie,heavy_cruiser,ship_hull_monitor_2,Roberts Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Cabin,destroyer,ship_hull_light_2,Cr B Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Cape,destroyer,ship_hull_light_2,Cr B Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Care,destroyer,ship_hull_light_2,Cr B Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Carp,destroyer,ship_hull_light_2,Cr B Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Cave,destroyer,ship_hull_light_1,Hunt III Class,,7361,Task Force 8,7361,Auxiliary fleet
+CAN,HMCS Cell,destroyer,ship_hull_light_1,Hunt III Class,,7361,Task Force 8,7361,Auxiliary fleet
+JAP,Yamato,battleship,ship_hull_super_heavy_1,Yamato Class,yes,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Musashi,battleship,ship_hull_super_heavy_1,Yamato Class,,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Hiiragi,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Kashi,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Yanagi,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Nire,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 1 Sentai,9998,Dai 1 Kantai
+JAP,Ibuki,heavy_cruiser,ship_hull_cruiser_3,Ibuki Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Tsukuba,heavy_cruiser,ship_hull_cruiser_3,Ibuki Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Karukaya,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Kuri,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Nashi,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Tade,destroyer,ship_hull_light_3,Hiiragi Class,,9998,Dai 2 Sentai,9998,Dai 1 Kantai
+JAP,Tenryu,light_cruiser,ship_hull_cruiser_4,Tenryu Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Hubuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Shirayuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Hatuyuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Miyuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Awayuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Konayuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Watayuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Usuyuki,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 1 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Tatsuta,light_cruiser,ship_hull_cruiser_4,Tenryu Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Murakumo,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Shinonome,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Usugumo,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Shirakumo,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Isonami,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Uranami,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Makinami,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Takanami,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 2 Suirai Sentai,9998,Dai 1 Kantai
+JAP,Tosa,carrier,ship_hull_carrier_conversion_shbb,Tosa Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,Nagara,light_cruiser,ship_hull_cruiser_4,Nagara Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,Huyutsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,Harutsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,Natsutsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,Yoiduki,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 1 Koukuu Senntai,9998,Dai 1 Kantai
+JAP,I go Dai 80 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,I go Dai 81 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,I go Dai 82 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,I go Dai 83 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,I go Dai 84 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,I go Dai 85 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9998,Dai 1 Sensui Sentai,9998,Dai 1 Kantai
+JAP,Akagi,carrier,ship_hull_carrier_conversion_bb,Akagi Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Kaga,carrier,ship_hull_carrier_conversion_bb,Kaga Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Yura,light_cruiser,ship_hull_cruiser_4,Yura Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Isuzu,light_cruiser,ship_hull_cruiser_4,Yura Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Shimakaze,destroyer,ship_hull_light_3,Shimakaze Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Misakikaze,destroyer,ship_hull_light_3,Shimakaze Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Ariake,destroyer,ship_hull_light_3,Ariake Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Eigetsu,destroyer,ship_hull_light_3,Ariake Class,,9998,Tokubetsu Siken Sentai,9998,Yokosuka Tinjyuhu Huzoku Shiken Kantai
+JAP,Hourai,cruiser_carrier,ship_hull_cruiser_carrier_6,Reimei Class,,13579,Dai 61 Sentai,9998,Ritou Tokubetu Konkyoti Tai Huzoku Kantai
+JAP,Kochi,destroyer,ship_hull_light_3,Kochi Class,,13579,Dai 61 Sentai,9998,Ritou Tokubetu Konkyoti Tai Huzoku Kantai
+JAP,Nishikaze,destroyer,ship_hull_light_3,Kochi Class,,13579,Dai 61 Sentai,9998,Ritou Tokubetu Konkyoti Tai Huzoku Kantai
+JAP,Minamikaze,destroyer,ship_hull_light_3,Kochi Class,,13579,Dai 61 Sentai,9998,Ritou Tokubetu Konkyoti Tai Huzoku Kantai
+JAP,Kitakaze,destroyer,ship_hull_light_3,Kochi Class,,13579,Dai 61 Sentai,9998,Ritou Tokubetu Konkyoti Tai Huzoku Kantai
+JAP,Sukai,battle_cruiser,ship_hull_heavy_2,Chichibu Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Hotaka,battle_cruiser,ship_hull_heavy_2,Chichibu Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Hasu,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Kuzu,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Warabi,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Koke,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 3 Sentai,9950,Dai 2 Kantai
+JAP,Tone,cruiser_carrier,ship_hull_cruiser_carrier_5,Tone Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Chikuma,cruiser_carrier,ship_hull_cruiser_carrier_5,Tone Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Nogi,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Susuki,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Nara,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Keyaki,destroyer,ship_hull_light_3,Hiiragi Class,,9950,Dai 4 Sentai,9950,Dai 2 Kantai
+JAP,Kuji,light_cruiser,ship_hull_cruiser_4,Kuji Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Matsu,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Take,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Ume,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Momo,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Kuwa,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Kiri,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Sugi,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Maki,destroyer,ship_hull_light_2,Matsu Class,,9950,Dai 3 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Mabechi,light_cruiser,ship_hull_cruiser_4,Kuji Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Tachibana,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Kaba,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Kaki,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Tsubaki,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Sakura,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Shii,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Kusu,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Hinoki,destroyer,ship_hull_light_2,Tachibana Class,,9950,Dai 4 Suirai Sentai,9950,Dai 2 Kantai
+JAP,Houou,carrier,ship_hull_carrier_3,Houou Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Tappi,carrier,ship_hull_carrier_3,Houou Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Amatsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Ootsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Michitsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Hanatsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Kunitsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,Niretsuki,destroyer,ship_hull_light_3,Huyutsuki Class,,9950,Dai 2 Koukuu Sentai,9950,Dai 2 Kantai
+JAP,I go Dai 86 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9859,Dai 11 Sensui Sentai,9950,Dai 2 Kantai
+JAP,I go Dai 87 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9859,Dai 11 Sensui Sentai,9950,Dai 2 Kantai
+JAP,I go Dai 88 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9859,Dai 11 Sensui Sentai,9950,Dai 2 Kantai
+JAP,I go Dai 89 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai IX Class,,9859,Dai 11 Sensui Sentai,9950,Dai 2 Kantai
+JAP,Nagato,battleship,ship_hull_heavy_1,Nagato Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Mutsu,battleship,ship_hull_heavy_1,Nagato Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Enoki,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Tsuga,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Ichigo,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Yamanire,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 5 Sentai,1092,Dai 3 Kantai
+JAP,Daisetsu,heavy_cruiser,ship_hull_cruiser_4,Daisetsu Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Hachiman,heavy_cruiser,ship_hull_cruiser_4,Daisetsu Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Akane,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Wakatake,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Kuretake,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Sanae,destroyer,ship_hull_light_3,Hiiragi Class,,1092,Dai 6 Sentai,1092,Dai 3 Kantai
+JAP,Tsurumi,light_cruiser,ship_hull_torpedo_cruiser_2,Tsurumi Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Ayase,light_cruiser,ship_hull_torpedo_cruiser_2,Tsurumi Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Akishimo,destroyer,ship_hull_light_3,Akishimo Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Hayashimo,destroyer,ship_hull_light_3,Akishimo Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Kiyoshimo,destroyer,ship_hull_light_3,Akishimo Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Huyushimo,destroyer,ship_hull_light_3,Akishimo Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Nagi,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Yuunagi,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 5 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Watarase,light_cruiser,ship_hull_torpedo_cruiser_2,Tsurumi Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Kase,light_cruiser,ship_hull_torpedo_cruiser_2,Tsurumi Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Satsuki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Minaduki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Humiduki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Haduki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Arashi,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Asanagi,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 6 Suirai Sentai,1092,Dai 3 Kantai
+JAP,Taihou,carrier,ship_hull_carrier_3,Taihou Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Natori,light_cruiser,ship_hull_cruiser_4,Nagara Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Akizuki,destroyer,ship_hull_light_3,Akizuki Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Suzutsuki,destroyer,ship_hull_light_3,Akizuki Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Hatsuzuki,destroyer,ship_hull_light_3,Akizuki Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Wakatsuki,destroyer,ship_hull_light_3,Akizuki Class,,1092,Dai 3 Koukuu Senntai,1092,Dai 3 Kantai
+JAP,Ha go Dai 141 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Kure Sensui Kantai,1092,Kure Tinjyuhu Huzoku Kantai
+JAP,Ha go Dai 142 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Kure Sensui Kantai,1092,Kure Tinjyuhu Huzoku Kantai
+JAP,Ha go Dai 143 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Kure Sensui Kantai,1092,Kure Tinjyuhu Huzoku Kantai
+JAP,Ha go Dai 144 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Kure Sensui Kantai,1092,Kure Tinjyuhu Huzoku Kantai
+JAP,Myouhou,battle_cruiser,ship_hull_heavy_2,Kumotori Class,,1136,Dai 7 Sentai,1136,Dai 4 Kantai
+JAP,Shiraiwa,battle_cruiser,ship_hull_heavy_2,Kumotori Class,,1136,Dai 7 Sentai,1136,Dai 4 Kantai
+JAP,Takatsuma,heavy_cruiser,ship_hull_cruiser_4,Takatsuma Class,,1136,Dai 8 Sentai,1136,Dai 4 Kantai
+JAP,Amigasa,heavy_cruiser,ship_hull_cruiser_4,Takatsuma Class,,1136,Dai 8 Sentai,1136,Dai 4 Kantai
+JAP,Suzuka,light_cruiser,ship_hull_cruiser_4,Suzuka Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Jintsuu,light_cruiser,ship_hull_cruiser_4,Suzuka Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Harekaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Okikaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Akekaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Kurokaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Hayate,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Oroshi,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 7 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Kiso,light_cruiser,ship_hull_cruiser_4,Suzuka Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Kuma,light_cruiser,ship_hull_cruiser_4,Suzuka Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Sukekaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Sirokaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Nijikaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Kawakaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Ookaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Kurekaze,destroyer,ship_hull_light_3,Harekaze Class,,1136,Dai 8 Suirai Sentai,1136,Dai 4 Kantai
+JAP,Zuikaku,carrier,ship_hull_carrier_1,Syokaku Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Syoukaku,carrier,ship_hull_carrier_3,Houou Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Sakatsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Takatsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Mikatduki,destroyer,ship_hull_light_3,Akizuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Matsutsuki,destroyer,ship_hull_light_3,Akizuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Kimitsuki,destroyer,ship_hull_light_3,Akizuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Shiratuki,destroyer,ship_hull_light_3,Akizuki Class,,1136,Dai 4 Koukuu Sentai,1136,Dai 4 Kantai
+JAP,Kashima,light_cruiser,ship_hull_cruiser_2,Katori Class,,1136,Dai 64 Sentai,1136,Maizuru Tinjyuhu Huzoku
+JAP,Momi,destroyer,ship_hull_light_2,Matsu Class,,1136,Dai 64 Sentai,1136,Maizuru Tinjyuhu Huzoku
+JAP,Kaya,destroyer,ship_hull_light_2,Matsu Class,,1136,Dai 64 Sentai,1136,Maizuru Tinjyuhu Huzoku
+JAP,Tsuru,destroyer,ship_hull_light_2,Matsu Class,,1136,Dai 64 Sentai,1136,Maizuru Tinjyuhu Huzoku
+JAP,Sumire,destroyer,ship_hull_light_2,Matsu Class,,1136,Dai 64 Sentai,1136,Maizuru Tinjyuhu Huzoku
+JAP,I go Dai 190 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 2 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 191 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 2 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 192 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 2 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 182 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,9859,Dai 2 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 183 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,9859,Dai 2 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 193 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 194 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 195 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VIII Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 184 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 185 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 41 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai I Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 42 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai I Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,I go Dai 43 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai I Class,,9859,Dai 3 Sensui Sentai,9859,Dai 5 Kantai
+JAP,Shinano,battleship,ship_hull_super_heavy_1,Shinano Class,,9859,Dai 9 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kinu,light_cruiser,ship_hull_cruiser_4,Nagara Class,,9859,Dai 9 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Abukuma,light_cruiser,ship_hull_cruiser_4,Nagara Class,,9859,Dai 9 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Masyuu,light_cruiser,ship_hull_CB,Masyuu Class,,1092,Dai 10 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Biwa,light_cruiser,ship_hull_CB,Masyuu Class,,1092,Dai 10 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Toya,light_cruiser,ship_hull_CB,Masyuu Class,,1092,Dai 10 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Akan,light_cruiser,ship_hull_CB,Masyuu Class,,1092,Dai 10 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Mogami,light_cruiser,ship_hull_cruiser_2,Mogami Class,,9998,Dai 11 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Suzuya,light_cruiser,ship_hull_cruiser_2,Mogami Class,,9998,Dai 11 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kumano,light_cruiser,ship_hull_cruiser_2,Mogami Class,,9998,Dai 11 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Mikuma,light_cruiser,ship_hull_cruiser_2,Mogami Class,,9998,Dai 11 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Jyounen,heavy_cruiser,ship_hull_cruiser_4,Jyounen Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kurobe,heavy_cruiser,ship_hull_cruiser_4,Jyounen Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Tsurugi,heavy_cruiser,ship_hull_cruiser_4,Jyounen Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Hida,heavy_cruiser,ship_hull_cruiser_4,Jyounen Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kirisame,destroyer,ship_hull_light_3,Hubuki Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Yuudachi,destroyer,ship_hull_light_3,Hubuki Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Harusame,destroyer,ship_hull_light_3,Hubuki Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Shigure,destroyer,ship_hull_light_3,Hubuki Class,,1092,Dai 12 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Yoneshiro,light_cruiser,ship_hull_cruiser_4,Yoneshiro Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Takase,light_cruiser,ship_hull_cruiser_4,Yoneshiro Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Usuduki,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Gekka,destroyer,ship_hull_light_3,Huyutsuki Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Samidare,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Murasame,destroyer,ship_hull_light_3,Hubuki Class,,9998,Dai 13 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Chichibu,battle_cruiser,ship_hull_heavy_2,Chichibu Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Bukou,battle_cruiser,ship_hull_heavy_2,Chichibu Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Amagiri,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Wakaba,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Nenohi,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Hatsuharu,destroyer,ship_hull_light_3,Harekaze Class,,1092,Dai 14 Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kurama,carrier,ship_hull_carrier_2,Kurama Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Ikoma,carrier,ship_hull_carrier_2,Kurama Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Koise,light_cruiser,ship_hull_cruiser_4,Koise Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kozakura,light_cruiser,ship_hull_cruiser_4,Koise Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Soratsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kotsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1092,Dai 6 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Ryujyo,light_carrier,ship_hull_light_carrier_2,Ryujyo Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Hakuryu,light_carrier,ship_hull_light_carrier_2,Ryujyo Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Yukiire,light_cruiser,ship_hull_cruiser_4,Koise Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kawamata,light_cruiser,ship_hull_cruiser_4,Koise Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Hurutsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Tsunetsuki,light_cruiser,ship_hull_cruiser_4,Amatsuki Class,,1092,Dai 7 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Syunkou,cruiser_carrier,ship_hull_cruiser_carrier_6,Syunkou Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Nissin,cruiser_carrier,ship_hull_cruiser_carrier_5,Nissin Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Reimei,cruiser_carrier,ship_hull_cruiser_carrier_6,Reimei Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Nagatsuki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Shimotsuki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Mochiduki,destroyer,ship_hull_light_3,Mutsuki Class,,1092,Dai 8 Koukuu Sentai,1092,Dai 1 Kidou Kantai
+JAP,Atsuta,light_cruiser,ship_hull_cruiser_4,Atsuta Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kanro,destroyer,ship_hull_light_3,Tsuyu Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Yamatsuyu,destroyer,ship_hull_light_3,Tsuyu Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Shimotuyu,destroyer,ship_hull_light_3,Tsuyu Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Umitsuyu,destroyer,ship_hull_light_3,Tsuyu Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kiyokaze,destroyer,ship_hull_light_3,Kiyokaze Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Umekaze,destroyer,ship_hull_light_3,Kiyokaze Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kiwakaze,destroyer,ship_hull_light_3,Kiyokaze Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Matsukaze,destroyer,ship_hull_light_3,Kiyokaze Class,,1092,Dai 9 Suirai Sentai,1092,Dai 1 Kidou Kantai
+JAP,Kashii,light_cruiser,ship_hull_cruiser_2,Katori Class,,12299,Dai 62 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Soratsuyu,destroyer,ship_hull_light_3,Tsuyu Class,,12299,Dai 62 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Shiratsuyu,destroyer,ship_hull_light_3,Tsuyu Class,,12299,Dai 62 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Amatsuyu,destroyer,ship_hull_light_3,Tsuyu Class,,12299,Dai 62 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Huuro,destroyer,ship_hull_light_3,Tsuyu Class,,12299,Dai 62 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Kasado,light_cruiser,ship_hull_cruiser_4,Kasado Class,,12299,Dai 63 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Mutsuki,destroyer,ship_hull_light_3,Mutsuki Class,,12299,Dai 63 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Kisaragi,destroyer,ship_hull_light_3,Mutsuki Class,,12299,Dai 63 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Yayoi,destroyer,ship_hull_light_3,Mutsuki Class,,12299,Dai 63 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Tamanami,destroyer,ship_hull_light_3,Mutsuki Class,,12299,Dai 63 Sentai,12299,Dai 1 Nanken Kantai
+JAP,Shimusyu,light_cruiser,ship_hull_cruiser_4,Kasado Class,,4608,Dai 50 Sentai,4608,Dai 2 Nanken Kantai
+JAP,Yaeyama,light_cruiser,ship_hull_cruiser_4,Yaeyama Class,,4608,Dai 50 Sentai,4608,Dai 2 Nanken Kantai
+JAP,Miyako,light_cruiser,ship_hull_cruiser_4,Yaeyama Class,,4608,Dai 50 Sentai,4608,Dai 2 Nanken Kantai
+JAP,Yonaguni,light_cruiser,ship_hull_cruiser_4,Yaeyama Class,,4608,Dai 50 Sentai,4608,Dai 2 Nanken Kantai
+JAP,Shingetsu,destroyer,ship_hull_light_3,Mutsuki Class,,4608,Dai 50 Sentai,4608,Dai 2 Nanken Kantai
+JAP,Ha go Dai 145 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Dai 10 Sensui Sentai,4608,Dai 2 Nanken Kantai
+JAP,Ha go Dai 146 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Dai 10 Sensui Sentai,4608,Dai 2 Nanken Kantai
+JAP,Ha go Dai 147 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Dai 10 Sensui Sentai,4608,Dai 2 Nanken Kantai
+JAP,Ha go Dai 148 Sensuikan,submarine,ship_hull_miget_sub,Sen ko III Class,,1092,Dai 10 Sensui Sentai,4608,Dai 2 Nanken Kantai
+JAP,Katori,light_cruiser,ship_hull_cruiser_2,Katori Class,,12299,Dai 65 Sentai,12299,Dai 3 Nanken Kantai
+JAP,Natsukaze,destroyer,ship_hull_light_3,Natsukaze Class,,12299,Dai 65 Sentai,12299,Dai 3 Nanken Kantai
+JAP,Harukaze,destroyer,ship_hull_light_3,Natsukaze Class,,12299,Dai 65 Sentai,12299,Dai 3 Nanken Kantai
+JAP,Akikaze,destroyer,ship_hull_light_3,Natsukaze Class,,12299,Dai 65 Sentai,12299,Dai 3 Nanken Kantai
+JAP,Huyukaze,destroyer,ship_hull_light_3,Natsukaze Class,,12299,Dai 65 Sentai,12299,Dai 3 Nanken Kantai
+JAP,Okinoshima,light_cruiser,ship_hull_cruiser_2,Okinoshima Class,,11914,Dai 65 Sentai,11914,Dai 4 Nanken Kantai
+JAP,Hayasui,cruiser_carrier,ship_hull_cruiser_carrier_5,Hayasui Class,,11914,Dai 65 Sentai,11914,Dai 4 Nanken Kantai
+JAP,Mizuho,cruiser_carrier,ship_hull_cruiser_carrier_5,Nissin Class,,11914,Dai 65 Sentai,11914,Dai 4 Nanken Kantai
+JAP,Hayakaze,destroyer,ship_hull_light_3,Kagerou Class,,11914,Dai 65 Sentai,11914,Dai 4 Nanken Kantai
+JAP,Arare,destroyer,ship_hull_light_2,Asashio Class,,11914,Dai 65 Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 176 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 177 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 178 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 179 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 180 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 181 Sensuikan,submarine,ship_hull_submarine_3,Kai Dai VII Class,,11914,Dai 6 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 201 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 202 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 203 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 204 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 205 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 206 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 207 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 208 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 209 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 210 Sensuikan,submarine,ship_hull_submarine_3,Sen Taka Oo Class,,11914,Dai 7 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 50 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 51 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 52 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 53 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 54 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 55 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 56 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 57 Sensuikan,submarine,ship_hull_submarine_2,Kai Tyu VIII Class,,11914,Dai 8 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 60 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 61 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 62 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 63 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 64 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 65 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 66 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,Ro go Dai 67 Sensuikan,submarine,ship_hull_submarine_3,Kai Tyu IX Class,,11914,Dai 9 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 52 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Hei Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 53 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Hei Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 54 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Hei Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 55 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 56 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 57 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 58 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 59 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+JAP,I go Dai 60 Sensuikan,submarine,ship_hull_cruiser_submarine,Jyun Sen Otsu Kai II Class,,11914,Dai 10 Sensui Sentai,11914,Dai 4 Nanken Kantai
+ALB,MRA Faà di Bruno,heavy_cruiser,ship_hull_monitor,Faà di Bruno Class,,11767,Flotta di incrociatori,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Taranto,light_cruiser,ship_hull_cruiser_0,Taranto Class,,11767,Flotta di incrociatori,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Ancona,light_cruiser,ship_hull_cruiser_0,Ancona Class,,11767,Flotta di incrociatori,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Bari,light_cruiser,ship_hull_cruiser_defenced_cruiser,Bari Class,,11767,Flotta di incrociatori,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Palestro,destroyer,ship_hull_light_0_old,Palestro Class,,11767,Seconda flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA San Martino,destroyer,ship_hull_light_0_old,Palestro Class,,11767,Seconda flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Solferino,destroyer,ship_hull_light_0_old,Palestro Class,,11767,Seconda flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Spica,destroyer,ship_hull_large_frigate,Spica Class,,11767,Seconda flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Astore,destroyer,ship_hull_large_frigate,Spica Class,,11767,Seconda flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Gabbiano,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Procellaria,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Cormorano,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Pellicano,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Cicogna,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Folaga,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Ibis,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Gru,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Antilope,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Gazzella,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Camoscio,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRA Capriolo,frigate,ship_hull_frigate_1,Gabbiano Class,,11767,Terza flotta di sicurezza,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Goffredo Mameli,submarine,ship_hull_submarine_1,Goffredo Mameli Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Giovanni da Procida,submarine,ship_hull_submarine_1,Goffredo Mameli Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Pier Capponi,submarine,ship_hull_submarine_1,Goffredo Mameli Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Tito Speri,submarine,ship_hull_submarine_1,Goffredo Mameli Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Giovanni Bausan,submarine,ship_hull_submarine_1,Vettor Pisani Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Marcantonio Colonna,submarine,ship_hull_submarine_1,Vettor Pisani Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Des Geneys,submarine,ship_hull_submarine_1,Vettor Pisani Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Vettor Pisani,submarine,ship_hull_submarine_1,Vettor Pisani Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Smeraldo,submarine,ship_hull_submarine_2,Sirena Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Topazio,submarine,ship_hull_submarine_2,Sirena Class,,11767,1 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Ettore Fieramosca,submarine,ship_hull_cruiser_submarine,Ettore Fieramosca Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Ondina,submarine,ship_hull_submarine_2,Sirena Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Rubino,submarine,ship_hull_submarine_2,Sirena Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Argonauta,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Fisalia,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Jalea,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Jantina,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Medusa,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Salpa,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Serpente,submarine,ship_hull_miget_sub,Argonauta Class,,11767,2 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Luigi Settembrini,submarine,ship_hull_submarine_2,Luigi Settembrini Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Ruggiero Settimo,submarine,ship_hull_submarine_2,Luigi Settembrini Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Sirena,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Ametista,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Anfitrite,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Diamante,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Galatea,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Naiade,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Nereide,submarine,ship_hull_submarine_2,Sirena Class,,11767,3 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Zaffiro,submarine,ship_hull_submarine_2,Sirena Class,,11767,4 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Pietro Micca,submarine,ship_hull_submarine_2,Pietro Micca Class,,11767,4 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Pietro Calvi,submarine,ship_hull_cruiser_submarine,Pietro Calvi Class,,11767,4 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Enrico Tazzoli,submarine,ship_hull_cruiser_submarine,Pietro Calvi Class,,11767,4 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico
+ALB,MRAS Giuseppe Finzi,submarine,ship_hull_cruiser_submarine,Pietro Calvi Class,,11767,4 Squadriglia di sottomarini,11767,Flotta di Guardia dell'Adriatico

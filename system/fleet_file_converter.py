@@ -14,7 +14,7 @@ add_equipment_production_results = []
 
 # Iterate over files in the selected directory
 for input_filename in os.listdir(input_dir):
-    if 'navy' in input_filename or 'naval' in input_filename:
+    if 'navy' in input_filename or 'naval' in input_filename or 'Naval' in input_filename or 'Navy' in input_filename or 'NoMtG' in input_filename:
         input_file = os.path.join(input_dir, input_filename)
         output_filename = f"converted_{input_filename}.csv"
         output_dir = "database/fleet"
