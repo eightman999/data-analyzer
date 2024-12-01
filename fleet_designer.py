@@ -10,8 +10,6 @@ class FleetDesignerApp:
         self.root.title("Fleet Designer")
         self.root.geometry("1024x480")  # Adjusted width to accommodate the info panel
 
-        self.drag_data = None  # Initialize drag_data
-
         self.search_var = tk.StringVar()
 
         self.search_entry = tk.Entry(root, textvariable=self.search_var)
@@ -26,10 +24,6 @@ class FleetDesignerApp:
         self.info_panel = tk.Label(root, text="Select an item to see details", anchor="nw", justify="left")
         self.info_panel.pack(side=tk.RIGHT, fill=tk.BOTH, expand=True)
 
-        self.tree.bind("<Control-c>", self.copy)
-        self.tree.bind("<Control-v>", self.paste)
-        self.tree.bind("<B1-Motion>", self.drag)
-        self.tree.bind("<ButtonRelease-1>", self.drop)
         self.tree.bind("<<TreeviewSelect>>", self.show_info)
 
         self.ship_details = {}  # Dictionary to store ship details
@@ -65,13 +59,13 @@ class FleetDesignerApp:
                     naval_base = row[8]  # Assuming naval base is in the 9th column
 
                     if tag not in self.fleet_nodes:
-                        self.fleet_nodes[tag] = self.tree.insert(self.root_node, "end", text=tag, open=True)
+                        self.fleet_nodes[tag] = self.tree.insert(self.root_node, "end", text=f"Fleet: {tag}", open=True)
 
                     if fleet_name not in self.taskforce_nodes:
-                        self.taskforce_nodes[fleet_name] = self.tree.insert(self.fleet_nodes[tag], "end", text=fleet_name, open=True)
+                        self.taskforce_nodes[fleet_name] = self.tree.insert(self.fleet_nodes[tag], "end", text=f"Taskforce: {fleet_name}", open=True)
 
                     if taskforce_name not in self.taskforce_nodes:
-                        self.taskforce_nodes[taskforce_name] = self.tree.insert(self.taskforce_nodes[fleet_name], "end", text=taskforce_name, open=True)
+                        self.taskforce_nodes[taskforce_name] = self.tree.insert(self.taskforce_nodes[fleet_name], "end", text=f"Taskforce: {taskforce_name}", open=True)
 
                     self.ship_nodes[ship_name] = self.tree.insert(self.taskforce_nodes[taskforce_name], "end", text=ship_name, open=True)
 
@@ -93,40 +87,6 @@ class FleetDesignerApp:
                 self.tree.selection_set(node)
             else:
                 self.tree.selection_remove(node)
-
-    def copy(self, event):
-        selected_item = self.tree.selection()[0]
-        self.clipboard = self.tree.item(selected_item, "text")
-
-    def paste(self, event):
-        selected_item = self.tree.selection()[0]
-        self.tree.insert(selected_item, "end", text=self.clipboard)
-
-    def drag(self, event):
-        self.drag_data = self.tree.selection()[0]
-
-    def drop(self, event):
-        target = self.tree.identify_row(event.y)
-        if target:
-            drag_type = self.get_node_type(self.drag_data)
-            target_type = self.get_node_type(target)
-            if (drag_type == "ship" and target_type != "taskforce") or \
-                    (drag_type == "taskforce" and target_type != "fleet") or \
-                    (drag_type == "fleet" and target_type != "root"):
-                return
-            self.tree.move(self.drag_data, target, "end")
-
-    def get_node_type(self, node):
-        parent = self.tree.parent(node)
-        if parent == "":
-            return "root"
-        grandparent = self.tree.parent(parent)
-        if grandparent == "":
-            return "fleet"
-        great_grandparent = self.tree.parent(grandparent)
-        if great_grandparent == "":
-            return "taskforce"
-        return "ship"
 
     def show_info(self, event):
         selected_item = self.tree.selection()[0]
@@ -152,6 +112,18 @@ class FleetDesignerApp:
             info += f"Naval Base: {ship_details['naval_base']}\n"
 
         self.info_panel.config(text=info)
+
+    def get_node_type(self, node):
+        parent = self.tree.parent(node)
+        if parent == "":
+            return "root"
+        grandparent = self.tree.parent(parent)
+        if grandparent == "":
+            return "fleet"
+        great_grandparent = self.tree.parent(grandparent)
+        if great_grandparent == "":
+            return "taskforce"
+        return "ship"
 
     def get_ship_details(self, shipname):
         return self.ship_details.get(shipname, {})
