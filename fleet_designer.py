@@ -1,7 +1,7 @@
 import os
 import csv
 import tkinter as tk
-from tkinter import ttk
+from tkinter import ttk, messagebox
 from PIL import Image, ImageTk
 
 class FleetDesignerApp:
@@ -164,6 +164,7 @@ class FleetDesignerApp:
             print("Ship node selected")
             self.display_ships(selected_item)
             self.display_ship_details(self.tree.item(selected_item, "text"))
+            self.show_design_button()
 
 
     def display_task_forces(self, fleet_node):
@@ -273,6 +274,111 @@ class FleetDesignerApp:
 
     def get_ship_details(self, shipname):
         return self.ship_details.get(shipname, {})
+
+    def show_design_button(self):
+        if hasattr(self, 'design_button'):
+            self.design_button.pack_forget()  # Remove the button if it already exists
+
+        self.design_button = tk.Button(self.root, text="Design", command=self.open_design_window)
+        self.design_button.pack(side=tk.RIGHT)
+
+    def open_design_window(self):
+        selected_item = self.tree.selection()[0]
+        ship_name = self.tree.item(selected_item, "text")
+        ship_details = self.get_ship_details(ship_name)
+        version_name = ship_details.get('version_name')
+
+        if not version_name:
+            return  # Do not proceed if 'version_name' is empty
+
+        design_file = 'system/database/design/converted__ssw_variants_navy.csv'
+        elements = []
+
+        with open(design_file, newline='') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                if 'version_name' in row and row['version_name'] == version_name:
+                    # Check if the row has any non-empty elements other than the header
+                    if any(value for key, value in row.items() if key != 'version_name' and value):
+                        elements.append(row)
+
+        if not elements:
+            messagebox.showinfo("No Data", "No design elements found for the selected version.")
+            return
+
+        def save_changes():
+            # Read the entire CSV file
+            with open(design_file, 'r', newline='') as csvfile:
+                reader = csv.DictReader(csvfile)
+                all_rows = list(reader)
+
+            # Update only the modified rows based on version_name and Section
+            for element in elements:
+                for row in all_rows:
+                    if row['version_name'] == element['version_name'] and row['Section'] == element['Section']:
+                        row.update(element)
+
+            # Write the updated rows back to the CSV file
+            with open(design_file, 'w', newline='') as csvfile:
+                fieldnames = all_rows[0].keys()
+                writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+                writer.writeheader()
+                writer.writerows(all_rows)
+
+            messagebox.showinfo("Success", "Changes saved successfully.")
+
+        def on_cell_edit(event):
+            item = tree.selection()[0]
+            col = tree.identify_column(event.x)
+            col_index = int(col[1:]) - 1
+            entry = tk.Entry(tree)
+            entry.place(x=event.x, y=event.y)
+            entry.focus()
+
+            def save_edit(event):
+                new_value = entry.get()
+                tree.set(item, column=col, value=new_value)
+                elements[int(item)][columns[col_index]] = new_value
+                entry.destroy()
+
+            entry.bind("<Return>", save_edit)
+            entry.bind("<FocusOut>", lambda e: entry.destroy())
+
+        design_window = tk.Toplevel(self.root)
+        design_window.title(f"{version_name}")
+
+        # Add scrollbars to the Treeview
+        tree_scrollbar_y = tk.Scrollbar(design_window, orient=tk.VERTICAL)
+        tree_scrollbar_y.pack(side=tk.RIGHT, fill=tk.Y)
+        tree_scrollbar_x = tk.Scrollbar(design_window, orient=tk.HORIZONTAL)
+        tree_scrollbar_x.pack(side=tk.BOTTOM, fill=tk.X)
+
+        tree = ttk.Treeview(design_window, yscrollcommand=tree_scrollbar_y.set, xscrollcommand=tree_scrollbar_x.set)
+        tree.pack(expand=True, fill=tk.BOTH)
+        tree_scrollbar_y.config(command=tree.yview)
+        tree_scrollbar_x.config(command=tree.xview)
+
+        # Filter out columns with no elements other than the header and remove the first column
+        columns = [col for col in list(elements[0].keys())[1:] if any(row[col] for row in elements if col != 'version_name')]
+
+        tree["columns"] = columns
+        for col in columns:
+            tree.heading(col, text=col)
+            max_width = max(len(str(row[col])) for row in elements) * 10  # Estimate width based on character count
+            tree.column(col, width=max_width)
+
+        for i, element in enumerate(elements):
+            # Check if the row has any non-empty elements other than the header
+            if any(value for key, value in element.items() if key != 'version_name' and value):
+                tree.insert("", "end", iid=i, values=[element[col] for col in columns])
+
+        tree.bind("<Double-1>", on_cell_edit)
+
+        save_button = tk.Button(design_window, text="Save", command=save_changes)
+        save_button.pack(side=tk.BOTTOM)
+
+
+
 
 if __name__ == "__main__":
     root = tk.Tk()
