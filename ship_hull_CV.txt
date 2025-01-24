@@ -1,0 +1,3344 @@
+# Archetype: CV
+	USH_USA_CV_1_Langley_class = {
+	year = 1920
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_10
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_12
+				primary_sub_armament_slot = SM_HNG_10
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 509531.0
+		max_strength = 1279.375
+		build_cost_ic = 2760.0
+		surface_visibility = 107.125
+		resources = {
+			steel = 11.4
+		}
+		manpower = 468.00
+	}
+
+	USH_ENG_CV_1_Argus_class = {
+	year = 1918
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_2
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_4
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_2
+				secondary_armament_slot = SM_HNG_9
+				primary_sub_armament_slot = SM_HNG_4
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 798557.25
+		max_strength = 1631.375
+		build_cost_ic = 3410.125
+		surface_visibility = 127.5
+		resources = {
+			steel = 11.7
+		}
+		manpower = 495.00
+	}
+
+	USH_ENG_CV_1_Furious_class = {
+	year = 1918
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_9
+				primary_sub_armament_slot = SM_HNG_12
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2664482.25
+		max_strength = 2361.0
+		build_cost_ic = 5192.0
+		surface_visibility = 431.25
+		resources = {
+			steel = 12.3
+		}
+		manpower = 1108.00
+	}
+
+	USH_JPN_CV_1_houshou_class = {
+	year = 1922
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_11
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_11
+				secondary_armament_slot = SM_HNG_8
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 377157.75
+		max_strength = 911.875
+		build_cost_ic = 1822.625
+		surface_visibility = 97.25
+		resources = {
+			steel = 10.8
+		}
+		manpower = 550.00
+	}
+
+	SSH_CV_1 = {
+	year = 1920
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_10
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_9
+				secondary_armament_slot = SM_HNG_10
+				primary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 990923.625
+		max_strength = 1571.375
+		build_cost_ic = 3325.125
+		surface_visibility = 162.25
+		resources = {
+			steel = 11.6
+		}
+		manpower = 655.25
+	}
+
+	USH_JPN_CV_2_ryuujou_class = {
+	year = 1933
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_15
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_15
+				primary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 873627.125
+		max_strength = 1133.625
+		build_cost_ic = 2699.875
+		surface_visibility = 129.625
+		resources = {
+			steel = 11.3
+		}
+		manpower = 916.00
+	}
+
+	USH_ENG_CV_2_Glorious_class = {
+	year = 1930
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_11
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_9
+				secondary_armament_slot = SM_HNG_11
+				primary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2732837.75
+		max_strength = 2418.125
+		build_cost_ic = 5811.0
+		surface_visibility = 425.375
+		resources = {
+			steel = 12.5
+		}
+		manpower = 1108.00
+	}
+
+	SSH_CV_2 = {
+	year = 1932
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_11
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_13
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_11
+				secondary_armament_slot = SM_HNG_13
+				primary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 1813869.875
+		max_strength = 1843.25
+		build_cost_ic = 4290.0
+		surface_visibility = 245.375
+		resources = {
+			steel = 12.0
+		}
+		manpower = 1012.00
+	}
+
+	USH_USA_BCONVCV_1_Lexington_class = {
+	year = 1927
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_38
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_38
+				primary_sub_armament_slot = SM_HNG_18
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 7163416.5
+		max_strength = 3635.625
+		build_cost_ic = 8653.0
+		surface_visibility = 741.0
+		resources = {
+			steel = 13.0
+		}
+		manpower = 1940.00
+	}
+
+	USH_JPN_BCONVCV_1_kaga_class = {
+	year = 1927
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_21
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_21
+				secondary_armament_slot = SM_HNG_27
+				primary_sub_armament_slot = SM_HNG_27
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4215242.875
+		max_strength = 3209.75
+		build_cost_ic = 7493.0
+		surface_visibility = 553.25
+		resources = {
+			steel = 12.8
+		}
+		manpower = 1271.00
+	}
+
+	USH_FRA_BCONVCV_1_Bearn_class = {
+	year = 1927
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_6
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_18
+				secondary_armament_slot = SM_HNG_18
+				primary_sub_armament_slot = SM_HNG_6
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2099289.625
+		max_strength = 2386.625
+		build_cost_ic = 5625.0
+		surface_visibility = 300.375
+		resources = {
+			steel = 12.4
+		}
+		manpower = 875.00
+	}
+
+	USH_JPN_BCONVCV_1_akagi_class = {
+	year = 1927
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_19
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_35
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_25
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_19
+				primary_sub_armament_slot = SM_HNG_35
+				secondary_sub_armament_slot = SM_HNG_25
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 6362321.0
+		max_strength = 3739.0
+		build_cost_ic = 9271.0
+		surface_visibility = 646.25
+		resources = {
+			steel = 13.1
+		}
+		manpower = 1630.00
+	}
+
+	SSH_BB_CONV_CV_1 = {
+	year = 1927
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_15
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_23
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_19
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_15
+				secondary_armament_slot = SM_HNG_23
+				primary_sub_armament_slot = SM_HNG_19
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4781190.75
+		max_strength = 3266.25
+		build_cost_ic = 7760.5
+		surface_visibility = 549.875
+		resources = {
+			steel = 12.9
+		}
+		manpower = 1429.00
+	}
+
+	USH_JPN_SHBCONVCV_1_shinano_class = {
+	year = 1945
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_8
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 16162158.625
+		max_strength = 6409.75
+		build_cost_ic = 17980.0
+		surface_visibility = 961.5
+		resources = {
+			steel = 14.1
+		}
+		manpower = 2400.00
+	}
+
+	SSH_SHB_CONVCV_1 = {
+	year = 1945
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_4
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_8
+				secondary_sub_armament_slot = SM_HNG_4
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 0.0
+		max_strength = 5506.25
+		build_cost_ic = 17980.0
+		surface_visibility = 961.5
+		resources = {
+			steel = 14.1
+		}
+		manpower = 
+	}
+
+	USH_USA_CV_3_Ranger_class = {
+	year = 1934
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_4
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_24
+				secondary_sub_armament_slot = SM_HNG_4
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2225784.75
+		max_strength = 1746.875
+		build_cost_ic = 3906.25
+		surface_visibility = 310.75
+		resources = {
+			steel = 11.9
+		}
+		manpower = 1369.00
+	}
+
+	USH_JPN_CV_3_souryuu_class = {
+	year = 1937
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_24
+				secondary_sub_armament_slot = SM_HNG_12
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2060939.5
+		max_strength = 1925.125
+		build_cost_ic = 4356.5
+		surface_visibility = 221.0
+		resources = {
+			steel = 12.0
+		}
+		manpower = 1100.00
+	}
+
+	USH_USA_CV_3_Wasp_class = {
+	year = 1940
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_28
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_28
+				secondary_armament_slot = SM_HNG_18
+				primary_sub_armament_slot = SM_HNG_18
+				secondary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2491086.625
+		max_strength = 1910.125
+		build_cost_ic = 4410.5
+		surface_visibility = 421.75
+		resources = {
+			steel = 12.1
+		}
+		manpower = 1388.00
+	}
+
+	SSH_CV_3 = {
+	year = 1937
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_22
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_6
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_22
+				secondary_armament_slot = SM_HNG_27
+				primary_sub_armament_slot = SM_HNG_18
+				secondary_sub_armament_slot = SM_HNG_6
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2283048.125
+		max_strength = 1878.25
+		build_cost_ic = 4222.125
+		surface_visibility = 310.75
+		resources = {
+			steel = 12.0
+		}
+		manpower = 1285.67
+	}
+
+	USH_USA_CV_4_Yorktown_class = {
+	year = 1937
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_25
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_37
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_25
+				secondary_armament_slot = SM_HNG_37
+				primary_sub_armament_slot = SM_HNG_12
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 3613743.125
+		max_strength = 2434.125
+		build_cost_ic = 5754.0
+		surface_visibility = 727.875
+		resources = {
+			steel = 12.4
+		}
+		manpower = 1519.00
+	}
+
+	USH_ENG_CV_4_Ark Royal_class = {
+	year = 1938
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_21
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_3
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_21
+				primary_sub_armament_slot = SM_HNG_9
+				secondary_sub_armament_slot = SM_HNG_3
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2132061.375
+		max_strength = 2362.125
+		build_cost_ic = 6072.0
+		surface_visibility = 466.625
+		resources = {
+			steel = 12.5
+		}
+		manpower = 863.00
+	}
+
+	USH_JPN_CV_4_hiryuu_class = {
+	year = 1939
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_16
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_3
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_16
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_18
+				secondary_sub_armament_slot = SM_HNG_3
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2177759.625
+		max_strength = 1991.125
+		build_cost_ic = 4809.375
+		surface_visibility = 235.375
+		resources = {
+			steel = 12.2
+		}
+		manpower = 1103.00
+	}
+
+	SSH_CV_4 = {
+	year = 1938
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_22
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_31
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_13
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_22
+				secondary_armament_slot = SM_HNG_31
+				primary_sub_armament_slot = SM_HNG_13
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 2645131.5
+		max_strength = 2265.375
+		build_cost_ic = 5547.5
+		surface_visibility = 446.875
+		resources = {
+			steel = 12.4
+		}
+		manpower = 1161.67
+	}
+
+	USH_ENG_CV_5_Illustrious_class = {
+	year = 1940
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_14
+				secondary_armament_slot = SM_HNG_14
+				primary_sub_armament_slot = SM_HNG_14
+				secondary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2180715.5
+		max_strength = 2497.25
+		build_cost_ic = 6497.875
+		surface_visibility = 407.75
+		resources = {
+			steel = 12.6
+		}
+		manpower = 817.00
+	}
+
+	USH_JPN_CV_5_shoukaku_class = {
+	year = 1941
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_18
+				secondary_armament_slot = SM_HNG_27
+				primary_sub_armament_slot = SM_HNG_27
+				secondary_sub_armament_slot = SM_HNG_12
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4851042.125
+		max_strength = 2918.625
+		build_cost_ic = 7240.25
+		surface_visibility = 421.75
+		resources = {
+			steel = 12.8
+		}
+		manpower = 1660.00
+	}
+
+	USH_JPN_CV_5_ootori_class = {
+	year = 1941
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_19
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_17
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_3
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_1
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_19
+				secondary_armament_slot = SM_HNG_17
+				primary_sub_armament_slot = SM_HNG_14
+				secondary_sub_armament_slot = SM_HNG_3
+				primary_light_armament_slot = SM_HNG_1
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 5465080.0
+		max_strength = 3252.25
+		build_cost_ic = 8262.5
+		surface_visibility = 721.5
+		resources = {
+			steel = 13.0
+		}
+		manpower = 1649.00
+	}
+
+	SSH_CV_5 = {
+	year = 1941
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_17
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_19
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_17
+				secondary_armament_slot = SM_HNG_19
+				primary_sub_armament_slot = SM_HNG_18
+				secondary_sub_armament_slot = SM_HNG_8
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4083311.75
+		max_strength = 2888.5
+		build_cost_ic = 7349.0
+		surface_visibility = 506.25
+		resources = {
+			steel = 12.8
+		}
+		manpower = 1375.33
+	}
+
+	USH_JPN_CV_6_unryuu_class = {
+	year = 1944
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_27
+				primary_sub_armament_slot = SM_HNG_18
+				secondary_sub_armament_slot = SM_HNG_8
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 2399649.5
+		max_strength = 2087.75
+		build_cost_ic = 4939.125
+		surface_visibility = 235.375
+		resources = {
+			steel = 12.2
+		}
+		manpower = 1151.00
+	}
+
+	USH_ENG_CV_6_Implacable_class = {
+	year = 1943
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_14
+				secondary_armament_slot = SM_HNG_14
+				primary_sub_armament_slot = SM_HNG_14
+				secondary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4201099.375
+		max_strength = 2664.625
+		build_cost_ic = 6706.625
+		surface_visibility = 437.5
+		resources = {
+			steel = 12.7
+		}
+		manpower = 1585.00
+	}
+
+	USH_GER_CV_6_Graf Zeppelin_class = {
+	year = 1943
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_10
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_13
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_20
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_10
+				secondary_armament_slot = SM_HNG_13
+				primary_sub_armament_slot = SM_HNG_20
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 6415964.5
+		max_strength = 3566.875
+		build_cost_ic = 9595.25
+		surface_visibility = 643.5
+		resources = {
+			steel = 13.2
+		}
+		manpower = 1720.00
+	}
+
+	SSH_CV_6 = {
+	year = 1943
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_18
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_17
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_9
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_12
+				secondary_armament_slot = SM_HNG_18
+				primary_sub_armament_slot = SM_HNG_17
+				secondary_sub_armament_slot = SM_HNG_9
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 4194597.625
+		max_strength = 2786.75
+		build_cost_ic = 7068.875
+		surface_visibility = 415.875
+		resources = {
+			steel = 12.7
+		}
+		manpower = 1485.33
+	}
+
+	USH_USA_CV_7_Essex_class = {
+	year = 1942
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_38
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_15
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_15
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_38
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_15
+				secondary_sub_armament_slot = SM_HNG_15
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 6836947.25
+		max_strength = 3204.75
+		build_cost_ic = 7696.375
+		surface_visibility = 533.875
+		resources = {
+			steel = 12.9
+		}
+		manpower = 2170.00
+	}
+
+	USH_USA_CV_7_Midway_class = {
+	year = 1945
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_32
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_32
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_32
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_32
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_32
+				secondary_armament_slot = SM_HNG_32
+				primary_sub_armament_slot = SM_HNG_32
+				secondary_sub_armament_slot = SM_HNG_32
+				primary_light_armament_slot = SM_HNG_8
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 20445743.75
+		max_strength = 5335.25
+		build_cost_ic = 13050.0
+		surface_visibility = 2022.125
+		resources = {
+			steel = 13.6
+		}
+		manpower = 4104.00
+	}
+
+	USH_USA_CV_7_Essex_classSCB-27 = {
+	year = 1950
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_16
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_16
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_16
+				secondary_sub_armament_slot = SM_HNG_16
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 8117247.25
+		max_strength = 3720.875
+		build_cost_ic = 9900.0
+		surface_visibility = 518.625
+		resources = {
+			steel = 13.2
+		}
+		manpower = 2170.00
+	}
+
+	SSH_CV_7 = {
+	year = 1946
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_35
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_35
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_21
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_21
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_35
+				secondary_armament_slot = SM_HNG_35
+				primary_sub_armament_slot = SM_HNG_21
+				secondary_sub_armament_slot = SM_HNG_21
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 11145284.125
+		max_strength = 4098.375
+		build_cost_ic = 10229.625
+		surface_visibility = 871.75
+		resources = {
+			steel = 13.3
+		}
+		manpower = 2814.67
+	}
+
+	USH_USA_CV_8_Midway_classSCB-110 = {
+	year = 1956
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_26
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_36
+				secondary_sub_armament_slot = SM_HNG_26
+				primary_light_armament_slot = SM_HNG_12
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 27674529.375
+		max_strength = 6726.125
+		build_cost_ic = 19535.5
+		surface_visibility = 5141.875
+		resources = {
+			steel = 14.2
+		}
+		manpower = 4104.00
+	}
+
+	USH_USA_CV_8_Essex_classSCB-125 = {
+	year = 1955
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_16
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_16
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_16
+				secondary_sub_armament_slot = SM_HNG_16
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 8334247.25
+		max_strength = 3818.75
+		build_cost_ic = 10540.0
+		surface_visibility = 504.125
+		resources = {
+			steel = 13.3
+		}
+		manpower = 2170.00
+	}
+
+	USH_USA_CV_8_Forrestal_class = {
+	year = 1955
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_24
+				secondary_sub_armament_slot = SM_HNG_24
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 33358007.5
+		max_strength = 6981.125
+		build_cost_ic = 18491.5
+		surface_visibility = 1321.375
+		resources = {
+			steel = 14.1
+		}
+		manpower = 5100.00
+	}
+
+	USH_ENG_CV_8_Audacious_class = {
+	year = 1951
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_14
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_14
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_12
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 12057733.125
+		max_strength = 4664.125
+		build_cost_ic = 13004.0
+		surface_visibility = 1489.625
+		resources = {
+			steel = 13.6
+		}
+		manpower = 2500.00
+	}
+
+	USH_ENG_CV_8_Gibraltar_class = {
+	year = 1950
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_24
+				secondary_armament_slot = SM_HNG_24
+				primary_sub_armament_slot = SM_HNG_24
+				secondary_sub_armament_slot = SM_HNG_24
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 13121030.0
+		max_strength = 5031.0
+		build_cost_ic = 14070.0
+		surface_visibility = 1209.0
+		resources = {
+			steel = 13.7
+		}
+		manpower = 2500.00
+	}
+
+	SSH_CV_8 = {
+	year = 1953
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_29
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_27
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_22
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_20
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_29
+				secondary_armament_slot = SM_HNG_27
+				primary_sub_armament_slot = SM_HNG_22
+				secondary_sub_armament_slot = SM_HNG_20
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 17817242.625
+		max_strength = 5436.0
+		build_cost_ic = 15068.875
+		surface_visibility = 1663.625
+		resources = {
+			steel = 13.8
+		}
+		manpower = 3274.80
+	}
+
+	USH_USA_CV_9_Midway_classSCB-101/66 = {
+	year = 1966
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_36
+				secondary_sub_armament_slot = SM_HNG_36
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 27674529.375
+		max_strength = 6754.125
+		build_cost_ic = 20787.75
+		surface_visibility = 5002.875
+		resources = {
+			steel = 14.3
+		}
+		manpower = 4104.00
+	}
+
+	USH_ENG_CV_9_CVA-01_class = {
+	year = 1965
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_28
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_28
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_24
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_28
+				secondary_armament_slot = SM_HNG_28
+				primary_sub_armament_slot = SM_HNG_24
+				secondary_sub_armament_slot = SM_HNG_24
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 15602376.25
+		max_strength = 5446.75
+		build_cost_ic = 17490.0
+		surface_visibility = 2208.875
+		resources = {
+			steel = 14.0
+		}
+		manpower = 2720.00
+	}
+
+	USH_USA_CV_9_Kitty Hawk_class = {
+	year = 1961
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_40
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_30
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_2
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_40
+				secondary_armament_slot = SM_HNG_30
+				primary_sub_armament_slot = SM_HNG_8
+				secondary_sub_armament_slot = SM_HNG_2
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 18689798.0
+		max_strength = 5845.625
+		build_cost_ic = 19352.125
+		surface_visibility = 5386.25
+		resources = {
+			steel = 14.2
+		}
+		manpower = 2902.00
+	}
+
+	SSH_CV_9 = {
+	year = 1964
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_35
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_31
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_23
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_21
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_35
+				secondary_armament_slot = SM_HNG_31
+				primary_sub_armament_slot = SM_HNG_23
+				secondary_sub_armament_slot = SM_HNG_21
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 20470157.375
+		max_strength = 6015.25
+		build_cost_ic = 19211.375
+		surface_visibility = 4043.5
+		resources = {
+			steel = 14.2
+		}
+		manpower = 3242.00
+	}
+
+	USH_USA_CVN_Enterprise_class = {
+	year = 1961
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_12
+							primary_light_armament_slot = empty
+
+							secondary_light_armament_slot = empty
+
+		}
+		max_organisation = 37101535.25
+		max_strength = 7544.75
+		build_cost_ic = 24375.375
+		surface_visibility = 9431.75
+		resources = {
+			steel = 14.5
+		}
+		manpower = 4600.00
+	}
+
+	SSH_CVN_1 = {
+	year = 1961
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_12
+							primary_light_armament_slot = empty
+
+							secondary_light_armament_slot = empty
+
+		}
+		max_organisation = 37101535.25
+		max_strength = 7544.75
+		build_cost_ic = 24375.375
+		surface_visibility = 9431.75
+		resources = {
+			steel = 14.5
+		}
+		manpower = 4600.00
+	}
+
+	USH_USA_CVN_Nimitz_class = {
+	year = 1975
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		secondary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_8
+				primary_light_armament_slot = SM_HNG_8
+							secondary_light_armament_slot = empty
+
+		}
+		max_organisation = 27672642.25
+		max_strength = 6907.125
+		build_cost_ic = 25930.0
+		surface_visibility = 11188.125
+		resources = {
+			steel = 14.6
+		}
+		manpower = 3532.00
+	}
+
+	SSH_CVN_2 = {
+	year = 1975
+	archetype = ship_hull_CV
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_36
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_12
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				SM_HNG_8
+			}
+		}
+		secondary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_CV
+				primary_armament_slot = SM_HNG_36
+				secondary_armament_slot = SM_HNG_36
+				primary_sub_armament_slot = SM_HNG_12
+				secondary_sub_armament_slot = SM_HNG_8
+				primary_light_armament_slot = SM_HNG_8
+							secondary_light_armament_slot = empty
+
+		}
+		max_organisation = 27672642.25
+		max_strength = 6907.125
+		build_cost_ic = 25930.0
+		surface_visibility = 11188.125
+		resources = {
+			steel = 14.6
+		}
+		manpower = 3532.00
+	}
+

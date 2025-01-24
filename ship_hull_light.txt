@@ -1,0 +1,8497 @@
+# Archetype: light
+	USH_ENG_DD_0_A_class_I = {
+	year = 1898
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5895.625
+		max_strength = 277.0
+		build_cost_ic = 62.625
+		surface_visibility = 0.125
+		resources = {
+			steel = 5.9
+		}
+		manpower = 60.00
+	}
+
+	USH_ENG_DD_0_B_class_I = {
+	year = 1900
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5295.625
+		max_strength = 286.5
+		build_cost_ic = 84.0
+		surface_visibility = 0.375
+		resources = {
+			steel = 6.3
+		}
+		manpower = 60.00
+	}
+
+	USH_JPN_DD_0_kaminari_class = {
+	year = 1895
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5187.5
+		max_strength = 275.75
+		build_cost_ic = 57.875
+		surface_visibility = 0.25
+		resources = {
+			steel = 5.8
+		}
+		manpower = 52.00
+	}
+
+	USH_ENG_DD_0_C_class_I = {
+	year = 1895
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5235.625
+		max_strength = 287.375
+		build_cost_ic = 81.625
+		surface_visibility = 0.375
+		resources = {
+			steel = 6.3
+		}
+		manpower = 60.00
+	}
+
+	USH_ENG_DD_0_D_class_I = {
+	year = 1895
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5685.625
+		max_strength = 280.25
+		build_cost_ic = 67.375
+		surface_visibility = 0.25
+		resources = {
+			steel = 6.0
+		}
+		manpower = 60.00
+	}
+
+	USH_JPN_DD_0_shinonome_class = {
+	year = 1899
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5687.5
+		max_strength = 277.25
+		build_cost_ic = 63.75
+		surface_visibility = 0.125
+		resources = {
+			steel = 5.9
+		}
+		manpower = 58.00
+	}
+
+	USH_JPN_DD_0_kamikaze_class_I = {
+	year = 1905
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5713.875
+		max_strength = 282.625
+		build_cost_ic = 80.0
+		surface_visibility = 0.375
+		resources = {
+			steel = 6.3
+		}
+		manpower = 62.00
+	}
+
+	USH_USA_DD_0_Bainbridge_class = {
+	year = 1900
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -6619.5
+		max_strength = 285.875
+		build_cost_ic = 84.0
+		surface_visibility = 0.5
+		resources = {
+			steel = 6.3
+		}
+		manpower = 75.00
+	}
+
+	SSH_DD_0 = {
+	year = 1898
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5682.875
+		max_strength = 281.625
+		build_cost_ic = 72.25
+		surface_visibility = 0.25
+		resources = {
+			steel = 6.1
+		}
+		manpower = 60.88
+	}
+
+	USH_ENG_DD_1_E_class_I = {
+	year = 1904
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -4515.625
+		max_strength = 299.0
+		build_cost_ic = 114.375
+		surface_visibility = 0.375
+		resources = {
+			steel = 6.8
+		}
+		manpower = 60.00
+	}
+
+	USH_ENG_DD_1_F_class_I = {
+	year = 1907
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -2601.625
+		max_strength = 333.75
+		build_cost_ic = 196.875
+		surface_visibility = 1.125
+		resources = {
+			steel = 7.6
+		}
+		manpower = 68.00
+	}
+
+	USH_USA_DD_1_Paulding_class = {
+	year = 1910
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -4717.875
+		max_strength = 316.625
+		build_cost_ic = 165.875
+		surface_visibility = 1.625
+		resources = {
+			steel = 7.3
+		}
+		manpower = 86.00
+	}
+
+	USH_ENG_DD_1_G_class_I = {
+	year = 1908
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -3432.875
+		max_strength = 334.75
+		build_cost_ic = 204.0
+		surface_visibility = 1.5
+		resources = {
+			steel = 7.6
+		}
+		manpower = 96.00
+	}
+
+	SSH_DD_1 = {
+	year = 1907
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_5 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_D
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+							locked_slot_5 = Non_releasable_locking_module
+
+		}
+		max_organisation = -3955.125
+		max_strength = 321.0
+		build_cost_ic = 169.5
+		surface_visibility = 1.125
+		resources = {
+			steel = 7.4
+		}
+		manpower = 77.50
+	}
+
+	USH_ENG_DD_2_H_class_I = {
+	year = 1910
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -3820.25
+		max_strength = 319.125
+		build_cost_ic = 169.75
+		surface_visibility = 1.5
+		resources = {
+			steel = 7.4
+		}
+		manpower = 72.00
+	}
+
+	USH_USA_DD_2_Cassin_class = {
+	year = 1912
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -2867.375
+		max_strength = 340.375
+		build_cost_ic = 226.125
+		surface_visibility = 2.5
+		resources = {
+			steel = 7.8
+		}
+		manpower = 98.00
+	}
+
+	USH_ENG_DD_2_I_class_I = {
+	year = 1911
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -4091.875
+		max_strength = 319.75
+		build_cost_ic = 172.625
+		surface_visibility = 1.125
+		resources = {
+			steel = 7.4
+		}
+		manpower = 78.00
+	}
+
+	USH_JPN_DD_2_umikaze_class = {
+	year = 1910
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -3789.0
+		max_strength = 340.5
+		build_cost_ic = 226.5
+		surface_visibility = 1.75
+		resources = {
+			steel = 7.8
+		}
+		manpower = 139.00
+	}
+
+	USH_JPN_DD_2_urakaze_class = {
+	year = 1915
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -5664.75
+		max_strength = 320.5
+		build_cost_ic = 186.25
+		surface_visibility = 1.75
+		resources = {
+			steel = 7.5
+		}
+		manpower = 115.00
+	}
+
+	USH_ENG_DD_2_K_class_I = {
+	year = 1913
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -2325.75
+		max_strength = 339.375
+		build_cost_ic = 222.375
+		surface_visibility = 1.5
+		resources = {
+			steel = 7.7
+		}
+		manpower = 73.00
+	}
+
+	USH_USA_DD_2_Aylwin_class = {
+	year = 1913
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -3092.5
+		max_strength = 342.125
+		build_cost_ic = 234.125
+		surface_visibility = 2.625
+		resources = {
+			steel = 7.8
+		}
+		manpower = 116.00
+	}
+
+	USH_ENG_DD_2_L_class_I = {
+	year = 1913
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 1025.0
+		max_strength = 341.75
+		build_cost_ic = 226.625
+		surface_visibility = 1.625
+		resources = {
+			steel = 7.8
+		}
+		manpower = 73.00
+	}
+
+	USH_USA_DD_2_Tucker_class = {
+	year = 1915
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 2845.375
+		max_strength = 354.0
+		build_cost_ic = 264.5
+		surface_visibility = 2.625
+		resources = {
+			steel = 8.0
+		}
+		manpower = 99.00
+	}
+
+	SSH_DD_2 = {
+	year = 1912
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = -2574.0
+		max_strength = 335.375
+		build_cost_ic = 213.25
+		surface_visibility = 1.875
+		resources = {
+			steel = 7.7
+		}
+		manpower = 95.89
+	}
+
+	USH_ENG_DD_3_M_class_I = {
+	year = 1915
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 1266.75
+		max_strength = 343.375
+		build_cost_ic = 235.75
+		surface_visibility = 1.5
+		resources = {
+			steel = 7.8
+		}
+		manpower = 78.00
+	}
+
+	USH_ENG_DD_3_R_class_I = {
+	year = 1913
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 1454.75
+		max_strength = 345.0
+		build_cost_ic = 235.0
+		surface_visibility = 1.625
+		resources = {
+			steel = 7.8
+		}
+		manpower = 82.00
+	}
+
+	USH_ENG_DD_3_V_W_class_I = {
+	year = 1918
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 3504.25
+		max_strength = 348.125
+		build_cost_ic = 259.5
+		surface_visibility = 8.0
+		resources = {
+			steel = 8.0
+		}
+		manpower = 134.00
+	}
+
+	USH_JPN_DD_3_isokaze_class = {
+	year = 1915
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 3580.25
+		max_strength = 359.375
+		build_cost_ic = 282.125
+		surface_visibility = 2.0
+		resources = {
+			steel = 8.1
+		}
+		manpower = 145.00
+	}
+
+	SSH_DD_3 = {
+	year = 1915
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 2321.375
+		max_strength = 349.0
+		build_cost_ic = 252.5
+		surface_visibility = 1.875
+		resources = {
+			steel = 7.9
+		}
+		manpower = 109.75
+	}
+
+	USH_ENG_DD_4_A_class_II = {
+	year = 1930
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 7071.25
+		max_strength = 373.25
+		build_cost_ic = 357.5
+		surface_visibility = 3.125
+		resources = {
+			steel = 8.4
+		}
+		manpower = 138.00
+	}
+
+	USH_FRA_DD_4_Bourrasque_class = {
+	year = 1926
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 6481.0
+		max_strength = 367.25
+		build_cost_ic = 332.375
+		surface_visibility = 3.375
+		resources = {
+			steel = 8.3
+		}
+		manpower = 142.00
+	}
+
+	USH_JPN_DD_4_minekaze_class = {
+	year = 1920
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 5459.375
+		max_strength = 358.25
+		build_cost_ic = 291.5
+		surface_visibility = 2.875
+		resources = {
+			steel = 8.1
+		}
+		manpower = 145.00
+	}
+
+	USH_JPN_DD_4_kamikaze_class_II = {
+	year = 1922
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 8366.5
+		max_strength = 375.625
+		build_cost_ic = 341.5
+		surface_visibility = 3.0
+		resources = {
+			steel = 8.4
+		}
+		manpower = 149.00
+	}
+
+	USH_ENG_DD_4_B_class_II = {
+	year = 1931
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 9126.5
+		max_strength = 370.625
+		build_cost_ic = 356.25
+		surface_visibility = 3.125
+		resources = {
+			steel = 8.4
+		}
+		manpower = 175.00
+	}
+
+	SSH_DD_4 = {
+	year = 1926
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 7419.75
+		max_strength = 368.75
+		build_cost_ic = 336.0
+		surface_visibility = 3.0
+		resources = {
+			steel = 8.3
+		}
+		manpower = 149.80
+	}
+
+	USH_ENG_DD_5_C_class_II = {
+	year = 1932
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 8761.75
+		max_strength = 373.5
+		build_cost_ic = 363.0
+		surface_visibility = 3.25
+		resources = {
+			steel = 8.5
+		}
+		manpower = 138.00
+	}
+
+	USH_JPN_DD_5_ichigatsu_class = {
+	year = 1926
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 10221.25
+		max_strength = 379.625
+		build_cost_ic = 364.125
+		surface_visibility = 2.875
+		resources = {
+			steel = 8.5
+		}
+		manpower = 145.00
+	}
+
+	USH_JPN_DD_5_fubuki_class = {
+	year = 1928
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 30634.125
+		max_strength = 400.25
+		build_cost_ic = 430.0
+		surface_visibility = 5.0
+		resources = {
+			steel = 8.7
+		}
+		manpower = 207.00
+	}
+
+	USH_ENG_DD_5_D_class_II = {
+	year = 1933
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 9206.25
+		max_strength = 373.25
+		build_cost_ic = 365.75
+		surface_visibility = 3.25
+		resources = {
+			steel = 8.5
+		}
+		manpower = 145.00
+	}
+
+	SSH_DD_5 = {
+	year = 1930
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 13591.5
+		max_strength = 381.625
+		build_cost_ic = 381.875
+		surface_visibility = 3.5
+		resources = {
+			steel = 8.5
+		}
+		manpower = 158.75
+	}
+
+	USH_ENG_DD_6_E_class_II = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 10692.5
+		max_strength = 371.125
+		build_cost_ic = 361.75
+		surface_visibility = 3.375
+		resources = {
+			steel = 8.4
+		}
+		manpower = 145.00
+	}
+
+	USH_ENG_DD_6_F_class_II = {
+	year = 1935
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 10837.5
+		max_strength = 371.5
+		build_cost_ic = 367.125
+		surface_visibility = 3.25
+		resources = {
+			steel = 8.5
+		}
+		manpower = 145.00
+	}
+
+	USH_ITA_DD_6_Freccia_class = {
+	year = 1931
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 16807.625
+		max_strength = 403.25
+		build_cost_ic = 442.75
+		surface_visibility = 2.875
+		resources = {
+			steel = 8.7
+		}
+		manpower = 156.00
+	}
+
+	USH_ITA_DD_6_Maestrale_class = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 16557.0
+		max_strength = 394.5
+		build_cost_ic = 431.375
+		surface_visibility = 3.875
+		resources = {
+			steel = 8.7
+		}
+		manpower = 166.00
+	}
+
+	USH_USA_DD_6_Farragut_class = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 12038.625
+		max_strength = 372.0
+		build_cost_ic = 365.75
+		surface_visibility = 3.75
+		resources = {
+			steel = 8.5
+		}
+		manpower = 160.00
+	}
+
+	USH_USA_DD_6_Porter_class = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 24005.75
+		max_strength = 415.25
+		build_cost_ic = 495.75
+		surface_visibility = 5.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 194.00
+	}
+
+	USH_JPN_DD_6_shoshun_class = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 16929.375
+		max_strength = 373.125
+		build_cost_ic = 375.125
+		surface_visibility = 3.875
+		resources = {
+			steel = 8.5
+		}
+		manpower = 215.00
+	}
+
+	USH_JPN_DD_6_hakuro_class = {
+	year = 1936
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 24826.375
+		max_strength = 398.625
+		build_cost_ic = 458.25
+		surface_visibility = 3.875
+		resources = {
+			steel = 8.8
+		}
+		manpower = 226.00
+	}
+
+	SSH_DD_6 = {
+	year = 1934
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							locked_slot_3 = Non_releasable_locking_module
+
+		}
+		max_organisation = 16289.375
+		max_strength = 387.625
+		build_cost_ic = 412.375
+		surface_visibility = 3.75
+		resources = {
+			steel = 8.6
+		}
+		manpower = 175.88
+	}
+
+	USH_JPN_DD_7_asashio_class = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33286.125
+		max_strength = 428.125
+		build_cost_ic = 548.0
+		surface_visibility = 4.75
+		resources = {
+			steel = 9.0
+		}
+		manpower = 219.00
+	}
+
+	USH_USA_DD_7_Mahan_class = {
+	year = 1936
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 14198.625
+		max_strength = 383.875
+		build_cost_ic = 408.0
+		surface_visibility = 3.875
+		resources = {
+			steel = 8.6
+		}
+		manpower = 160.00
+	}
+
+	USH_USA_DD_7_Gridley_class = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 15443.125
+		max_strength = 392.375
+		build_cost_ic = 435.625
+		surface_visibility = 4.125
+		resources = {
+			steel = 8.7
+		}
+		manpower = 158.00
+	}
+
+	USH_ITA_DD_7_Oriani_class = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 23544.375
+		max_strength = 405.625
+		build_cost_ic = 479.5
+		surface_visibility = 3.75
+		resources = {
+			steel = 8.9
+		}
+		manpower = 207.00
+	}
+
+	USH_ENG_DD_7_G_class_II = {
+	year = 1936
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 10475.0
+		max_strength = 369.25
+		build_cost_ic = 363.0
+		surface_visibility = 3.125
+		resources = {
+			steel = 8.5
+		}
+		manpower = 145.00
+	}
+
+	SSH_DD_7 = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 18642.5
+		max_strength = 395.875
+		build_cost_ic = 447.875
+		surface_visibility = 3.875
+		resources = {
+			steel = 8.8
+		}
+		manpower = 177.80
+	}
+
+	USH_ENG_DD_8_I_class_II = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 12903.75
+		max_strength = 373.0
+		build_cost_ic = 375.375
+		surface_visibility = 3.0
+		resources = {
+			steel = 8.5
+		}
+		manpower = 145.00
+	}
+
+	USH_ENG_DD_8_Tribal_class = {
+	year = 1937
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 26408.375
+		max_strength = 417.75
+		build_cost_ic = 512.375
+		surface_visibility = 4.625
+		resources = {
+			steel = 9.0
+		}
+		manpower = 190.00
+	}
+
+	USH_JPN_DD_8_kagerou_class = {
+	year = 1939
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 32539.75
+		max_strength = 413.625
+		build_cost_ic = 512.625
+		surface_visibility = 5.25
+		resources = {
+			steel = 9.0
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_8_J_K_N_class = {
+	year = 1939
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 27902.125
+		max_strength = 406.5
+		build_cost_ic = 489.25
+		surface_visibility = 4.25
+		resources = {
+			steel = 8.9
+		}
+		manpower = 218.00
+	}
+
+	USH_USA_DD_8_Sims_class = {
+	year = 1939
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 49221.0
+		max_strength = 473.0
+		build_cost_ic = 685.25
+		surface_visibility = 4.375
+		resources = {
+			steel = 9.4
+		}
+		manpower = 235.00
+	}
+
+	SSH_DD_8 = {
+	year = 1938
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 28544.125
+		max_strength = 416.75
+		build_cost_ic = 513.875
+		surface_visibility = 4.25
+		resources = {
+			steel = 9.0
+		}
+		manpower = 202.60
+	}
+
+	USH_ENG_DD_9_L_class_II = {
+	year = 1941
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 35358.0
+		max_strength = 422.875
+		build_cost_ic = 545.625
+		surface_visibility = 4.875
+		resources = {
+			steel = 9.0
+		}
+		manpower = 226.00
+	}
+
+	USH_JPN_DD_9_sekiun_class = {
+	year = 1941
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 39024.25
+		max_strength = 435.5
+		build_cost_ic = 585.625
+		surface_visibility = 5.25
+		resources = {
+			steel = 9.1
+		}
+		manpower = 225.00
+	}
+
+	USH_USA_DD_9_Gleaves_class = {
+	year = 1940
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 35532.625
+		max_strength = 393.25
+		build_cost_ic = 456.375
+		surface_visibility = 4.375
+		resources = {
+			steel = 8.8
+		}
+		manpower = 276.00
+	}
+
+	USH_USA_DD_9_Fletcher_class = {
+	year = 1940
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_3 = Releasable_locking_module
+
+		}
+		max_organisation = 61177.25
+		max_strength = 435.875
+		build_cost_ic = 588.0
+		surface_visibility = 6.125
+		resources = {
+			steel = 9.1
+		}
+		manpower = 322.00
+	}
+
+	USH_JPN_DD_9_akizuki_class = {
+	year = 1942
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_3 = Releasable_locking_module
+
+		}
+		max_organisation = 68247.625
+		max_strength = 490.875
+		build_cost_ic = 766.75
+		surface_visibility = 7.75
+		resources = {
+			steel = 9.5
+		}
+		manpower = 273.00
+	}
+
+	USH_JPN_DD_9_fuyugatsu_class = {
+	year = 1942
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_3 = Releasable_locking_module
+
+		}
+		max_organisation = 69612.625
+		max_strength = 494.875
+		build_cost_ic = 781.0
+		surface_visibility = 14.875
+		resources = {
+			steel = 9.6
+		}
+		manpower = 273.00
+	}
+
+	USH_JPN_DD_9_shimakaze_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 63196.625
+		max_strength = 479.375
+		build_cost_ic = 734.125
+		surface_visibility = 6.75
+		resources = {
+			steel = 9.5
+		}
+		manpower = 267.00
+	}
+
+	USH_ENG_DD_9_M_class_II = {
+	year = 1942
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 39209.0
+		max_strength = 423.5
+		build_cost_ic = 549.5
+		surface_visibility = 4.875
+		resources = {
+			steel = 9.1
+		}
+		manpower = 226.00
+	}
+
+	USH_ENG_DD_9_O_class = {
+	year = 1941
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 23448.5
+		max_strength = 388.25
+		build_cost_ic = 434.25
+		surface_visibility = 4.25
+		resources = {
+			steel = 8.7
+		}
+		manpower = 175.00
+	}
+
+	USH_ENG_DD_9_P_class = {
+	year = 1941
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 28618.125
+		max_strength = 388.0
+		build_cost_ic = 437.0
+		surface_visibility = 4.25
+		resources = {
+			steel = 8.7
+		}
+		manpower = 212.00
+	}
+
+	SSH_DD_9 = {
+	year = 1941
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 45062.625
+		max_strength = 435.5
+		build_cost_ic = 586.0
+		surface_visibility = 6.0
+		resources = {
+			steel = 9.1
+		}
+		manpower = 247.50
+	}
+
+	USH_JPN_DD_10_kaiakizuki_class = {
+	year = 1944
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 84897.375
+		max_strength = 520.75
+		build_cost_ic = 872.625
+		surface_visibility = 8.25
+		resources = {
+			steel = 9.7
+		}
+		manpower = 300.00
+	}
+
+	USH_USA_DD_10_Allen_M_Sumner_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 67869.125
+		max_strength = 446.25
+		build_cost_ic = 634.875
+		surface_visibility = 7.125
+		resources = {
+			steel = 9.3
+		}
+		manpower = 336.00
+	}
+
+	USH_USA_DD_10_Gearing_class = {
+	year = 1944
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 75597.125
+		max_strength = 467.75
+		build_cost_ic = 705.5
+		surface_visibility = 7.0
+		resources = {
+			steel = 9.4
+		}
+		manpower = 336.00
+	}
+
+	SSH_DD_10 = {
+	year = 1944
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 76677.25
+		max_strength = 478.375
+		build_cost_ic = 739.125
+		surface_visibility = 7.5
+		resources = {
+			steel = 9.5
+		}
+		manpower = 324.00
+	}
+
+	USH_ENG_DD_9B_Q_class = {
+	year = 1942
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 32623.0
+		max_strength = 397.0
+		build_cost_ic = 468.5
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.8
+		}
+		manpower = 225.00
+	}
+
+	USH_JPN_DD_9B_matsu_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 26571.0
+		max_strength = 358.75
+		build_cost_ic = 360.875
+		surface_visibility = 2.75
+		resources = {
+			steel = 8.4
+		}
+		manpower = 289.00
+	}
+
+	USH_ENG_DD_9B_R_class_II = {
+	year = 1942
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 32623.0
+		max_strength = 397.0
+		build_cost_ic = 468.5
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.8
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_9B_S_class_II = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 32623.0
+		max_strength = 397.0
+		build_cost_ic = 471.875
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.8
+		}
+		manpower = 225.00
+	}
+
+	SSH_DD_9B = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 31908.75
+		max_strength = 387.5
+		build_cost_ic = 444.125
+		surface_visibility = 4.125
+		resources = {
+			steel = 8.7
+		}
+		manpower = 241.00
+	}
+
+	USH_ENG_DD_10B_T_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 34423.0
+		max_strength = 404.375
+		build_cost_ic = 494.75
+		surface_visibility = 4.75
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_10B_U_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33973.0
+		max_strength = 402.5
+		build_cost_ic = 489.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_10B_V_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33973.0
+		max_strength = 402.5
+		build_cost_ic = 489.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_10B_W_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33973.0
+		max_strength = 402.5
+		build_cost_ic = 489.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_10B_Z_class = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33973.0
+		max_strength = 402.5
+		build_cost_ic = 489.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_10B_C_class_III = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 33973.0
+		max_strength = 402.5
+		build_cost_ic = 489.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	SSH_DD_10B = {
+	year = 1943
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 34048.0
+		max_strength = 402.75
+		build_cost_ic = 490.0
+		surface_visibility = 4.625
+		resources = {
+			steel = 8.9
+		}
+		manpower = 225.00
+	}
+
+	USH_ENG_DD_11_Battle_class = {
+	year = 1944
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 52238.375
+		max_strength = 457.875
+		build_cost_ic = 666.625
+		surface_visibility = 6.5
+		resources = {
+			steel = 9.3
+		}
+		manpower = 247.00
+	}
+
+	USH_ENG_DD_11_Weapon_class = {
+	year = 1947
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 45005.25
+		max_strength = 424.5
+		build_cost_ic = 577.625
+		surface_visibility = 5.125
+		resources = {
+			steel = 9.1
+		}
+		manpower = 255.00
+	}
+
+	USH_ENG_DD_11_Daring_class = {
+	year = 1952
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 78108.375
+		max_strength = 503.125
+		build_cost_ic = 860.25
+		surface_visibility = 7.625
+		resources = {
+			steel = 9.7
+		}
+		manpower = 297.00
+	}
+
+	USH_USA_DD_11_Mitscher_class = {
+	year = 1953
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 120467.0
+		max_strength = 571.5
+		build_cost_ic = 1114.375
+		surface_visibility = 14.625
+		resources = {
+			steel = 10.1
+		}
+		manpower = 350.00
+	}
+
+	SSH_DD_11 = {
+	year = 1949
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+		}
+		max_organisation = 71465.25
+		max_strength = 489.5
+		build_cost_ic = 801.0
+		surface_visibility = 7.875
+		resources = {
+			steel = 9.6
+		}
+		manpower = 287.25
+	}
+
+	USH_CAN_DD_12_St_Laurent_class = {
+	year = 1955
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDE
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 63430.625
+		max_strength = 483.625
+		build_cost_ic = 806.0
+		surface_visibility = 6.375
+		resources = {
+			steel = 9.6
+		}
+		manpower = 249.00
+	}
+
+	USH_JPN_DD_12_harukaze_class = {
+	year = 1956
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 39537.875
+		max_strength = 400.375
+		build_cost_ic = 530.375
+		surface_visibility = 3.75
+		resources = {
+			steel = 9.0
+		}
+		manpower = 240.00
+	}
+
+	USH_USA_DD_12_Gearing_class_FRAM_I = {
+	year = 1956
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							unlockable_slot_2 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							secondary_light_armament_slot = empty
+
+		}
+		max_organisation = 75597.125
+		max_strength = 465.25
+		build_cost_ic = 764.375
+		surface_visibility = 7.375
+		resources = {
+			steel = 9.5
+		}
+		manpower = 336.00
+	}
+
+	USH_JPN_DD_12_ayanami_class = {
+	year = 1958
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDE
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 36243.125
+		max_strength = 400.75
+		build_cost_ic = 537.125
+		surface_visibility = 5.125
+		resources = {
+			steel = 9.0
+		}
+		manpower = 220.00
+	}
+
+	USH_HOL_DD_13_Friesland_class = {
+	year = 1956
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 65232.375
+		max_strength = 471.875
+		build_cost_ic = 779.0
+		surface_visibility = 6.125
+		resources = {
+			steel = 9.6
+		}
+		manpower = 284.00
+	}
+
+	USH_USA_DD_12_Forrest_Sherman_class = {
+	year = 1955
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 74178.875
+		max_strength = 494.75
+		build_cost_ic = 852.5
+		surface_visibility = 11.75
+		resources = {
+			steel = 9.7
+		}
+		manpower = 275.00
+	}
+
+	SSH_DD_12 = {
+	year = 1956
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							locked_slot_2 = Non_releasable_locking_module
+
+		}
+		max_organisation = 58027.75
+		max_strength = 452.875
+		build_cost_ic = 712.125
+		surface_visibility = 6.375
+		resources = {
+			steel = 9.4
+		}
+		manpower = 267.33
+	}
+
+	USH_USA_DD_13_Allen_M_Sumner_class_FRAM_II = {
+	year = 1959
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 67869.125
+		max_strength = 443.75
+		build_cost_ic = 705.875
+		surface_visibility = 7.375
+		resources = {
+			steel = 9.4
+		}
+		manpower = 336.00
+	}
+
+	USH_USA_DD_13_Fletcher_class_FRAM_II = {
+	year = 1958
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 61177.25
+		max_strength = 433.5
+		build_cost_ic = 663.5
+		surface_visibility = 6.375
+		resources = {
+			steel = 9.3
+		}
+		manpower = 322.00
+	}
+
+	USH_USA_DD_13_Charles_F_Adams_class = {
+	year = 1960
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 114144.25
+		max_strength = 540.125
+		build_cost_ic = 1048.625
+		surface_visibility = 16.0
+		resources = {
+			steel = 10.0
+		}
+		manpower = 354.00
+	}
+
+	USH_JPN_v_akizuki_class = {
+	year = 1960
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 75814.625
+		max_strength = 457.125
+		build_cost_ic = 752.0
+		surface_visibility = 7.625
+		resources = {
+			steel = 9.5
+		}
+		manpower = 330.00
+	}
+
+	USH_GER_DD_13_Hamburg_class = {
+	year = 1964
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 92390.625
+		max_strength = 563.625
+		build_cost_ic = 1148.0
+		surface_visibility = 10.75
+		resources = {
+			steel = 10.1
+		}
+		manpower = 268.00
+	}
+
+	USH_ITA_DD_13_Impavido_class = {
+	year = 1963
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 105471.875
+		max_strength = 534.125
+		build_cost_ic = 1043.5
+		surface_visibility = 12.375
+		resources = {
+			steel = 10.0
+		}
+		manpower = 335.00
+	}
+
+	SSH_DD_13 = {
+	year = 1961
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 86309.75
+		max_strength = 495.5
+		build_cost_ic = 893.375
+		surface_visibility = 10.625
+		resources = {
+			steel = 9.8
+		}
+		manpower = 324.17
+	}
+
+	USH_ITA_DD_14_Audace_class = {
+	year = 1972
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 165676.75
+		max_strength = 571.25
+		build_cost_ic = 1238.375
+		surface_visibility = 18.25
+		resources = {
+			steel = 10.2
+		}
+		manpower = 380.00
+	}
+
+	USH_JPN_DD_14_yamagumo_class = {
+	year = 1966
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 59008.125
+		max_strength = 446.125
+		build_cost_ic = 680.5
+		surface_visibility = 0.0
+		resources = {
+			steel = 9.4
+		}
+		manpower = 210.00
+	}
+
+	USH_FRA_DD_14_Suffren_class = {
+	year = 1967
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 214541.0
+		max_strength = 727.125
+		build_cost_ic = 1781.875
+		surface_visibility = 22.25
+		resources = {
+			steel = 10.7
+		}
+		manpower = 352.00
+	}
+
+	USH_JPN_DD_14_takatsuki_class = {
+	year = 1967
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DD
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 110487.5
+		max_strength = 523.5
+		build_cost_ic = 1018.625
+		surface_visibility = 12.25
+		resources = {
+			steel = 9.9
+		}
+		manpower = 290.00
+	}
+
+	USH_JPN_DD_14_amatsukaze = {
+	year = 1965
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 110487.5
+		max_strength = 525.25
+		build_cost_ic = 1006.5
+		surface_visibility = 13.625
+		resources = {
+			steel = 9.9
+		}
+		manpower = 290.00
+	}
+
+	SSH_DD_14 = {
+	year = 1967
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_2 = Releasable_locking_module
+
+		}
+		max_organisation = 127145.25
+		max_strength = 560.75
+		build_cost_ic = 1141.25
+		surface_visibility = 9.625
+		resources = {
+			steel = 10.1
+		}
+		manpower = 304.40
+	}
+
+	USH_JPN_DD_15_tachikaze_class = {
+	year = 1976
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							primary_sub_armament_slot = empty
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 138685.25
+		max_strength = 599.5
+		build_cost_ic = 1355.125
+		surface_visibility = 17.5
+		resources = {
+			steel = 10.4
+		}
+		manpower = 250.00
+	}
+
+	USH_USA_DD_15_Spruance_class = {
+	year = 1975
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							primary_sub_armament_slot = empty
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 299168.5
+		max_strength = 950.5
+		build_cost_ic = 2730.0
+		surface_visibility = 34.75
+		resources = {
+			steel = 11.4
+		}
+		manpower = 315.00
+	}
+
+	USH_CAN_DD_15_Iroquois_class = {
+	year = 1972
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDH
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							primary_sub_armament_slot = empty
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 144486.625
+		max_strength = 635.125
+		build_cost_ic = 1444.75
+		surface_visibility = 26.5
+		resources = {
+			steel = 10.4
+		}
+		manpower = 245.00
+	}
+
+	USH_ENG_DD_15_Manchester_class = {
+	year = 1978
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							primary_sub_armament_slot = empty
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 201939.25
+		max_strength = 684.125
+		build_cost_ic = 1699.875
+		surface_visibility = 22.25
+		resources = {
+			steel = 10.7
+		}
+		manpower = 312.00
+	}
+
+	SSH_DD_15 = {
+	year = 1975
+	archetype = ship_hull_light
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		secondary_sub_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_DDG
+							primary_armament_slot = empty
+
+							secondary_armament_slot = empty
+
+							primary_sub_armament_slot = empty
+
+							secondary_sub_armament_slot = empty
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 192245.25
+		max_strength = 718.25
+		build_cost_ic = 1804.625
+		surface_visibility = 23.125
+		resources = {
+			steel = 10.8
+		}
+		manpower = 280.50
+	}
+

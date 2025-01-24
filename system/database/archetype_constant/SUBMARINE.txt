@@ -1,0 +1,103 @@
+    ship_hull_submarine = {
+		year = 1940
+		is_archetype = yes
+		is_buildable = no
+		type = submarine
+		group_by = archetype
+		priority = 2500
+		interface_category = interface_category_other_ships
+		module_slots = {
+			ship_type_slot = {
+				required = yes
+				allowed_module_categories = {
+					SUSRM_L
+					SUSRMs
+				}
+			}
+			primary_armament_slot = {
+				required = no
+				allowed_module_categories = {
+					SH_TP_TYPE_450mm
+				}
+				gfx = ship_deck_space_slot
+			}
+			primary_sub_armament_slot = {
+				required = no
+				allowed_module_categories = {
+					ship_light_battery
+				}
+			}
+			primary_light_armament_slot = {
+				required = no
+				allowed_module_categories = {
+					ship_sonar
+					SS_MOTOR_E_3
+				}
+			}
+			locked_slot_2 = {
+				required = no
+				allowed_module_categories = {
+					Non_releasable_locking_modules
+				}
+			}
+			locked_slot_3 = {
+				required = no
+				allowed_module_categories = {
+					Non_releasable_locking_modules
+				}
+			}
+			locked_slot_4 = {
+				required = no
+				allowed_module_categories = {
+					Non_releasable_locking_modules
+				}
+			}
+			bow_torpedo_slot = {
+				required = no
+				allowed_module_categories = {
+					SUB_SH_TP_BOW
+				}
+			}
+			engine_slot = {
+				required = no
+				allowed_module_categories = {
+					SUB_E_3
+				}
+			}
+		}
+		default_modules = {
+			ship_type_slot = SURM_SS
+			primary_armament_slot = SH_TP_TYPE_0
+			primary_sub_armament_slot = ship_oldest_light_battery_2
+			primary_light_armament_slot = SUB_MOTOR_E_610
+			locked_slot_2 = Non_releasable_locking_module
+			locked_slot_3 = Non_releasable_locking_module
+			locked_slot_4 = Non_releasable_locking_module
+			bow_torpedo_slot = SUB_SH_TP_BOW_2
+			engine_slot = SUB_E_0_480
+		}
+		lg_armor_piercing = 0
+		lg_attack = 0
+		hg_armor_piercing = 0
+		hg_attack = 0
+		torpedo_attack = 0
+		sub_attack = 0
+		anti_air_attack = 0
+		armor_value = 0
+		surface_detection = 20
+		sub_detection = 0
+		surface_visibility = 1
+		sub_visibility = 25
+		naval_speed = 0
+		reliability = 0.6
+		naval_range = 0
+		max_strength = 30
+		max_organisation = 60
+		fuel_consumption = 1
+		build_cost_ic = 220
+		resources = {
+			#oil = 1
+			steel = 1
+		}
+		manpower = 200
+	}

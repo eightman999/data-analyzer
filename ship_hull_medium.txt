@@ -1,0 +1,145 @@
+# Archetype: medium
+	SSH_TCC_1 = {
+	year = 1941
+	archetype = ship_hull_medium
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+		locked_slot_4 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_AC
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							unlockable_slot_1 = Releasable_locking_module
+
+							locked_slot_4 = Non_releasable_locking_module
+
+		}
+		max_organisation = 103938.25
+		max_strength = 623.25
+		build_cost_ic = 1124.625
+		surface_visibility = 3.5
+		resources = {
+			steel = 10.1
+		}
+		manpower = 248.00
+	}
+
+	SSH_MC_1 = {
+	year = 1934
+	archetype = ship_hull_medium
+	module_slots = {
+		ship_type_slot = {
+			required = yes
+			allowed_module_categories = {
+				
+			}
+		}
+		primary_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		locked_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_2 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		locked_slot_3 = {
+			required = yes
+			allowed_module_categories = {
+				Non_releasable_locking_modules
+			}
+		}
+		primary_light_armament_slot = {
+			required = no
+			allowed_module_categories = {
+				
+			}
+		}
+		unlockable_slot_1 = {
+			required = yes
+			allowed_module_categories = {
+				Releasable_locking_modules
+			}
+		}
+	}
+		default_modules = {
+			ship_type_slot = SRM_AC
+							primary_armament_slot = empty
+
+							locked_slot_1 = Non_releasable_locking_module
+
+							locked_slot_2 = Non_releasable_locking_module
+
+							locked_slot_3 = Non_releasable_locking_module
+
+							primary_light_armament_slot = empty
+
+							unlockable_slot_1 = Releasable_locking_module
+
+		}
+		max_organisation = 154165.625
+		max_strength = 971.75
+		build_cost_ic = 2105.625
+		surface_visibility = 10.375
+		resources = {
+			steel = 11.0
+		}
+		manpower = 184.78
+	}
+

@@ -1,239 +1,140 @@
-import pykakasi
+from datetime import datetime
 import math
 
-def convert_name(kanji,tag,type):
+from system.coefficient.cost_inclination import ship_type_coefficient
+from system.coefficient.hit_point_inclination import armor_inclination, standard_inclination
+from system.coefficient.visibility_inclination import visibility_coefficient, extents
+from system.tools.HP_tools import year_to_tech_level, default_hitpoint
+from system.tools.declaration import significant_figures
+from system.tools.global_value import L4, L3, L2, L1, LE
 
-    kakasi = pykakasi.kakasi()
-    hepburn_list = kakasi.convert(kanji)
-    hepburn = ''.join([item['hepburn'] for item in hepburn_list])
-    result = "USH_"+ tag +"_"+type+"_"+ nakaten_delete(hepburn)
-    result = classer(result)
-    return result
-
-def nakaten_delete(input):
-    result = input.replace("・", "_")
-    return result
-
-def classer(input):
-    result = input.replace("kyuu", "_class")
-    result = result.replace("kyu", "_class")
-    result = result.replace("gata", "_class")
-    result = result.replace("gou", "go_class")
-    result = result.replace("go", "go_class")
-    result = result.replace("kata", "_class")
-    return result
-
-def max_cruise_speed_converter(max_speed,cruise_speed):
-    if max_speed == cruise_speed:
-        return max_speed
-    else:
-        result = (max_speed + cruise_speed) / 2
-        return result
-
-def naval_range_converter(ship_type,naval_range,naval_range_min):
-    result = 0
-    if ship_type == "submarine":
-        result = (naval_range+naval_range_min) * 0.25
-    else:
-        result = naval_range * 0.5
-    return result
-
-def fuel_consumption_maker(fuel_amount,fuel_type):
-    fuel_consumption_ratio = 0
-    fuel_consumption = 0
-    fuel_amount_k = fuel_amount / 1000
-    if fuel_type == "coal_steam_reciprocating":
-        fuel_consumption_ratio = 1.8
-    elif fuel_type == "coal_steam_turbine":
-        fuel_consumption_ratio = 1.6
-    elif fuel_type == "oil_steam_reciprocating":
-        fuel_consumption_ratio = 1.5
-    elif fuel_type == "oil_steam_turbine":
-        fuel_consumption_ratio = 1.3
-    elif fuel_type == "diesel":
-        fuel_consumption_ratio = 0.8
-    elif fuel_type == "nuclear":
-        fuel_consumption_ratio = 0.1
-    fuel_consumption = fuel_amount_k * fuel_consumption_ratio
-    return fuel_consumption
-
-def armor_thickness_converter(max_armor_thickness,min_armor_thickness,armor_type):
-    result = 0
-    Converted_armor_type = 0
-    if max_armor_thickness == 0:
-        return result
-    if min_armor_thickness == 0:
-        min_armor_thickness = 1
-    avg_armor_thickness = (max_armor_thickness * 1.2 + min_armor_thickness * 0.8) / 2
-    if armor_type == "cupper_nickel":
-        result = avg_armor_thickness * 0.2
-        Converted_armor_type = 0.2
-    elif armor_type == "wooden":
-        result = avg_armor_thickness * 0.1
-        Converted_armor_type = 0.1
-    elif armor_type == "HV_armor_steel":
-        result = avg_armor_thickness * 0.6
-        Converted_armor_type = 0.6
-    elif armor_type == "KC_armor_steel":
-        result = avg_armor_thickness * 0.8
-        Converted_armor_type = 0.8
-    elif armor_type == "VC_armor_steel":
-        result = avg_armor_thickness * 1.0
-        Converted_armor_type = 1.0
-    elif armor_type == "VH_armor_steel":
-        result = avg_armor_thickness * 1.05
-        Converted_armor_type = 1.05
-    elif armor_type == "CNC_armor_steel":
-        result = avg_armor_thickness * 1.1
-        Converted_armor_type = 1.1
-    elif armor_type == "NC_armor_steel":
-        result = avg_armor_thickness * 1.15
-        Converted_armor_type = 1.15
-    elif armor_type == "DU_armor":
-        result = avg_armor_thickness * 2
-        Converted_armor_type = 2
-    return result,Converted_armor_type
+global locked
+global unlockable
+default_modules = []
 
 def hit_and_org_points_converter(weight, hull_type, Length, Width, dev_year, armor_thickness, armor_type, Number_of_persons):
     hit_ratio = (Length + Width) / 20 * weight / 1000
-    standard_debuff = -19.85 * (10002 / (weight + 100000))
-    armor_value = armor_thickness * (armor_type / 2) / 20 + 0.1
-    if armor_value <= 0:
-        armor_value = 1 # Set a small positive value to avoid math domain error
-    default_hitpoint = 200 * (((hull_type / 1.8) + math.log(armor_value)) / 2)
-    if dev_year < 1900:
-        hitpoint = default_hitpoint * 0.8
-    elif dev_year < 1920:
-        hitpoint = default_hitpoint * 0.9
-    elif dev_year < 1940:
-        hitpoint = default_hitpoint * 1.0
-    elif dev_year < 1960:
-        hitpoint = default_hitpoint * 1.1
-    elif dev_year < 1980:
-        hitpoint = default_hitpoint * 1.2
-    else:
-        hitpoint = default_hitpoint * 1.3
-    hitpoint = standard_debuff + hitpoint - hit_ratio + 250 + Number_of_persons/10 + weight/10
-    result = math.floor(hitpoint * 100) / 100
+    armor_value = armor_inclination(armor_thickness, armor_type)
+    result = standard_inclination(weight) + year_to_tech_level(dev_year, Number_of_persons, hull_type, armor_value) - hit_ratio + 250 + Number_of_persons/10 + weight/10
+    result = significant_figures(result, 2)
     return result
 
 def org_point_converter(weight, hull_type, Length, Width, dev_year, armor_thickness, armor_type, Number_of_persons):
-    armor_value = armor_thickness * (armor_type / 2) / 20
-    if armor_value <= 0:
-        armor_value = 1  # Set a small positive value to avoid math domain error
-    default_hitpoint = 200 * ((weight / 1000 + (hull_type*hull_type) + math.log(armor_value)) / 2)
-    orgpoint = (default_hitpoint * Number_of_persons) /weight/weight*5000
-    result = math.floor(orgpoint * 100)/100
+    armor_value = armor_inclination(armor_thickness, armor_type)
+    result = default_hitpoint(weight, hull_type, armor_value, Number_of_persons)
+    result = result
+    result = significant_figures(result, 2)
     return result
-def ship_cost_generator(weight, dev_year, armor_thickness, armor_type, hull_type,ship_type):
-    result = 0
-    if ship_type == "IC":
-        standard_weight = 10000
-    elif ship_type == "B":
-        standard_weight = 10000
-    elif ship_type == "BC":
-        standard_weight = 30000
-    elif ship_type == "BB":
-        standard_weight = 35000
-    elif ship_type == "AC":
-        standard_weight = 4000
-    elif ship_type == "CS":
-        standard_weight = 3000
-    elif ship_type == "CL":
-        standard_weight = 7250
-    elif ship_type == "CA":
-        standard_weight = 8800
-    elif ship_type == "C":
-        standard_weight = 2500
-    elif ship_type == "DD":
-        standard_weight = 1500
-    elif ship_type == "D":
-        standard_weight = 800
-    elif ship_type == "ACR":
-        standard_weight = 9000
-    else:
-        standard_weight = 8800
 
-    if dev_year < 1900:
-        standard_weight = standard_weight * 0.8
-    elif dev_year < 1910:
-        standard_weight = standard_weight * 0.9
-    elif dev_year < 1920:
-        standard_weight = standard_weight * 1.0
-    elif dev_year < 1930:
-        standard_weight = standard_weight * 1.1
-    else:
-        standard_weight = standard_weight * 1.2
-    weapon_weight = weight/0.01
-    standard_weight = (weight - standard_weight-weapon_weight) * 0.5 + standard_weight
-    standard_cost = standard_weight * 0.02/hull_type
-    # standard_year = dev_year-1500
-    armor_value = armor_thickness * armor_type
-    if armor_value <= 0:
-        armor_value = 1 # Set a small positive value to avoid math domain error
-    armor_value = math.log(armor_value)
-    if dev_year < 1900:
-        result = weight*(weight-100) * 0.7 * armor_value * (hull_type*hull_type)
-    elif dev_year < 1920:
-        result = weight*(weight-100) * 0.75 * armor_value * (hull_type*hull_type)
-    elif dev_year < 1940:
-        result = weight*(weight-100) * 0.8 * armor_value * (hull_type*hull_type)
-    elif dev_year < 1960:
-        result = weight*(weight-100) * 0.85 * armor_value * (hull_type*hull_type)
-    elif dev_year < 1980:
-        result = weight*(weight-100) * 0.9 * armor_value * (hull_type*hull_type)
-    else:
-        result = weight*(weight-100) * 1.0 * armor_value * (hull_type*hull_type)
-    result = result * 0.000005
-    result = (result - standard_cost) * 0.3 + standard_cost
-    result = result/ 8
-    if result <= 0:
-        result = result * -1
-    result = math.floor(result * 100) / 100
+def ship_cost_generator(weight, dev_year):
+    result = weight * (dev_year-1800)/500
+    result = significant_figures(result, 2)
     return result
 
 def surface_visibility_converter(Length,Width,dev_year,fuel_type,ship_type):
-    result = 0
-    if ship_type == "IC":
-        standard_visibility = 10000
-    elif ship_type == "B":
-        standard_visibility = 12000
-    elif ship_type == "BC":
-        standard_visibility = 30000
-    elif ship_type == "BB":
-        standard_visibility = 35000
-    elif ship_type == "AC":
-        standard_visibility = 4000
-    elif ship_type == "CS":
-        standard_visibility = 3000
-    elif ship_type == "CL":
-        standard_visibility = 7250
-    elif ship_type == "CA":
-        standard_visibility = 8800
-    elif ship_type == "C":
-        standard_visibility = 2500
-    elif ship_type == "DD":
-        standard_visibility = 1500
-    elif ship_type == "D":
-        standard_visibility = 1000
-    elif ship_type == "ACR":
-        standard_visibility = 9000
-    else:
-        standard_visibility = 8800
-    standard_visibility = standard_visibility * 0.01
 
-    if dev_year < 1900:
-        result = (Length + Width)*(Length + Width) * 0.8 * fuel_type
-    elif dev_year < 1920:
-        result = (Length + Width)*(Length + Width) * 0.825 * fuel_type
-    elif dev_year < 1940:
-        result = (Length + Width)*(Length + Width) * 0.85 * fuel_type
-    elif dev_year < 1960:
-        result = (Length + Width)*(Length + Width) * 0.875 * fuel_type
-    elif dev_year < 1980:
-        result = (Length + Width)*(Length + Width) * 0.9 * fuel_type
+    standard_visibility = visibility_coefficient(ship_type)
+    result = extents(Length*Width,dev_year) * fuel_type
+    result = result * 0.00000005 * standard_visibility
+    result = significant_figures(result, 2)
+    return result
+
+def slot_maker(SLTOTYPE, SLOTNAME):
+    result = ""
+    if SLOTNAME == "":
+        SLOTNAME = "UNDEFINED"
+    global locked
+    global unlockable
+    if SLTOTYPE.isdecimal():
+        result = result + L2  +  SLOTNAME + " = {" + LE
+        result = result + L3 + "required = no" + LE
+        result = result + L3 + "allowed_module_categories = {" + LE
+        result = result + L3 + L1 + "SM_HNG_" + SLTOTYPE  +  LE
+        result = result + L3 + "}" + LE
+        result = result + L2 + "}" + LE
+        default_modules.append(SLOTNAME + " = SM_HNG_" + SLTOTYPE)
+    elif SLTOTYPE == "=":
+        unlockable += 1
+        result = result + L2 + "unlockable_slot_" + str(unlockable) + " = {" + LE
+        result = result + L3 + "required = yes" + LE
+        result = result + L3 + "allowed_module_categories = {" + LE
+        result = result + L3 + L1 + "Releasable_locking_modules" + LE
+        result = result + L3 + "}" + LE
+        result = result + L2 + "}" + LE
+        default_modules.append(L3 + "unlockable_slot_" + str(unlockable) + " = Releasable_locking_module" + LE)
+    elif SLTOTYPE == "-":
+        locked += 1
+        result = result + L2 + "locked_slot_" + str(locked) + " = {" + LE
+        result = result + L3 + "required = yes" + LE
+        result = result + L3 + "allowed_module_categories = {" + LE
+        result = result + L3 + L1 + "Non_releasable_locking_modules" + LE
+        result = result + L3 + "}" + LE
+        result = result + L2 + "}" + LE
+        default_modules.append(L3 + "locked_slot_" + str(locked) + " = Non_releasable_locking_module" + LE)
     else:
-        result = (Length + Width)*(Length + Width) * 1.0 * fuel_type
-    result = result * 0.000005 * standard_visibility
-    result = math.floor(result * 100) / 100
+        result = result + L2  +  SLOTNAME + " = {" + LE
+        result = result + L3 + "required = no" + LE
+        result = result + L3 + "allowed_module_categories = {" + LE
+        result = result + L4 + SLTOTYPE  +  LE
+        result = result + L3 + "}" + LE
+        result = result + L2 + "}" + LE
+        default_modules.append(L3  +  SLOTNAME + " = empty" + LE)
+
+    return result
+
+def add_archetype(archetype):
+    result = ""
+    return result
+
+def To_Code(ID,YEAR,archetype,TYPE,PA,SA,PSA,SSA,PLA,SLA,ALLW_TYPE,HP,ORG,COST,VISIVLE,manpower):
+    global locked
+    global unlockable
+    locked = 0
+    unlockable = 0
+    default_modules.clear()
+    # HULL FIXED TEXT
+    result = L1  +  ID + " = {" + LE
+    result = result + L1 + "year = " + YEAR  +  LE
+    result = result + L1 + "archetype = ship_hull_" + archetype  +  LE
+    result = result + L1 + "module_slots = {" + LE
+    # TYPE
+    result = result + L2 + "ship_type_slot = {" + LE
+    result = result + L3 + "required = yes" + LE
+    result = result + L3 + "allowed_module_categories = {" + LE
+    result = result + L4+ALLW_TYPE+"" + LE
+    result = result + L3 + "}" + LE
+    result = result + L2 + "}" + LE
+    # SLOT DEFINITION
+    # PRIMARY ARMAMENT
+    result = result + slot_maker(PA,"primary_armament_slot")
+    # SECONDARY ARMAMENT
+    result = result + slot_maker(SA,"secondary_armament_slot")
+    # PRIMARY SUB ARMAMENT
+    result = result + slot_maker(PSA,"primary_sub_armament_slot")
+    # SECONDARY SUB ARMAMENT
+    result = result + slot_maker(SSA,"secondary_sub_armament_slot")
+    # PRIMARY LIGHT ARMAMENT
+    result = result + slot_maker(PLA,"primary_light_armament_slot")
+    # SECONDARY LIGHT ARMAMENT
+    result = result + slot_maker(SLA,"secondary_light_armament_slot")
+
+    result = result + L1 + "}" + LE
+    # DEFAULT MODULES
+    result = result + L2 + "default_modules = {" + LE
+    result = result + L3 + "ship_type_slot = SRM_" + TYPE  +  LE
+    for module in default_modules:
+        result = result +L4+ module  +  LE
+    result = result + L2 + "}" + LE
+    result = result + L2 + "max_organisation = " + str(ORG)  +  LE
+    result = result + L2 + "max_strength = " + str(HP)  +  LE
+    result = result + L2 + "build_cost_ic = " + str(COST)  +  LE
+    result = result + L2 + "surface_visibility = " + str(VISIVLE)  +  LE
+    result = result + L2 + "resources = {" + LE
+    result = result + L3 + "steel = "+str(significant_figures(math.log2(COST), 0))+"" + LE
+    result = result + L2 + "}" + LE
+    result = result + L2 + "manpower = " + manpower  +  LE
+    result = result + L1 + "}" + LE
+
+
+
     return result

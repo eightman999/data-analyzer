@@ -1,0 +1,152 @@
+Ship,Country or organization,Class,Type,Displacement (tons),First commissioned,Fate
+I-1,JPN,Type J1,cruiser submarine,2791,10 March 1926,wrecked 29 January 1943
+I-2,JPN,Type J1,cruiser submarine,2791,24 July 1926,sunk 7 April 1944
+I-3,JPN,Type J1,cruiser submarine,2791,30 November 1926,sunk 9 December 1942
+I-4,JPN,Type J1,cruiser submarine,2791,24 December 1929,sunk 21 December 1942
+I-5,JPN,Type J1 Modified,submarine aircraft carrier,2921,31 July 1932,sunk 19 July 1944
+I-6,JPN,Type J2,submarine aircraft carrier,2921,15 May 1935,sunk 16 June 1944
+I-7,JPN,Type J3,submarine aircraft carrier,3583,31 March 1937,wrecked 22 June 1943
+I-8,JPN,Type J3,submarine aircraft carrier,3583,5 December 1938,sunk 31 March 1945
+I-9,JPN,Type A1,submarine aircraft carrier,4129,13 February 1941,sunk 13 June 1943
+I-10,JPN,Type A1,submarine aircraft carrier,4129,31 October 1941,sunk 4 July 1944
+I-11,JPN,Type A1,submarine aircraft carrier,4129,16 May 1942,missing after 11 January 1944
+I-12,JPN,Type A2,SS,4150,25 May 1944,sunk 13 November 1944
+I-13,JPN,Type A3,submarine aircraft carrier,4762,16 December 1944,sunk 16 July 1945
+I-14,JPN,Type A3,submarine aircraft carrier,4762,14 March 1945,sunk as target 28 May 1946
+I-15,JPN,Type B1,submarine aircraft carrier,3654,30 September 1940,sunk 10 November 1942
+I-16,JPN,Type C1,midget submarine-carrying submarine,3561,30 March 1940,sunk 19 May 1944
+I-17,JPN,Type B1,submarine aircraft carrier,3654,24 January 1941,sunk 19 August 1943
+I-18,JPN,Type C1,midget submarine-carrying submarine,3561,31 January 1941,sunk 11 February 1943
+I-19,JPN,Type B1,submarine aircraft carrier,3654,28 April 1941,sunk 25 November 1943
+I-20,JPN,Type C1,midget submarine-carrying submarine,3561,26 September 1940,missing after 31 August 1943
+I-21,JPN,Type B1,submarine aircraft carrier,3654,15 July 1941,sunk 29 November 1943
+I-22,JPN,Type C1,midget submarine-carrying submarine,3561,10 March 1941,sunk 6 October 1942
+I-23,JPN,Type B1,submarine aircraft carrier,3654,27 September 1941,missing after 24 February 1942
+I-24,JPN,Type C1,midget submarine-carrying submarine,3561,31 October 1941,sunk 1 June 1943
+I-25,JPN,Type B1,submarine aircraft carrier,3654,15 October 1941,sunk 3 September 1943
+I-26,JPN,Type B1,submarine aircraft carrier,3654,6 November 1941,sunk 26 October 1944
+I-27,JPN,Type B1,submarine aircraft carrier,3654,24 February 1942,sunk 12 February 1944
+I-28,JPN,Type B1,submarine aircraft carrier,3654,6 February 1942,sunk 17 May 1942
+I-29,JPN,Type B1,submarine aircraft carrier,3654,27 February 1942,sunk 26 July 1944
+I-30,JPN,Type B1,submarine aircraft carrier,3654,28 February 1942,sunk 13 October 1942
+I-31,JPN,Type B1,submarine aircraft carrier,3654,30 May 1942,sunk 13 May 1943
+I-32,JPN,Type B1,submarine aircraft carrier,3654,26 April 1942,sunk 24 March 1944
+I-33,JPN,Type B1,submarine aircraft carrier,3654,26 April 1942,sank in diving accident 13 June 1944
+I-34,JPN,Type B1,submarine aircraft carrier,3654,31 August 1942,sunk 13 November 1943
+I-35,JPN,Type B1,submarine aircraft carrier,3654,31 August 1942,sunk 23 November 1943
+I-36,JPN,Type B1,submarine aircraft carrier,3654,30 September 1942,scuttled 1 April 1946
+I-37,JPN,Type B1,submarine aircraft carrier,3654,10 March 1943,sunk 19 November 1944
+I-38,JPN,Type B1,submarine aircraft carrier,3654,31 January 1943,sunk 13 November 1944
+I-39,JPN,Type B1,submarine aircraft carrier,3654,22 April 1943,missing after 25 November 1943
+I-40,JPN,Type B2,SS,3700,31 July 1943,missing after 22 November 1943
+I-41,JPN,Type B2,SS,3700,18 September 1943,sunk 18 November 1944
+I-42,JPN,Type B2,SS,3700,3 November 1943,sunk 23 March 1944
+I-43,JPN,Type B2,SS,3700,5 November 1943,sunk 15 February 1944
+I-44,JPN,Type B2,SS,3700,31 January 1944,missing April 1945
+I-45,JPN,Type B2,SS,3700,28 December 1943,sunk 29 October 1944
+I-46,JPN,Type C2,SS,3621,29 February 1944,missing October 1944
+I-47,JPN,Type C2,SS,3621,10 July 1944,scuttled 1 April 1946
+I-48,JPN,Type C2,SS,3621,5 September 1944,sunk 23 January 1945
+I-52,JPN,Type C3,transport submarine,3644,28 December 1943,sunk 24 June 1944
+I-53,JPN,Type C3,SS,3644,20 February 1944,scuttled 1 April 1946
+I-54,JPN,Type B3,submarine aircraft carrier,3747,31 March 1944,missing after 23 October 1944
+I-55,JPN,Type C3,transport submarine,3644,20 April 1944,missing after 13 July 1944
+I-56,JPN,Type B3,submarine aircraft carrier,3747,8 June 1944,missing April 1945
+I-58,JPN,Type B3,submarine aircraft carrier,3747,7 September 1944,scuttled 1 April 1946
+I-60,JPN,KD3 type,cruiser submarine,2300,24 December 1929,sunk 17 January 1942
+I-64,JPN,KD4 type,cruiser submarine,2300,30 August 1930,sunk 17 May 1942
+I-70,JPN,KD6 type,cruiser submarine,2440,9 November 1935,sunk 10 December 1941
+I-73,JPN,KD6 type,cruiser submarine,2440,7 January 1937,sunk 27 January 1942
+I-121 (ex-I-21),JPN,Kiraisen type,minelayer submarine,1768,31 March 1927,scuttled 30 April 1946
+I-122 (ex-I-22),JPN,Kiraisen type,minelayer submarine,1768,28 October 1928,sunk 10 June 1945
+I-123 (ex-I-23),JPN,Kiraisen type,minelayer submarine,1768,28 April 1928,sunk 29 August 1942
+I-124 (ex-I-24),JPN,Kiraisen type,minelayer submarine,1768,10 December 1928,sunk 20 January 1942
+I-152 (ex-I-52),JPN,KD2 type,training submarine,2500,1 November 1924,Scrapped 1946–1948
+I-153 (ex-I-53),JPN,KD3A type,SS,2300,30 March 1927,Scuttled May 1946
+I-154 (ex-I-54),JPN,KD3A type,SS,2300,15 December 1927,Scuttled May 1946
+I-155 (ex-I-55),JPN,KD3A type,SS,2300,5 September 1927,Scuttled 8 May 1946
+I-156 (ex-I-56),JPN,KD3B type,SS,2300,31 March 1929,Scuttled 1 April 1946
+I-157 (ex-I-57),JPN,KD3B type,SS,2300,15 May 1928,Scuttled 1 April 1946
+I-158 (ex-I-58),JPN,KD3A type,SS,2300,24 December 1929,Scuttled 1 April 1946
+I-159 (ex-I-59),JPN,KD3B type,SS,2300,31 March 1930,Scuttled 1 April 1946
+I-162 (ex-I-62),JPN,KD4 type,SS,2300,24 April 1930,Scuttled 1 April 1946
+I-165 (ex-I-65),JPN,KD5 type,SS,2330,1 December 1932,Sunk 27 June 1945
+I-166 (ex-I-66),JPN,KD5 type,SS,2330,10 November 1932,Sunk 17 July 1944
+I-168 (ex-I-68),JPN,KD6 type,cruiser submarine,2440,31 July 1934,Sunk 27 July 1943
+I-169 (ex-I-69),JPN,KD6 type,cruiser submarine,2440,28 September 1935,Sank in diving accident 4 April 1944
+I-171 (ex-I-71),JPN,KD6 type,cruiser submarine,2440,24 December 1935,Sunk 1 February 1944
+I-172 (ex-I-72),JPN,KD6 type,cruiser submarine,2440,7 January 1937,Sunk October–November 1942
+I-174 (ex-I-74),JPN,KD6 type,cruiser submarine,2440,15 August 1938,Sunk 12 April 1944
+I-175 (ex-I-75),JPN,KD6 type,cruiser submarine,2440,8 December 1938,Sunk 4 February 1944
+I-176,JPN,KD7 type,cruiser submarine,2602,4 August 1942,Sunk 16 May 1944
+I-177,JPN,KD7 type,cruiser submarine,2602,28 December 1942,Sunk 3 October 1944
+I-178,JPN,KD7 type,cruiser submarine,2602,26 December 1942,Missing June 1943
+I-179,JPN,KD7 type,cruiser submarine,2602,18 June 1943,Sank accidentally 14 July 1944
+I-180,JPN,KD7 type,cruiser submarine,2602,15 January 1943,Sunk 27 April 1944
+I-181,JPN,KD7 type,cruiser submarine,2602,24 May 1943,Wrecked 16 January 1944
+I-182,JPN,KD7 type,cruiser submarine,2602,10 May 1943,Sunk 1 September 1944
+I-183,JPN,KD7 type,cruiser submarine,2602,3 October 1943,Sunk 29 April 1944
+I-184,JPN,KD7 type,cruiser submarine,2602,15 October 1943,Sunk 19 June 1944
+I-185,JPN,KD7 type,cruiser submarine,2602,23 September 1943,Sunk 22 June 1944
+I-201,JPN,Sentaka type,SS,1479,2 February 1945,sunk as target 23 May 1946
+I-202,JPN,Sentaka type,SS,1479,12 February 1945,scuttled 5 April 1946
+I-203,JPN,Sentaka type,SS,1479,29 May 1945,sunk as target 21 May 1946
+I-351,JPN,Senho type,submarine tanker,4290,28 January 1945,sunk 14 July 1945
+I-361,JPN,Type D1,transport submarine/kaiten carrier,2215,25 May 1944,sunk 31 May 1945
+I-362,JPN,Type D1,transport submarine,2215,23 May 1944,sunk 14 January 1945
+I-363,JPN,Type D1,transport submarine/kaiten carrier,2215,8 July 1944,sunk 29 October 1945
+I-364,JPN,Type D1,transport submarine,2215,14 June 1944,sunk 16 September 1944
+I-365,JPN,Type D1,transport submarine,2215,1 August 1944,sunk 29 November 1944
+I-366,JPN,Type D1,transport submarine/kaiten carrier,2215,15 August 1944,scuttled 1 April 1946
+I-367,JPN,Type D1,transport submarine/kaiten carrier,2215,3 August 1944,scuttled 1 April 1946
+I-368,JPN,Type D1,transport submarine/kaiten carrier,2215,25 August 1944,sunk 26 February 1945
+I-369,JPN,Type D1,transport submarine,2215,9 October 1944,scrapped 1946
+I-370,JPN,Type D1,transport submarine/kaiten carrier,2215,4 September 1944,sunk 26 February 1945
+I-371,JPN,Type D1,transport submarine,2215,2 October 1944,missing February 1945
+I-372,JPN,Type D1,transport submarine,2215,8 November 1944,sunk 18 July 1945
+I-373,JPN,Type D2,transport/tanker submarine,2240,14 April 1945,sunk 14 August 1945
+I-400,JPN,Sentoku type,submarine aircraft carrier,6560,30 December 1944,sunk as target 4 June 1946
+I-401,JPN,Sentoku type,submarine aircraft carrier,6560,8 January 1945,sunk as target 31 May 1946
+I-402,JPN,Sentoku type,submarine tanker,6560,24 July 1945,scuttled 1 April 1946
+I-501 (ex-U-181),JPN,Type IXD2,SS,1771,16 July 1945,Scuttled 12 February 1946
+I-502 (ex-U-862),JPN,Type IXD2,SS,1771,15 July 1945,Scuttled 13 February 1946
+"I-503 (ex-Comandante Cappellini, ex-UIT-24)",JPN,Marcello-class,SS,1313,10 May 1945,Scuttled 16 April 1946
+"I-504 (ex-Luigi Torelli, ex-UIT-25)",JPN,Marconi-class,SS,1400,10 May 1945,Scuttled 16 April 1946
+I-505 (ex-U-219),JPN,Type X,minelayer submarine,2143,15 July 1945,Scuttled 3 February 1946
+I-506 (ex-U-195),JPN,Type IXD1,SS,1771,15 July 1945,Scuttled 15 February 1946
+Icarus,ENG,I,minelayer destroyer,1370,3 May 1937,"paid off 29 August 1946, scrapped 29 October 1946."
+Ierax,Hellenic Navy,Aetos,DD,1030,19 October 1912,Decommissioned 1946
+Ilex,ENG,I,minelayer destroyer,1370,7 July 1937,"paid off August, scrapped in Sicily 1948."
+Illustrious,ENG,Illustrious,CV,23000,25 May 1940,scrapped 1956
+Ilmarinen,Finland,Väinämöinen,coastal defence ship,3900,17 April 1934,sunk 13 September 1941
+Iltis,GER,Raubtier,torpedo boat,1320,1 October 1928,sunk 13 May 1942
+Imogen,ENG,I,minelayer destroyer,1370,2 June 1937,sunk in collision 16 July 1940
+Imperial,ENG,I,minelayer destroyer,1370,30 June 1937,sunk 29 May 1941
+Implacable,ENG,Implacable,CV,23825,28 August 1944,scrapped 1955
+Impulsive,ENG,I,minelayer destroyer,1370,29 January 1938,"paid off 1946, scrapped 22 January 1946."
+Inch Arran,Royal Canadian Navy,River,FF,1445,18 November 1944,paid off 23 June 1965
+Indefatigable,ENG,Implacable,CV,23825,3 May 1944,scrapped 1956
+Independence,USA,Independence,CVL,11000,14 January 1943,"decommissioned 28 August 1946, target ship scuttled 1951"
+Independencia,Argentine Navy,Libertad,riverine battleship,2336,5 March 1892,Stricken 1951
+Indiana,USA,South Dakota,BB,35000,30 April 1942,"decommissioned 11 September 1947, scrapped 1963"
+Indianapolis,USA,Portland,CA,9800,15 November 1932,sunk 30 July 1945
+Indomitable,ENG,Illustrious,CV,23000,10 October 1941,scrapped 1955
+Indus,Royal Indian Navy,Grimsby,SL,1210,15 March 1935,sunk 6 April 1942
+Inglefield,ENG,I,minelayer destroyer,1370,25 June 1937,sunk 25 February 1944
+Ingolf,Royal Danish Navy,,PB,1180,1934,"seized by Germany in August 1943, renamed Sleipner, later sunk in air raid[5]"
+Ingraham,USA,Gleaves,DD,1630,19 July 1941,sunk 22 August 1942
+Intensity,USA,Flower modified,K,1015,31 March 1943,paid off 3 October 1945
+Intrepid,USA,Essex,CV,27100,16 August 1943,"decommissioned 15 March 1974, museum ship"
+Intrepid,ENG,I,minelayer destroyer,1370,29 July 1937,sunk 26 September 1943
+Investigator,Indian Navy,,survey ship,1572,,"decommissioned 1951, scrapped"
+Iowa,USA,Iowa,BB,45000,22 February 1943,"decommissioned 1990, museum"
+Irene Forsyte,USA,,Q-ship,283,26 August 1943,16 December 1943
+Iroquois,Royal Canadian Navy,Tribal,DD,2020,30 November 1942,"paid off 24 October 1962, scrapped 1966"
+Isaac Sweers,Royal Netherlands Navy,Gerard Callenburgh,DD,1606,29 May 1941,Sunk 13 November 1942
+Ise,JPN,Ise,dreadnought,36000,1917,sunk 28 July 1945
+Isis,ENG,I,minelayer destroyer,1370,2 June 1937,sunk 20 July 1944.
+Isuzu,JPN,Nagara,CL,5088,15 August 1923,Sunk 7 April 1945
+Ivanhoe,ENG,I,minelayer destroyer,1370,24 August 1937,sunk 1 September 1940
+Ivy,ENG,Flower,K,925,,
+Iwate,JPN,Izumo,armored cruiser,9750,18 March 1901,sunk 26 July 1945
+Izumo,JPN,Izumo,armored cruiser,9750,25 September 1900,sunk 24 July 1945
