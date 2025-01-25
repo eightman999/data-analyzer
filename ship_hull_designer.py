@@ -1,13 +1,12 @@
 from sys import meta_path
 
+from tools.japanese_tools import convert_name
+
 import system.converter as converter
 import tkinter as tk
 from tkinter import filedialog
 import csv
 
-from system.converter import add_archetype
-from system.tools.nakaten_delete import convert_name
-from system.tools.declaration import copylight
 
 def select_csv_file():
     root = tk.Tk()
