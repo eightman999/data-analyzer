@@ -1,3 +1,0 @@
-([('mult_repracer',
-   '/Users/eightman/Desktop/趣味・同好会/data analyzer/dist/mult_repracer',
-   'EXECUTABLE')],)

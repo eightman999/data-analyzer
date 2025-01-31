@@ -1,8 +1,6 @@
-from sys import meta_path
-
 from tools.japanese_tools import convert_name
 
-import system.converter as converter
+import utils.converter as converter
 import tkinter as tk
 from tkinter import filedialog
 import csv
@@ -81,7 +79,7 @@ def make_ship_hull(data):
                           COST,
                           VISIVLE
                           ))
-        data_for_hull = converter.To_Code(row[1],row[18],archetype,row[20],row[21],row[22],row[23],row[24],row[25],row[26],row[27],HP,ORG,COST,VISIVLE,row[15])
+        data_for_hull = converter.To_Code(row[1], row[18], archetype, row[20], row[21], row[22], row[23], row[24], row[25], row[26], row[27], HP, ORG, COST, VISIVLE, row[15])
         if archetype not in archetype_data:
             archetype_data[archetype] = []
 
