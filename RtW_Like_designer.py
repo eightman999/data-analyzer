@@ -4,8 +4,7 @@ from tkinter import ttk, filedialog, messagebox
 from PIL import Image, ImageDraw
 from pdx_tools.pdx_ssw import ship_types, role_types
 
-import utils.graphic as turret
-from utils.actions import zoom
+import utils.graphic.turret
 
 str_c = "コスト"
 str_w = "重量"
@@ -125,9 +124,9 @@ class ShipDesignerApp(tk.Tk):
         self.side_view_button = tk.Button(self.graphics_frame, text="横面")
 
         # 「+」「-」ボタンを作成
-        self.plus_button = tk.Button(self.graphics_frame, text="+", command=zoom.zoom_in(self))
+        self.plus_button = tk.Button(self.graphics_frame, text="+", command=self.zoom_in)
         self.plus_button.pack(side=tk.TOP, fill=tk.X)
-        self.minus_button = tk.Button(self.graphics_frame, text="-", command=zoom.zoom_out(self))
+        self.minus_button = tk.Button(self.graphics_frame, text="-", command=self.zoom_out)
         self.minus_button.pack(side=tk.TOP, fill=tk.X)
 
         # Graphics area
@@ -147,7 +146,20 @@ class ShipDesignerApp(tk.Tk):
 
         # 右側：タブで切り替えられる詳細設定
         self.create_tabbed_interface(self.lower_panel)
+
     #中央の♦️を描画
+
+    def zoom_in(self):
+        """Increase the zoom scale and update the canvas."""
+        self.zoom_scale += 0.2  # Increase zoom scale
+        self.update_lines()  # Redraw the canvas
+
+    def zoom_out(self):
+        """Decrease the zoom scale (without going below a limit) and update the canvas."""
+        if self.zoom_scale > 2.5:  # Ensure zoom level stays above 2.5
+            self.zoom_scale -= 0.2  # Decrease zoom scale
+        self.update_lines()  # Redraw the canvas
+
     def draw_diamond(self):
         canvas_width = self.graphics_canvas.winfo_width()
         canvas_height = self.graphics_canvas.winfo_height()
@@ -521,7 +533,7 @@ class ShipDesignerApp(tk.Tk):
         # 口径
         tk.Label(main_guns_frame, text="口径").grid(row=0, column=0, sticky=tk.W, pady=5)
         tk.Spinbox(main_guns_frame, from_=0, to=100).grid(row=0, column=1)
-        tk.Button(main_guns_frame, text="砲塔データ", command=turret.show_turret_data(self)).grid(row=0, column=2)
+        tk.Button(main_guns_frame, text="砲塔データ", command=utils.graphic.turret.show_turret_data(self)).grid(row=0, column=2)
 
         # 主砲詳細
         tree_frame = tk.Frame(main_guns_frame)

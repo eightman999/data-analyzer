@@ -10,7 +10,8 @@ def show_turret_data(self):
     data = []
 
     # .smファイルがあるディレクトリを指定
-    modules_dir = 'system/database/modules'
+    base_dir = os.path.dirname(__file__)
+    modules_dir = os.path.abspath(os.path.join(base_dir, '..', 'database', 'modules'))
     for file_name in os.listdir(modules_dir):
         if file_name.endswith('.shm'):
             with open(os.path.join(modules_dir, file_name), 'r', encoding='utf-8') as file:
