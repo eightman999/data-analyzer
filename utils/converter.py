@@ -1,13 +1,11 @@
-from datetime import datetime
 import math
 
 from tools.calc import significant_figures
 from tools.line_tools import L2, L3, L1, LE, L4
 
-from system.coefficient.cost_inclination import ship_type_coefficient
-from system.coefficient.hit_point_inclination import armor_inclination, standard_inclination
-from system.coefficient.visibility_inclination import visibility_coefficient, extents
-from system.tools.HP_tools import year_to_tech_level, default_hitpoint
+from utils.coefficient.hit_point_inclination import armor_inclination, standard_inclination
+from utils.coefficient.visibility_inclination import visibility_coefficient, extents
+from utils.tools.HP_tools import year_to_tech_level, default_hitpoint
 
 global locked
 global unlockable

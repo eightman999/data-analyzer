@@ -291,7 +291,7 @@ class FleetDesignerApp:
         if not version_name:
             return  # Do not proceed if 'version_name' is empty
 
-        design_file = 'system/database/design/converted__ssw_variants_navy.csv'
+        design_file = 'utils/database/design/converted__ssw_variants_navy.csv'
         elements = []
 
         with open(design_file, newline='') as csvfile:

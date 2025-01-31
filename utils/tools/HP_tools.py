@@ -1,6 +1,6 @@
 import math
 
-from system.coefficient.hit_point_inclination import dev_year_inclination
+from utils.coefficient.hit_point_inclination import dev_year_inclination
 
 
 def default_hitpoints(manpower,hull_type,armor_value):
