@@ -12,7 +12,7 @@ st_a = "追加"
 
 # メインアプリケーション
 class ShipDesignerApp(tk.Tk):
-    
+
     def __init__(self):
         super().__init__()
         self.tier_var = None
