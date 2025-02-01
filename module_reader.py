@@ -1,14 +1,11 @@
 import re
 import csv
 import os
-from tkinter import Tk, filedialog
+
+from utils.actions.select_directory import select_directory
 
 # Function to select directory using a dialog
-def select_directory():
-    root = Tk()
-    root.withdraw()  # Hide the root window
-    directory = filedialog.askdirectory(title="Select Directory Containing Equipment Files")
-    return directory
+
 
 # Prompt user to select a directory containing equipment files
 directory_path = select_directory()
@@ -17,7 +14,7 @@ if not directory_path:
     exit()
 
 # Output file path
-output_file_path = os.path.join("database/modules", 'equipment_modules.csv')
+output_file_path = os.path.join("utils/database/modules", 'equipment_modules.csv')
 
 # Regular expressions to parse the files
 module_pattern = re.compile(r'(\w+)\s*=\s*{')

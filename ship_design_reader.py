@@ -4,15 +4,15 @@ import os
 from tkinter import Tk
 from tkinter.filedialog import askopenfilename
 
-# Display file selection dialog
-Tk().withdraw()  # Hide Tkinter main window
-input_file = askopenfilename(title="Select input file")
+from utils.actions.select_directory import select_directory
+
+input_file = select_directory()
 
 # Get the directory and filename of the selected file
 input_dir = os.path.dirname(input_file)
 input_filename = os.path.basename(input_file)
 output_filename = f"converted_{os.path.splitext(input_filename)[0]}.csv"
-output_file = os.path.join('database/design', output_filename)
+output_file = os.path.join('utils/database/design', output_filename)
 
 # List to store results
 results = []
