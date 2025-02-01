@@ -166,7 +166,6 @@ class FleetDesignerApp:
             self.display_ship_details(self.tree.item(selected_item, "text"))
             self.show_design_button()
 
-
     def display_task_forces(self, fleet_node):
         taskforces = [self.tree.item(child, "text") for child in self.tree.get_children(fleet_node)]
         info = f"F/TF:\n {'\n '.join(taskforces)}"
@@ -376,7 +375,6 @@ class FleetDesignerApp:
 
         save_button = tk.Button(design_window, text="Save", command=save_changes)
         save_button.pack(side=tk.BOTTOM)
-
 
 
 
