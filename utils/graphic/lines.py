@@ -85,11 +85,13 @@ class Triangle:
             "border_color": self.border_color  # (r, g, b)形式
         }
 
-
 def hex_to_rgb(hex_color):
     """
     16進数カラーコードをR, G, B (10進数)タプルに変換
     """
+    if not isinstance(hex_color, str) or len(hex_color) not in (6, 7) or not hex_color.lstrip('#').isalnum():
+        raise ValueError("Invalid hex color format")
+
     hex_color = hex_color.lstrip('#')
     if len(hex_color) == 6:  # 有効な6桁カラーコードの処理
         return tuple(int(hex_color[i:i + 2], 16) for i in (0, 2, 4))

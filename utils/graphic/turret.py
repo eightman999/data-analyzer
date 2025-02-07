@@ -1,15 +1,13 @@
 import json
 import os
 import tkinter as tk
-import utils as turret_figure
 from tkinter import ttk, messagebox
-
+from PIL import Image
 
 def show_turret_data(self):
     tier = self.tier_var.get()
     data = []
 
-    # .smファイルがあるディレクトリを指定
     base_dir = os.path.dirname(__file__)
     modules_dir = os.path.abspath(os.path.join(base_dir, '..', 'database', 'modules'))
     for file_name in os.listdir(modules_dir):
@@ -17,23 +15,16 @@ def show_turret_data(self):
             with open(os.path.join(modules_dir, file_name), 'r', encoding='utf-8') as file:
                 try:
                     json_data = json.load(file)
-
-                    # データがリストの場合
                     if isinstance(json_data, list):
                         for item in json_data:
-                            if isinstance(item, dict):  # 各要素が辞書型であることを確認
+                            if isinstance(item, dict):
                                 if item.get('type') == 'main_gun' and (not tier or item.get('tier') == tier):
                                     data.append(item)
-
-                    # データが辞書の場合
                     elif isinstance(json_data, dict):
                         if json_data.get('type') == 'main_gun' and (not tier or json_data.get('tier') == tier):
                             data.append(json_data)
-
-                    # 他の形式の場合は警告を表示
                     else:
                         messagebox.showwarning("Warning", f"Unexpected data format in {file_name}")
-
                 except json.JSONDecodeError:
                     messagebox.showerror("Error", f"Failed to parse {file_name}")
 
@@ -41,7 +32,6 @@ def show_turret_data(self):
         messagebox.showinfo("No Data", "No matching data found.")
         return
 
-    # データを表示するためのダイアログを作成
     dialog = tk.Toplevel(self)
     dialog.title("砲塔データ")
     dialog.geometry("600x400")
@@ -60,12 +50,12 @@ def show_turret_data(self):
             item.get("manpower", ""),
             item.get("description", "")
         ])
+
     def on_select():
         selected_item = tree.selection()[0]
         item_data = tree.item(selected_item, "values")
         selected_data = next(item for item in data if item["name"] == item_data[0])
 
-        # Create a dialog to determine x and y positions
         xy_dialog = tk.Toplevel(self)
         xy_dialog.title("XY位置決定")
         tk.Label(xy_dialog, text="X位置:").grid(row=0, column=0)
@@ -74,35 +64,56 @@ def show_turret_data(self):
         tk.Label(xy_dialog, text="Y位置:").grid(row=1, column=0)
         y_entry = tk.Entry(xy_dialog)
         y_entry.grid(row=1, column=1)
+        tk.Label(xy_dialog, text="角度").grid(row=2, column=0, columnspan=2)
+        degree_entry = tk.Entry(xy_dialog)
+        degree_entry.grid(row=2, column=1)
 
         def on_xy_confirm():
-            x = x_entry.get()
-            y = y_entry.get()
-            # .smファイルのline_graphicを参照
-            line_graphics = selected_data.get("line_graphic", [])
-            turret_figure.to_data(self,line_graphics,x,y)
-            print(self.armocircles)
-            print(self.armotrapezoids)
-            print(self.armotriangles)
-            if x and y:
-                self.details_list.insert(
-                    "", "end",
-                    values=(f"x:{x}-y:{y}", selected_data["barrel_mount"], selected_data["weight"], selected_data["manpower"])
-                )
+            try:
+                x = float(x_entry.get())
+                y = float(y_entry.get())
+                deg = float(degree_entry.get())
+            except ValueError:
+                messagebox.showerror("Error", "Invalid X or Y position. Please enter numeric values.")
+                return
+            graphics_image = selected_data.get("graphics", {}).get("image")
+            pixel_per_meter = selected_data.get("graphics", {}).get("pixel_per_meter")
+            if not graphics_image or not pixel_per_meter:
+                messagebox.showerror("Error", "Graphics or scaling data missing in the selected item.")
+                return
 
-                xy_dialog.destroy()
-                dialog.destroy()
+            try:
+                image_file_path = os.path.join(modules_dir, graphics_image)
+                with Image.open(image_file_path) as img:
+                    original_width, original_height = img.size
+                    scaled_width = int(original_width * pixel_per_meter)
+                    scaled_height = int(original_height * pixel_per_meter)
 
-        tk.Button(xy_dialog, text="決定", command=on_xy_confirm).grid(row=2, column=0, columnspan=2)
-    def on_conf_select():
+                self.armo_images.append({
+                    "image_name": graphics_image,
+                    "scaled_width": scaled_width,
+                    "scaled_height": scaled_height,
+                    "position": {"x": x-(scaled_width/2), "y": y-(scaled_height/2)},
+                    "angle": deg
+                })
+            except Exception as e:
+                messagebox.showerror("Error", f"Failed to process image or scaling: {e}")
+                return
 
-        pass
+            self.details_list.insert(
+                "", "end",
+                values=(f"x:{x}-y:{y}", selected_data["barrel_mount"], selected_data["weight"], selected_data["manpower"])
+            )
+
+            xy_dialog.destroy()
+            dialog.destroy()
+
+        tk.Button(xy_dialog, text="決定", command=on_xy_confirm).grid(row=3, column=0, columnspan=2)
+
     tree.pack(expand=True, fill=tk.BOTH)
 
-    select_button = tk.Button(dialog, text="選択", state=tk.DISABLED,command = on_select)
+    select_button = tk.Button(dialog, text="選択", state=tk.DISABLED, command=on_select)
     select_button.pack(side=tk.BOTTOM, pady=10)
-    config_button = tk.Button(dialog, text="設定",state=tk.DISABLED, command=on_conf_select)
-    config_button.pack(side=tk.BOTTOM, pady=10)
 
     def on_item_select(event):
         select_button.config(state=tk.NORMAL)

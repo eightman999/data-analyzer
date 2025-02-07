@@ -1,173 +1,21 @@
 {
   "type": "main_gun",
-  "name": "test-Mark I 40.6cm",
+  "name": "420mm SK L/4TC/4",
   "tier": 1,
   "manpower": 20,
   "year": 1922,
-  "description": "これはテスト用のネルソン風主砲で、なんの攻撃もできない。",
-  "barrel_mount": 3,
+  "description": "これはテスト用のドイツ風主砲で、なんの攻撃もできない。",
+  "barrel_mount": 2,
   "weight": 100,
   "status": {
     "hg_atk": 0,
     "hg_ap": 0
   },
   "graphics": {
-    "icon": "test-Mark_I_40_6cm-icon.png",
-    "image": "test-Mark_I_40_6cm-image.png"
-  },
-  "line_graphic": [
-    {
-      "name": "barb",
-      "type": "circle",
-      "horizontal_radius": 6.2,
-      "vertical_radius": 6.2,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "turret",
-      "type": "trapezoid",
-      "top": 7.7,
-      "bottom": 10.6,
-      "height": 4.8,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "turret_1",
-      "type": "trapezoid",
-      "top": 10.6,
-      "bottom": 10.6,
-      "height": -6.2,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "turret_2",
-      "type": "trapezoid",
-      "top": 10.6,
-      "bottom": 5,
-      "height": -1.7,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": -6.2
-    },
-    {
-      "name": "barrel_1",
-      "type": "trapezoid",
-      "top": 0.6,
-      "bottom": 0.6,
-      "height": 18.852,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "barrel_2",
-      "type": "trapezoid",
-      "top": 0.6,
-      "bottom": 0.6,
-      "height": 18.852,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 1.5,
-      "y": 0
-    },
-    {
-      "name": "barrel_3",
-      "type": "trapezoid",
-      "top": 0.6,
-      "bottom": 0.6,
-      "height": 18.852,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": -1.5,
-      "y": 0
-    },
-    {
-      "name": "barrel_1b",
-      "type": "trapezoid",
-      "top": 0.8,
-      "bottom": 0.8,
-      "height": 4,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "barrel_2b",
-      "type": "trapezoid",
-      "top": 0.8,
-      "bottom": 0.8,
-      "height": 4,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 1.5,
-      "y": 0
-    },
-    {
-      "name": "barrel_3b",
-      "type": "trapezoid",
-      "top": 0.8,
-      "bottom": 0.8,
-      "height": 4,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": -1.5,
-      "y": 0
-    },
-    {
-      "name": "turret_3",
-      "type": "trapezoid",
-      "top": 12.6,
-      "bottom": 12.6,
-      "height": 1.6,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": -5.6
-    },
-    {
-      "name": "turret_1b",
-      "type": "trapezoid",
-      "top": 8,
-      "bottom": 8,
-      "height": -6.2,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": -0.1
-    },
-    {
-      "name": "turret_2b",
-      "type": "trapezoid",
-      "top": 5.4,
-      "bottom": 8,
-      "height": 4,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": 0
-    },
-    {
-      "name": "turret_2",
-      "type": "trapezoid",
-      "top": 8,
-      "bottom": 5,
-      "height": -1.7,
-      "rgb": "#cccccc",
-      "border": "true",
-      "x": 0,
-      "y": -6.2
-    }
-  ]
+    "image": "420skl4tc.png",
+    "icon": "icon.png",
+    "pixel_per_meter": 0.1524,
+    "center_x": 44,
+    "center_y": 126
+  }
 }

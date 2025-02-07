@@ -1,7 +1,8 @@
+import os
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 
-from PIL import Image, ImageDraw
+from PIL import Image, ImageDraw, ImageTk
 from pdx_tools.pdx_ssw import ship_types, role_types
 
 import utils.graphic.turret
@@ -67,9 +68,7 @@ class ShipDesignerApp(tk.Tk):
         self.trapezoids = []
         self.triangles = []
         self.circles = []
-        self.armotrapezoids = []
-        self.armotriangles = []
-        self.armocircles = []
+        self.armo_images = []
         self.tier_var = tk.StringVar()
 
         # メインフレーム
@@ -147,7 +146,7 @@ class ShipDesignerApp(tk.Tk):
         # 右側：タブで切り替えられる詳細設定
         self.create_tabbed_interface(self.lower_panel)
 
-    #中央の♦️を描画
+
 
     def zoom_in(self):
         """Increase the zoom scale and update the canvas."""
@@ -159,13 +158,13 @@ class ShipDesignerApp(tk.Tk):
         if self.zoom_scale > 2.5:  # Ensure zoom level stays above 2.5
             self.zoom_scale -= 0.2  # Decrease zoom scale
         self.update_lines()  # Redraw the canvas
-
+    #中央の♦️を描画
     def draw_diamond(self):
         canvas_width = self.graphics_canvas.winfo_width()
         canvas_height = self.graphics_canvas.winfo_height()
         center_x = canvas_width // 2
         center_y = canvas_height // 2
-        size = 20  # Size of the diamond
+        size = 2*self.zoom_scale  # Size of the diamond
 
         points = [
             center_x, center_y - size,  # Top
@@ -316,15 +315,32 @@ class ShipDesignerApp(tk.Tk):
             self.draw_triangle(triangle)
         for circle in self.circles:
             self.draw_circle(circle)
-        for circle in self.armocircles:
-            self.draw_circle(circle)
-        for triangle in self.armotriangles:
-            self.draw_triangle(triangle)
-        for trapezoid in self.armotrapezoids:
-            self.draw_trapezoid(trapezoid)
+        for image in self.armo_images:
+            self.draw_images()
+        # self.draw_diamond()
 
-
-        self.draw_diamond()
+    def draw_images(self):
+        modules_dir = "utils/database/modules"
+        canvas_center_x = self.graphics_canvas.winfo_width() // 2
+        canvas_center_y = self.graphics_canvas.winfo_height() // 2
+        for image in self.armo_images:
+            image_path = os.path.join(modules_dir, image["image_name"])
+            scaled_width = int(image["scaled_width"] * self.zoom_scale)
+            scaled_height = int(image["scaled_height"] * self.zoom_scale)
+            x = int(image["position"]["x"] * self.zoom_scale) + canvas_center_x
+            y = int(image["position"]["y"] * self.zoom_scale) + canvas_center_y
+            ang = image["angle"]
+            try:
+                img = Image.open(image_path)
+                img = img.resize((scaled_width, scaled_height), Image.Resampling.LANCZOS)
+                img = img.rotate(ang, expand=True)  # 画像を指定された角度で回転
+                tk_img = ImageTk.PhotoImage(img)
+                self.graphics_canvas.create_image(x, y, image=tk_img, anchor=tk.NW)
+                if not hasattr(self.graphics_canvas, 'images'):
+                    self.graphics_canvas.images = []
+                self.graphics_canvas.images.append(tk_img)  # 参照を保持してガベージコレクションを防ぐ
+            except Exception as e:
+                messagebox.showerror("Error", f"Failed to load image: {e}")
     #マウスホイールの対応
     def _on_mousewheel(self, event):
         if event.num == 4 or event.delta > 0:  # Scroll up
@@ -523,7 +539,8 @@ class ShipDesignerApp(tk.Tk):
         self.create_aa_guns_section(parent)
         self.create_secondary_guns_section(parent)
         self.create_tertiary_guns_section(parent)
-
+    def show_turret(self):
+        utils.show_turret_data(self)
     #主砲セクション
     def create_main_guns_section(self, parent):
         # 主武装セクション (左上)
@@ -533,7 +550,7 @@ class ShipDesignerApp(tk.Tk):
         # 口径
         tk.Label(main_guns_frame, text="口径").grid(row=0, column=0, sticky=tk.W, pady=5)
         tk.Spinbox(main_guns_frame, from_=0, to=100).grid(row=0, column=1)
-        tk.Button(main_guns_frame, text="砲塔データ", command=utils.graphic.turret.show_turret_data(self)).grid(row=0, column=2)
+        tk.Button(main_guns_frame, text="砲塔データ", command=self.show_turret).grid(row=0, column=2)
 
         # 主砲詳細
         tree_frame = tk.Frame(main_guns_frame)
