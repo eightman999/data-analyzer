@@ -147,7 +147,6 @@ class ShipDesignerApp(tk.Tk):
         self.create_tabbed_interface(self.lower_panel)
 
 
-
     def zoom_in(self):
         """Increase the zoom scale and update the canvas."""
         self.zoom_scale += 0.2  # Increase zoom scale
